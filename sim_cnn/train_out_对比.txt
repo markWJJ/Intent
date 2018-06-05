@@ -1,0 +1,1231 @@
+释义项定义		理赔医院		bos sy eos bos sy eos
+释义项定义		other		bos sy eos bos sy eos
+释义项定义		情景的定义		bos qj eos bos qj eos
+释义项定义		公司经营状况		bos sy eos bos sy eos
+释义项定义		询问公司介绍		bos sy eos bos sy eos
+释义项定义		释义项的定义		bos qj eos bos qj eos
+释义项定义		释义项的定义		bos sy eos bos sy eos
+释义项定义		询问缴费年期		bos sy eos bos sy eos
+释义项定义		询问现金价值		bos sy eos bos sy eos
+释义项定义		询问增值服务内容		bos sy eos bos sy eos
+释义项的定义		保障项目的定义		bos bxj eos bos bxj eos
+保额限制		产品保额限制		bos 限 额 eos bos 限 额 eos
+释义项定义		释义项的定义		bos 优 步 eos bos 优 步 eos
+释义项定义		释义项的定义		bos 租 车 eos bos 租 车 eos
+释义项定义		释义项的定义		bos 健 康 eos bos 健 康 eos
+公司介绍		询问公司介绍		bos 官 微 eos bos 官 微 eos
+释义项定义		释义项的定义		bos 医 疗 eos bos 医 疗 eos
+询问增值服务内容		询问联系方式		bos 客 服 eos bos 客 服 eos
+释义项定义		释义项的定义		bos 全 残 eos bos 全 残 eos
+释义项定义		释义项的定义		bos 孕 妇 eos bos 孕 妇 eos
+释义项定义		某情景下全残或身故赔偿		bos sy eos bos sy eos
+other		询问增值服务内容		bos 导 医 eos bos 导 医 eos
+某情景是否在承保范围内				bos jb 保 不 保 eos bos jb 保 不 保 eos
+释义项定义		某种疾病是否在承保范围内		bos sy eos bos sy eos
+释义项定义		询问合作医院		bos 麻 醉 科 eos bos 麻 醉 科 eos
+释义项定义		释义项的定义		bos 麻 醉 科 eos bos 麻 醉 科 eos
+释义项定义		释义项的定义		bos 病 理 科 eos bos 病 理 科 eos
+释义项定义		释义项的定义		bos 租 赁 车 eos bos 租 赁 车 eos
+释义项定义		释义项的定义		bos 私 家 车 eos bos 私 家 车 eos
+释义项定义		释义项的定义		bos 自 驾 车 eos bos 自 驾 车 eos
+释义项定义		释义项的定义		bos 内 窥 镜 eos bos 内 窥 镜 eos
+释义项定义		释义项的定义		bos 公 交 车 eos bos 公 交 车 eos
+释义项定义		释义项的定义		bos 烧 伤 科 eos bos 烧 伤 科 eos
+询问保险责任		产品保哪些疾病		bos 保 什 么 eos bos 保 什 么 eos
+释义项定义		释义项的定义		bos qj 全 残 eos bos qj 全 残 eos
+询问免赔额		询问免赔额定义		bos 免 赔 额 eos bos 免 赔 额 eos
+申请理赔		理赔渠道申请流程		bos 微 理 赔 eos bos 微 理 赔 eos
+询问某产品增值服务项目		购买某项保险产品有无优惠		bos 礼 物 eos bos 礼 物 eos
+other		服务内容介绍		bos bxcp 售 后 eos bos bxcp 售 后 eos
+情景的定义		某情景下全残或身故赔偿		bos qj qj eos bos qj qj eos
+公司地址		other		bos 上 海 机 构 eos bos 上 海 机 构 eos
+疾病的定义		疾病种类的定义		bos bxcp jbzl eos bos bxcp jbzl eos
+疾病的定义		询问保险金额		bos jbzl 保 额 eos bos jbzl 保 额 eos
+产品介绍		产品升级介绍		bos bxcp 升 级 eos bos bxcp 升 级 eos
+询问缴费年期		询问缴费年期 询问缴费方式		bos 月 缴 eos bos 月 缴 eos
+释义项定义		释义项的定义		bos 神 经 外 科 eos bos 神 经 外 科 eos
+投保规则		询问投保规则		bos 特 殊 投 保 eos bos 特 殊 投 保 eos
+保额限制		产品保额限制		bos 投 保 限 额 eos bos 投 保 限 额 eos
+公司介绍		询问公司介绍		bos 山 东 机 构 eos bos 山 东 机 构 eos
+释义项定义		释义项的定义		bos 保 费 豁 免 eos bos 保 费 豁 免 eos
+释义项定义		保障项目的定义		bos bxzl 介 绍 eos bos bxzl 介 绍 eos
+投保规则		询问投保规则		bos 投 保 规 矩 eos bos 投 保 规 矩 eos
+释义项定义		保险产品的定义		bos bxcp 是 啥 eos bos bxcp 是 啥 eos
+疾病种类的定义		保险种类的定义		bos jbzl 险 呢 eos bos jbzl 险 呢 eos
+投保规则		询问投保规则		bos 投 保 规 则 eos bos 投 保 规 则 eos
+询问合作医院		询问合作银行		bos 合 作 银 行 eos bos 合 作 银 行 eos
+释义项定义		释义项的定义		bos 保 险 是 啥 eos bos 保 险 是 啥 eos
+询问保单借款		释义项的定义		bos 保 单 贷 款 eos bos 保 单 贷 款 eos
+保额限制		询问保险金额		bos 最 高 保 额 eos bos 最 高 保 额 eos
+释义项定义		释义项的定义		bos 意 外 全 残 eos bos 意 外 全 残 eos
+询问保额		询问保额累计		bos 累 计 保 额 eos bos 累 计 保 额 eos
+询问如实告知		释义项的定义		bos 健 康 告 知 eos bos 健 康 告 知 eos
+询问保单借款		释义项的定义		bos 保 单 借 款 eos bos 保 单 借 款 eos
+公司介绍		询问公司介绍		bos 广 东 机 构 eos bos 广 东 机 构 eos
+公司介绍		询问公司介绍		bos 山 西 机 构 eos bos 山 西 机 构 eos
+保额限制		产品保额限制		bos 最 高 保 额 eos bos 最 高 保 额 eos
+电子合同		电子合同介绍		bos 电 子 合 同 eos bos 电 子 合 同 eos
+释义项定义		询问保单借款		bos 保 单 贷 款 eos bos 保 单 贷 款 eos
+询问免责条款		询问保险条款		bos 免 赔 条 款 eos bos 免 赔 条 款 eos
+公司介绍		询问公司介绍		bos 官 方 微 信 eos bos 官 方 微 信 eos
+询问保额		询问保额累计		bos 风 险 保 额 eos bos 风 险 保 额 eos
+投保规则		询问投保规则		bos 隔 代 投 保 eos bos 隔 代 投 保 eos
+询问免责条款		询问保险条款		bos 无 责 免 陪 eos bos 无 责 免 陪 eos
+询问变更通讯方式		询问诉讼时效		bos 诉 讼 时 效 eos bos 诉 讼 时 效 eos
+疾病的定义		疾病种类的定义		bos jbzl 病 种 eos bos jbzl 病 种 eos
+释义项定义		保障项目的定义		bos bzxm 含 义 eos bos bzxm 含 义 eos
+疾病的定义		疾病种类的定义		bos 那 jbzl 呢 eos bos 那 jbzl 呢 eos
+释义项定义		释义项的定义		bos 个 人 租 车 eos bos 个 人 租 车 eos
+释义项定义		询问合作医院		bos 神 经 外 科 eos bos 神 经 外 科 eos
+释义项定义		保障项目的定义		bos bzxm 意 外 eos bos bzxm 意 外 eos
+询问保额		询问保额规定		bos 保 额 规 则 eos bos 保 额 规 则 eos
+other		询问保单借款		bos 能 贷 款 吗 eos bos 能 贷 款 吗 eos
+保额限制		产品保额限制		bos 保 额 限 制 eos bos 保 额 限 制 eos
+释义项定义		疾病的定义		bos jb 是 什 么 eos bos jb 是 什 么 eos
+释义项定义		情景的定义		bos 什 么 是 qj eos bos 什 么 是 qj eos
+产品续保		询问保险条款		bos 保 证 续 保 eos bos 保 证 续 保 eos
+释义项定义		保险种类的定义		bos bxzl 介 绍 eos bos bxzl 介 绍 eos
+释义项定义		释义项的定义 询问缴费方式		bos 趸 交 eos bos 趸 交 eos
+产品续保		询问保险条款		bos 如 何 续 保 eos bos 如 何 续 保 eos
+疾病的定义		疾病种类的定义		bos jbzl 定 义 eos bos jbzl 定 义 eos
+other		询问保单借款		bos 资 金 周 转 eos bos 资 金 周 转 eos
+释义项定义		释义项的定义		bos 三 度 烧 伤 eos bos 三 度 烧 伤 eos
+释义项定义		保障项目的定义		bos bzxm 定 义 eos bos bzxm 定 义 eos
+释义项定义		释义项的定义		bos 神 州 租 车 eos bos 神 州 租 车 eos
+公司介绍		询问公司介绍		bos 公 司 产 介 eos bos 公 司 产 介 eos
+询问保额		询问保额累计		bos 体 检 保 额 eos bos 体 检 保 额 eos
+释义项定义		释义项的定义		bos 高 危 人 群 eos bos 高 危 人 群 eos
+询问保额		询问保额累计		bos 保 额 累 计 eos bos 保 额 累 计 eos
+体检指引		询问体检或验尸		bos 体 检 要 求 eos bos 体 检 要 求 eos
+释义项定义		释义项的定义		bos jb 是 什 么 eos bos jb 是 什 么 eos
+疾病包含哪些疾病		产品保哪些疾病		bos 保 的 病 种 eos bos 保 的 病 种 eos
+释义项定义		释义项是什么		bos jb 是 什 么 eos bos jb 是 什 么 eos
+释义项定义		释义项的定义		bos 什 么 是 qj eos bos 什 么 是 qj eos
+增值服务亮点		询问增值服务内容		bos fwxm 内 容 eos bos fwxm 内 容 eos
+释义项定义		释义项的定义		bos jb 什 么 事 eos bos jb 什 么 事 eos
+申请理赔		理赔渠道申请流程		bos 理 赔 路 径 eos bos 理 赔 路 径 eos
+产品保额限制		某产品的最低保额		bos 保 额 下 限 eos bos 保 额 下 限 eos
+询问保额		询问保险金额累计		bos 体 检 保 额 eos bos 体 检 保 额 eos
+疾病的定义		某种疾病是否在承保范围内		bos bxcp jb eos bos bxcp jb eos
+询问保额		询问保险金额累计		bos 累 计 保 额 eos bos 累 计 保 额 eos
+释义项定义		产品介绍		bos 什 么 是 保 险 eos bos 什 么 是 保 险 eos
+other		保单借款相关规定		bos 贷 款 利 息 eos bos 贷 款 利 息 eos
+询问体检或验尸		体检指引		bos 需 要 体 检 吗 eos bos 需 要 体 检 吗 eos
+other		询问增值服务内容		bos 会 员 分 级 eos bos 会 员 分 级 eos
+询问诉讼时效		询问变更通讯方式		bos 诉 讼 时 效 eos bos 诉 讼 时 效 eos
+询问保额		询问保险金额累计		bos 风 险 保 额 eos bos 风 险 保 额 eos
+释义项定义		保障项目的定义		bos 什 么 是 bxj eos bos 什 么 是 bxj eos
+保哪些疾病		询问保险责任		bos 保 哪 些 jbzl eos bos 保 哪 些 jbzl eos
+公司介绍		询问分公司联系方式		bos 广 东 机 构 eos bos 广 东 机 构 eos
+疾病种类豁免		疾病种类包含哪些疾病		bos jbzl 类 型 eos bos jbzl 类 型 eos
+公司介绍		公司地址 公司介绍		bos 天 津 机 构 eos bos 天 津 机 构 eos
+承保区域		产品保障的地域限制		bos 异 地 投 保 eos bos 异 地 投 保 eos
+询问保险责任		保障项目的保障范围		bos 保 障 范 围 eos bos 保 障 范 围 eos
+other		询问分公司联系方式		bos 辽 宁 机 构 eos bos 辽 宁 机 构 eos
+疾病种类的定义		疾病种类包含哪些疾病		bos jbzl 种 类 eos bos jbzl 种 类 eos
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos jbzl 内 容 eos bos jbzl 内 容 eos
+询问保额		询问保险金额		bos bxcp 的 保 额 eos bos bxcp 的 保 额 eos
+释义项定义		释义项的定义		bos bxcp 的 全 残 eos bos bxcp 的 全 残 eos
+释义项定义		保障项目的定义		bos bzxm 的 释 义 eos bos bzxm 的 释 义 eos
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos 哪 九 十 种 eos bos 哪 九 十 种 eos
+释义项的定义		保险产品的定义		bos 什 么 算 bxcp eos bos 什 么 算 bxcp eos
+释义项定义		释义项的定义		bos bxcp qj 全 残 eos bos bxcp qj 全 残 eos
+释义项定义		释义项的定义		bos 居 家 旅 行 车 eos bos 居 家 旅 行 车 eos
+释义项的定义		保障项目的定义		bos bzxm 啥 意 思 eos bos bzxm 啥 意 思 eos
+保哪些疾病		产品保哪些疾病		bos 保 哪 些 jbzl eos bos 保 哪 些 jbzl eos
+询问保额		询问保险金额		bos 8 0 万 保 额 eos bos 8 0 万 保 额 eos
+释义项定义		保障项目的定义		bos bxcp 的 全 残 eos bos bxcp 的 全 残 eos
+释义项定义		情景的定义		bos qj 怎 么 解 释 eos bos qj 怎 么 解 释 eos
+投保规则		询问投保规则		bos 为 他 人 投 保 eos bos 为 他 人 投 保 eos
+释义项定义		释义项的定义		bos 保 险 是 什 么 eos bos 保 险 是 什 么 eos
+情景的定义		变更受益人相关规定		bos bxcp qj qj eos bos bxcp qj qj eos
+询问赔付比例		保障项目的赔付		bos bzxm 是 多 少 eos bos bzxm 是 多 少 eos
+疾病的定义		疾病种类的定义		bos 什 么 算 jbzl eos bos 什 么 算 jbzl eos
+保额限制		产品保额限制		bos 的 最 高 保 额 eos bos 的 最 高 保 额 eos
+释义项定义		释义项的定义		bos 无 效 驾 驶 证 eos bos 无 效 驾 驶 证 eos
+投保规则		询问投保规则		bos 买 保 险 要 求 eos bos 买 保 险 要 求 eos
+保险产品支持保全项		询问合同变更		bos 可 以 保 全 吗 eos bos 可 以 保 全 吗 eos
+产品保障期限		询问保险期间		bos 保 障 多 少 年 eos bos 保 障 多 少 年 eos
+释义项定义		释义项的定义		bos 有 效 驾 驶 证 eos bos 有 效 驾 驶 证 eos
+疾病的定义		疾病种类的定义		bos jbzl 啥 意 思 eos bos jbzl 啥 意 思 eos
+产品介绍		保险产品的定义		bos 什 么 是 bxcp eos bos 什 么 是 bxcp eos
+释义项定义		疾病的定义		bos bxcp qj 、 qj eos bos bxcp qj 、 qj eos
+疾病的定义		疾病种类的定义		bos jbzl 的 释 义 eos bos jbzl 的 释 义 eos
+公司介绍		询问公司介绍		bos 信 诚 的 介 绍 eos bos 信 诚 的 介 绍 eos
+询问未归还款项偿还		释义项的定义		bos 未 归 还 款 项 eos bos 未 归 还 款 项 eos
+释义项定义		释义项的定义		bos 什 么 是 住 院 eos bos 什 么 是 住 院 eos
+释义项定义		释义项的定义		bos 什 么 是 保 险 eos bos 什 么 是 保 险 eos
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos 具 体 病 种 eos bos 具 体 病 种 eos
+释义项定义		保险种类的定义		bos bxzl 是 什 么 eos bos bxzl 是 什 么 eos
+询问保险期间		产品保障期限		bos 保 障 多 少 年 eos bos 保 障 多 少 年 eos
+投保途径		询问合作银行		bos 手 机 a p p eos bos 手 机 a p p eos
+责任免除		保障项目的责任免除详情		bos bxcp 免 责 eos bos bxcp 免 责 eos
+释义项定义		疾病种类的定义		bos jbzl 的 定 义 eos bos jbzl 的 定 义 eos
+释义项定义		释义项的定义		bos 怎 么 算 全 残 eos bos 怎 么 算 全 残 eos
+other		服务内容介绍		bos 谁 负 责 跟 进 eos bos 谁 负 责 跟 进 eos
+释义项定义		某种体检异常指标定义		bos 异 常 指 标 eos bos 异 常 指 标 eos
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos 保 几 种 病 eos bos 保 几 种 病 eos
+产品保障期限		询问保险期间		bos 的 保 障 期 是 eos bos 的 保 障 期 是 eos
+询问免赔额		询问免赔额定义		bos 免 赔 额 定 义 eos bos 免 赔 额 定 义 eos
+释义项定义		释义项的定义		bos bxcp qj 、 qj eos bos bxcp qj 、 qj eos
+询问免赔额		询问免赔额数值		bos 免 赔 额 价 格 eos bos 免 赔 额 价 格 eos
+公司地址		询问公司介绍 公司地址		bos 北 京 机 构 eos bos 北 京 机 构 eos
+释义项定义		保险产品的定义		bos 什 么 是 保 险 eos bos 什 么 是 保 险 eos
+释义项定义		某情景下全残或身故赔偿 保障项目的定义		bos bzxm eos bos bzxm eos
+询问增值服务项目		询问某产品增值服务项目		bos 增 值 服 务 eos bos 增 值 服 务 eos
+保哪些疾病		产品保哪些疾病		bos 保 哪 些 疾 病 eos bos 保 哪 些 疾 病 eos
+保哪些疾病		产品保哪些疾病		bos 保 什 么 疾 病 eos bos 保 什 么 疾 病 eos
+保障项目如何申请理赔		得了某类疾病怎样申请理赔		bos bzxm 申 请 eos bos bzxm 申 请 eos
+投保限制		投保人条件限制		bos 投 保 人 限 制 eos bos 投 保 人 限 制 eos
+体检指引		询问体检或验尸		bos 需 要 体 检 吗 eos bos 需 要 体 检 吗 eos
+询问缴费年期		询问保险费缴纳		bos 年 缴 保 险 费 eos bos 年 缴 保 险 费 eos
+询问免责条款		询问保险条款		bos qj 免 责 条 款 eos bos qj 免 责 条 款 eos
+公司地址		询问公司介绍 公司地址		bos 上 海 机 构 eos bos 上 海 机 构 eos
+疾病的定义		询问增值服务内容 疾病的定义		bos jb 筛 查 eos bos jb 筛 查 eos
+公司介绍		询问公司介绍 公司地址		bos 广 州 公 司 eos bos 广 州 公 司 eos
+释义项定义		释义项的定义		bos qj 怎 么 解 释 eos bos qj 怎 么 解 释 eos
+询问免赔额		询问免赔额数值		bos 免 赔 额 价 值 eos bos 免 赔 额 价 值 eos
+询问增值服务内容		询问某产品增值服务项目		bos 在 线 医 生 eos bos 在 线 医 生 eos
+询问免责条款		询问保险条款		bos qj 免 责 三 项 eos bos qj 免 责 三 项 eos
+other		询问增值服务内容		bos 会 员 卡 分 级 eos bos 会 员 卡 分 级 eos
+申请理赔		某情景下全残或身故赔偿		bos qj 怎 么 赔 eos bos qj 怎 么 赔 eos
+询问缴费方式		询问变更缴费方式		bos 年 交 转 季 缴 eos bos 年 交 转 季 缴 eos
+保障项目的赔付		保障项目的理赔方式		bos bzxm 怎 么 保 eos bos bzxm 怎 么 保 eos
+保额限制		某产品的最低保额		bos 保 额 是 多 少 eos bos 保 额 是 多 少 eos
+保障项目的赔付		保障项目的理赔方式		bos bzxm 怎 么 赔 eos bos bzxm 怎 么 赔 eos
+询问缴费方式		询问变更缴费方式		bos 季 缴 转 年 交 eos bos 季 缴 转 年 交 eos
+释义项定义		释义项的定义		bos qj 是 qj 的 吗 eos bos qj 是 qj 的 吗 eos
+得了某个疾病怎样申请理赔		某种疾病是否在承保范围内		bos jb 怎 么 赔 eos bos jb 怎 么 赔 eos
+释义项定义		释义项的定义 情景的定义		bos qj 是 什 么 eos bos qj 是 什 么 eos
+询问保额		询问保额规定		bos bxcp 保 额 多 少 eos bos bxcp 保 额 多 少 eos
+投保规则		询问投保规则		bos bxcp 投 保 要 求 eos bos bxcp 投 保 要 求 eos
+投保规则		询问投保规则		bos bxcp 其 他 规 则 eos bos bxcp 其 他 规 则 eos
+某情景是否在承保范围内		某种疾病是否在承保范围内		bos qj 赔 不 赔 eos bos qj 赔 不 赔 eos
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos jbzl 有 哪 些 eos bos jbzl 有 哪 些 eos
+other		询问保额累计		bos bxcp 累 计 保 额 eos bos bxcp 累 计 保 额 eos
+保障项目保哪些疾病		保障项目包含哪些疾病		bos bxzl 有 哪 些 eos bos bxzl 有 哪 些 eos
+释义项定义		询问未归还款项偿还		bos 未 归 还 款 项 eos bos 未 归 还 款 项 eos
+疾病的定义		疾病种类的定义		bos jbzl jbzl 定 义 eos bos jbzl jbzl 定 义 eos
+保额限制		产品保额限制		bos bxcp 体 检 保 额 eos bos bxcp 体 检 保 额 eos
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos 9 0 种 jbzl eos bos 9 0 种 jbzl eos
+保额限制		产品保额限制		bos bxcp 投 保 额 度 eos bos bxcp 投 保 额 度 eos
+投保规则		询问投保规则		bos bxcp 投 保 规 则 eos bos bxcp 投 保 规 则 eos
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos jbzl 9 0 种 eos bos jbzl 9 0 种 eos
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos 有 哪 些 jbzl eos bos 有 哪 些 jbzl eos
+询问保额		询问保险金额		bos bxcp 保 额 选 择 eos bos bxcp 保 额 选 择 eos
+other		询问保单借款		bos bxcp 贷 款 利 息 eos bos bxcp 贷 款 利 息 eos
+释义项定义		释义项的定义		bos 关 于 医 学 必 要 eos bos 关 于 医 学 必 要 eos
+释义项定义		释义项的定义		bos 关 于 化 学 疗 法 eos bos 关 于 化 学 疗 法 eos
+释义项的定义		保险产品的定义		bos bxcp 怎 么 理 解 eos bos bxcp 怎 么 理 解 eos
+释义项定义		释义项的定义		bos 合 法 营 运 车 辆 eos bos 合 法 营 运 车 辆 eos
+公司介绍		询问公司介绍		bos 公 司 介 绍 有 吗 eos bos 公 司 介 绍 有 吗 eos
+投保规则		询问投保规则		bos 银 保 通 被 拒 保 eos bos 银 保 通 被 拒 保 eos
+释义项定义		释义项的定义		bos 那 保 险 起 见 呢 eos bos 那 保 险 起 见 呢 eos
+体检指引		询问体检或验尸		bos bxcp 体 检 要 求 eos bos bxcp 体 检 要 求 eos
+投保规则		询问投保规则		bos 健 康 状 况 要 求 eos bos 健 康 状 况 要 求 eos
+释义项定义		释义项的定义		bos 海 外 医 疗 意 见 eos bos 海 外 医 疗 意 见 eos
+公司介绍		询问公司介绍		bos 公 司 官 网 地 址 eos bos 公 司 官 网 地 址 eos
+other		询问体检或验尸		bos jbzl 体 检 表 格 eos bos jbzl 体 检 表 格 eos
+保额限制		产品保额限制		bos 有 保 额 限 制 吗 eos bos 有 保 额 限 制 吗 eos
+释义项定义		释义项的定义		bos 运 动 功 能 损 害 eos bos 运 动 功 能 损 害 eos
+释义项定义		保险种类的定义		bos bxzl 是 指 什 么 eos bos bxzl 是 指 什 么 eos
+公司介绍		询问公司介绍		bos 你 公 司 靠 谱 啊 eos bos 你 公 司 靠 谱 啊 eos
+释义项定义		释义项的定义		bos 保 单 费 应 缴 日 eos bos 保 单 费 应 缴 日 eos
+释义项定义		释义项的定义		bos 死 差 损 （ 益 ） eos bos 死 差 损 （ 益 ） eos
+投保规则		询问投保规则		bos 为 什 么 拒 保 了 eos bos 为 什 么 拒 保 了 eos
+释义项定义		释义项的定义		bos 海 外 二 诊 意 见 eos bos 海 外 二 诊 意 见 eos
+疾病的定义		疾病种类的定义		bos jbzl 怎 么 理 解 eos bos jbzl 怎 么 理 解 eos
+释义项定义		释义项的定义		bos 公 用 交 通 工 具 eos bos 公 用 交 通 工 具 eos
+释义项定义		释义项的定义		bos 利 差 损 （ 益 ） eos bos 利 差 损 （ 益 ） eos
+询问保额		询问最低保额		bos 最 低 保 多 少 啊 eos bos 最 低 保 多 少 啊 eos
+保额限制		产品保额限制		bos 最 高 能 买 多 少 eos bos 最 高 能 买 多 少 eos
+释义项定义		保障项目的定义		bos bzxm 是 指 什 么 eos bos bzxm 是 指 什 么 eos
+产品介绍		保险产品的定义		bos bxcp 有 什 么 用 eos bos bxcp 有 什 么 用 eos
+询问免责条款		询问保险条款		bos 其 他 免 责 条 款 eos bos 其 他 免 责 条 款 eos
+保额限制		产品保额限制		bos 最 高 可 购 限 额 eos bos 最 高 可 购 限 额 eos
+释义项定义		疾病种类的定义		bos jbzl 是 指 什 么 eos bos jbzl 是 指 什 么 eos
+产品保障期限		询问保险期间		bos 保 障 期 限 多 久 eos bos 保 障 期 限 多 久 eos
+释义项定义		释义项的定义		bos 医 学 必 要 是 啥 eos bos 医 学 必 要 是 啥 eos
+释义项定义		释义项的定义		bos 关 于 放 射 疗 法 eos bos 关 于 放 射 疗 法 eos
+释义项定义		释义项的定义		bos 什 么 是 机 动 车 eos bos 什 么 是 机 动 车 eos
+询问免赔额		询问免赔额定义		bos bxcp 的 免 赔 额 eos bos bxcp 的 免 赔 额 eos
+询问区别		询问合同终止		bos 有 特 别 约 定 吗 eos bos 有 特 别 约 定 吗 eos
+释义项定义		保障项目的定义		bos bzxm 怎 么 解 释 eos bos bzxm 怎 么 解 释 eos
+询问保险责任		询问保险期间		bos 保 险 责 任 期 限 eos bos 保 险 责 任 期 限 eos
+询问保额		询问保险金额		bos 最 多 赔 多 少 钱 eos bos 最 多 赔 多 少 钱 eos
+疾病包含哪些疾病		产品保哪些疾病		bos 保 多 少 种 jbzl eos bos 保 多 少 种 jbzl eos
+释义项定义		释义项的定义		bos 费 差 损 （ 益 ） eos bos 费 差 损 （ 益 ） eos
+公司介绍		询问公司介绍		bos 有 多 少 分 公 司 eos bos 有 多 少 分 公 司 eos
+询问增值服务内容		服务内容介绍		bos 有 专 人 服 务 吗 eos bos 有 专 人 服 务 吗 eos
+释义项定义		释义项的定义		bos 解 释 一 下 保 险 eos bos 解 释 一 下 保 险 eos
+释义项定义		释义项的定义		bos 医 学 必 要 含 义 eos bos 医 学 必 要 含 义 eos
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos 哪 些 病 能 保 eos bos 哪 些 病 能 保 eos
+询问复效期		询问合同恢复		bos 合 同 效 力 恢 复 eos bos 合 同 效 力 恢 复 eos
+产品续保		询问保险条款		bos 能 自 动 续 保 吗 eos bos 能 自 动 续 保 吗 eos
+释义项定义		释义项的定义		bos 肺 部 严 重 损 害 eos bos 肺 部 严 重 损 害 eos
+公司介绍		询问公司介绍		bos 了 解 公 司 介 诏 eos bos 了 解 公 司 介 诏 eos
+申请理赔		保障项目如何申请理赔		bos 咋 申 请 理 赔 eos bos 咋 申 请 理 赔 eos
+释义项定义		释义项的定义 产品介绍		bos 有 什 么 功 能 eos bos 有 什 么 功 能 eos
+理赔的地域限制		国外医院的要求		bos 去 国 外 能 赔 吗 eos bos 去 国 外 能 赔 吗 eos
+理赔医院		国外医院的要求		bos 国 外 理 赔 医 院 eos bos 国 外 理 赔 医 院 eos
+保哪些疾病		产品保哪些疾病		bos 保 哪 些 疾 病 呢 eos bos 保 哪 些 疾 病 呢 eos
+疾病种类豁免		疾病种类治疗费用		bos jbzl 治 疗 费 用 eos bos jbzl 治 疗 费 用 eos
+高发疾病		疾病发病原因		bos jb 的 发 病 原 因 eos bos jb 的 发 病 原 因 eos
+投保规则		保全规则		bos bxcp 的 保 全 规 则 eos bos bxcp 的 保 全 规 则 eos
+体检指引		询问体检或验尸		bos 老 人 投 保 体 检 eos bos 老 人 投 保 体 检 eos
+某情景下全残或身故赔偿		保障项目的责任免除详情		bos 致 死 赔 不 赔 eos bos 致 死 赔 不 赔 eos
+保哪些疾病		产品保哪些疾病		bos 保 哪 些 方 面 呢 eos bos 保 哪 些 方 面 呢 eos
+other		保全规则		bos bxcp 有 哪 些 保 全 eos bos bxcp 有 哪 些 保 全 eos
+释义项定义		疾病种类的定义		bos 儿 童 特 定 疾 病 eos bos 儿 童 特 定 疾 病 eos
+理赔需要的材料		业务办理提交材料		bos 申 请 bzxm 资 料 eos bos 申 请 bzxm 资 料 eos
+释义项定义		某情景下全残或身故赔偿		bos bxcp qj 全 残 eos bos bxcp qj 全 残 eos
+询问免责条款		询问保险条款		bos qj 免 责 条 款 是 eos bos qj 免 责 条 款 是 eos
+投保限制		投保人条件限制		bos 老 人 家 能 买 吗 eos bos 老 人 家 能 买 吗 eos
+释义项定义		保障项目的定义		bos 防 癌 险 抗 癌 险 eos bos 防 癌 险 抗 癌 险 eos
+投保限制		投保人条件限制		bos 外 籍 人 士 投 保 eos bos 外 籍 人 士 投 保 eos
+释义项定义		释义项的定义		bos qj 等 待 期 定 义 eos bos qj 等 待 期 定 义 eos
+询问免赔额		询问免赔额数值		bos 免 赔 额 怎 么 算 eos bos 免 赔 额 怎 么 算 eos
+询问合作医院		理赔医院		bos bxcp 认 可 的 医 院 eos bos bxcp 认 可 的 医 院 eos
+申请理赔		保障项目的理赔方式		bos bzxm 申 请 赔 付 eos bos bzxm 申 请 赔 付 eos
+保障项目的赔付		疾病种类的赔付流程		bos bzxm 怎 么 赔 付 eos bos bzxm 怎 么 赔 付 eos
+情景的定义		某情景下全残或身故赔偿		bos qj 全 残 保 障 eos bos qj 全 残 保 障 eos
+申请理赔		得了某类疾病怎样申请理赔		bos 确 诊 就 赔 吗 eos bos 确 诊 就 赔 吗 eos
+体检指引		体检指引 体检标准		bos bxcp 体 检 要 求 eos bos bxcp 体 检 要 求 eos
+保障项目的赔付		保障项目的赔付次数		bos jbzl 赔 多 少 次 eos bos jbzl 赔 多 少 次 eos
+疾病包含哪些疾病		得了某类疾病怎样申请理赔		bos 得 病 怎 么 办 eos bos 得 病 怎 么 办 eos
+保障项目的赔付		保障项目的赔付次数		bos jbzl 赔 付 几 次 eos bos jbzl 赔 付 几 次 eos
+保障项目的赔付		保障项目的赔付次数		bos jbzl 赔 付 次 数 eos bos jbzl 赔 付 次 数 eos
+询问缴费方式		询问变更缴费方式		bos 交 费 方 式 转 换 eos bos 交 费 方 式 转 换 eos
+保障项目的赔付		保障项目的赔付次数		bos bzxm 赔 付 几 次 eos bos bzxm 赔 付 几 次 eos
+投保规则		other		bos bxcp 的 保 全 规 则 eos bos bxcp 的 保 全 规 则 eos
+赔付方式		疾病种类的赔付流程		bos bzxm 赔 付 流 程 eos bos bzxm 赔 付 流 程 eos
+保障项目的赔付		保障项目的理赔方式		bos bzxm 赔 付 流 程 eos bos bzxm 赔 付 流 程 eos
+申请理赔		得了某个疾病怎样申请理赔		bos 昏 迷 怎 么 赔 eos bos 昏 迷 怎 么 赔 eos
+保全规则		other		bos bxcp 有 哪 些 保 全 eos bos bxcp 有 哪 些 保 全 eos
+询问保费垫缴		询问减额缴清		bos bxcp 保 险 费 垫 付 eos bos bxcp 保 险 费 垫 付 eos
+询问如实告知		other		bos 健 康 告 知 怎 么 填 eos bos 健 康 告 知 怎 么 填 eos
+申请理赔		保障项目如何申请理赔		bos 怎 么 申 请 bzxm eos bos 怎 么 申 请 bzxm eos
+保哪些疾病		询问保险条款		bos 9 0 种 jbzl 条 款 eos bos 9 0 种 jbzl 条 款 eos
+询问保额		询问保额累计		bos bxcp 的 保 额 累 计 eos bos bxcp 的 保 额 累 计 eos
+体检标准		体检指引 体检标准		bos 老 人 投 保 体 检 eos bos 老 人 投 保 体 检 eos
+申请理赔		保障项目如何申请理赔		bos bzxm 如 何 申 请 eos bos bzxm 如 何 申 请 eos
+申请理赔		得了某个疾病怎样申请理赔		bos jb 如 何 理 赔 eos bos jb 如 何 理 赔 eos
+申请理赔		保障项目如何申请理赔		bos bzxm 如 何 理 赔 eos bos bzxm 如 何 理 赔 eos
+申请理赔		得了某个疾病怎样申请理赔		bos jb 理 赔 申 请 eos bos jb 理 赔 申 请 eos
+保额限制		产品保额限制		bos bxcp 的 最 高 保 额 eos bos bxcp 的 最 高 保 额 eos
+询问保额		询问保额规定		bos bxcp 的 保 额 规 定 eos bos bxcp 的 保 额 规 定 eos
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos 哪 些 算 是 jbzl eos bos 哪 些 算 是 jbzl eos
+申请理赔		得了某个疾病怎样申请理赔		bos jb 怎 么 赔 付 eos bos jb 怎 么 赔 付 eos
+释义项定义		释义项的定义		bos bxcp 的 切 入 话 术 eos bos bxcp 的 切 入 话 术 eos
+询问保额		询问保险金额		bos bxcp 保 额 是 多 少 eos bos bxcp 保 额 是 多 少 eos
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos 哪 9 0 种 jbzl eos bos 哪 9 0 种 jbzl eos
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos bxcp 9 0 种 类 eos bos bxcp 9 0 种 类 eos
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos 哪 些 病 是 jbzl eos bos 哪 些 病 是 jbzl eos
+疾病种类豁免		询问疾病种类的生存期		bos bxzl 的 生 存 期 eos bos bxzl 的 生 存 期 eos
+询问保额		询问保额规定		bos bxcp 可 选 保 额 吗 eos bos bxcp 可 选 保 额 吗 eos
+疾病种类的定义		疾病种类包含哪些疾病 疾病种类的定义		bos jbzl 种 类 eos bos jbzl 种 类 eos
+产品续保		产品能否续保		bos bxcp 可 以 续 保 吗 eos bos bxcp 可 以 续 保 吗 eos
+询问保额		询问保险金额		bos bxcp 可 选 保 额 吗 eos bos bxcp 可 选 保 额 吗 eos
+释义项定义		释义项的定义		bos jbzl 豁 免 的 定 义 eos bos jbzl 豁 免 的 定 义 eos
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos bxzl 哪 些 算 是 eos bos bxzl 哪 些 算 是 eos
+申请理赔		保障项目如何申请理赔		bos bzxm 怎 么 赔 偿 eos bos bzxm 怎 么 赔 偿 eos
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos 保 多 少 种 jbzl eos bos 保 多 少 种 jbzl eos
+申请理赔		保障项目如何申请理赔		bos bzxm 理 赔 申 请 eos bos bzxm 理 赔 申 请 eos
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos jbzl 有 哪 些 / eos bos jbzl 有 哪 些 / eos
+other		产品期满返还		bos bxcp 可 以 返 本 吗 eos bos bxcp 可 以 返 本 吗 eos
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos jbzl 包 括 哪 些 eos bos jbzl 包 括 哪 些 eos
+释义项定义		释义项的定义		bos 什 么 是 民 航 班 机 eos bos 什 么 是 民 航 班 机 eos
+释义项定义		保障项目的定义		bos bzxm 是 怎 么 解 释 eos bos bzxm 是 怎 么 解 释 eos
+产品介绍		询问产品优势		bos 为 什 么 要 买 保 险 eos bos 为 什 么 要 买 保 险 eos
+释义项定义		释义项的定义		bos 什 么 是 医 学 必 要 eos bos 什 么 是 医 学 必 要 eos
+释义项定义		释义项的定义		bos 医 学 必 要 是 多 少 eos bos 医 学 必 要 是 多 少 eos
+释义项定义		释义项的定义		bos bzxm qj 解 释 一 下 eos bos bzxm qj 解 释 一 下 eos
+公司介绍		询问公司介绍		bos 介 绍 下 你 们 公 司 eos bos 介 绍 下 你 们 公 司 eos
+公司介绍		询问公司介绍		bos 中 信 保 诚 的 历 史 eos bos 中 信 保 诚 的 历 史 eos
+保障项目的定义		某情景下全残或身故赔偿 保障项目的定义		bos bxcp bzxm eos bos bxcp bzxm eos
+询问缴费年期		询问缴费方式		bos 可 以 选 择 年 缴 吗 eos bos 可 以 选 择 年 缴 吗 eos
+产品保障期限		询问保险期间		bos 的 保 障 期 是 多 久 eos bos 的 保 障 期 是 多 久 eos
+公司介绍		询问公司介绍		bos 中 信 保 诚 改 名 了 eos bos 中 信 保 诚 改 名 了 eos
+公司介绍		询问公司介绍		bos 介 绍 下 中 信 保 诚 eos bos 介 绍 下 中 信 保 诚 eos
+公司介绍		询问公司介绍		bos 你 们 是 什 么 公 司 eos bos 你 们 是 什 么 公 司 eos
+other		询问投保书填写		bos bxcp 投 保 书 样 本 eos bos bxcp 投 保 书 样 本 eos
+释义项定义		释义项的定义		bos 门 ( 急 ) 诊 医 疗 eos bos 门 ( 急 ) 诊 医 疗 eos
+疾病的定义		疾病种类的定义		bos jbzl 干 什 么 用 的 eos bos jbzl 干 什 么 用 的 eos
+释义项定义		释义项的定义		bos 医 学 必 要 的 释 义 eos bos 医 学 必 要 的 释 义 eos
+责任免除		保障项目的责任免除详情		bos bzxm 除 外 责 任 eos bos bzxm 除 外 责 任 eos
+释义项定义		释义项的定义		bos 什 么 叫 身 体 健 康 eos bos 什 么 叫 身 体 健 康 eos
+询问免赔额		询问免赔额定义		bos bxcp 的 免 赔 额 表 eos bos bxcp 的 免 赔 额 表 eos
+释义项定义		释义项的定义		bos 放 射 疗 法 是 什 么 eos bos 放 射 疗 法 是 什 么 eos
+购买某项保险产品有无优惠		询问某产品增值服务项目		bos bxcp 附 加 赠 送 eos bos bxcp 附 加 赠 送 eos
+公司介绍		询问公司介绍		bos 你 们 公 司 可 信 吗 eos bos 你 们 公 司 可 信 吗 eos
+申请理赔		申请某保障项目所需资料		bos bzxm 如 何 申 请 eos bos bzxm 如 何 申 请 eos
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos 9 0 种 是 哪 种 eos bos 9 0 种 是 哪 种 eos
+释义项定义		释义项的定义 保障项目的定义		bos 什 么 是 全 残 eos bos 什 么 是 全 残 eos
+询问复效期		复效期有无收取滞纳金		bos 复 效 期 滞 纳 金 eos bos 复 效 期 滞 纳 金 eos
+询问体检或验尸		询问投保规则		bos 投 保 需 要 体 检 吗 eos bos 投 保 需 要 体 检 吗 eos
+释义项定义		释义项的定义		bos 概 率 的 意 思 是 啥 eos bos 概 率 的 意 思 是 啥 eos
+公司介绍		询问公司介绍		bos 你 们 公 司 怎 么 样 eos bos 你 们 公 司 怎 么 样 eos
+增值服务亮点		增值服务使用时间		bos bxcp fwxm 有 效 期 eos bos bxcp fwxm 有 效 期 eos
+询问保额		询问保险金额		bos 投 保 金 额 是 多 少 eos bos 投 保 金 额 是 多 少 eos
+公司介绍		询问公司介绍		bos 你 们 公 司 靠 谱 吗 eos bos 你 们 公 司 靠 谱 吗 eos
+责任免除		保障项目的责任免除详情		bos bzxm 责 任 免 除 eos bos bzxm 责 任 免 除 eos
+投保限制		询问投保规则		bos 老 年 人 投 保 要 求 eos bos 老 年 人 投 保 要 求 eos
+释义项的定义		保险产品的定义		bos bxcp 的 官 方 解 释 eos bos bxcp 的 官 方 解 释 eos
+释义项定义		释义项的定义		bos 什 么 是 放 射 疗 法 eos bos 什 么 是 放 射 疗 法 eos
+释义项定义		释义项的定义		bos 医 学 必 要 的 定 义 eos bos 医 学 必 要 的 定 义 eos
+other		询问缴费年期		bos 累 计 交 了 多 少 期 eos bos 累 计 交 了 多 少 期 eos
+疾病的定义		疾病种类的定义		bos jbzl 不 知 道 是 啥 eos bos jbzl 不 知 道 是 啥 eos
+疾病的定义		疾病种类的定义		bos jbzl 的 官 方 说 法 eos bos jbzl 的 官 方 说 法 eos
+理赔条件		询问特别约定		bos 有 哪 些 附 件 条 件 eos bos 有 哪 些 附 件 条 件 eos
+释义项定义		保障项目的定义		bos 什 么 是 特 别 bzxm eos bos 什 么 是 特 别 bzxm eos
+询问产品优势		询问公司介绍		bos 公 司 有 什 么 优 势 eos bos 公 司 有 什 么 优 势 eos
+询问保险种类		询问宽限期定义		bos bxcp 是 短 期 险 吗 eos bos bxcp 是 短 期 险 吗 eos
+释义项的定义		保险产品的定义		bos bxcp 不 知 道 是 啥 eos bos bxcp 不 知 道 是 啥 eos
+释义项定义		释义项的定义		bos 医 学 必 要 啥 意 思 eos bos 医 学 必 要 啥 意 思 eos
+疾病的定义		疾病种类的定义		bos jbzl 的 官 方 解 释 eos bos jbzl 的 官 方 解 释 eos
+责任免除		保障项目的责任免除详情		bos bxcp 除 外 责 任 eos bos bxcp 除 外 责 任 eos
+释义项定义		释义项的定义		bos 什 么 算 医 学 必 要 eos bos 什 么 算 医 学 必 要 eos
+释义项定义		释义项的定义		bos 关 于 住 院 的 要 求 eos bos 关 于 住 院 的 要 求 eos
+释义项定义		释义项的定义		bos 机 动 车 怎 么 解 释 eos bos 机 动 车 怎 么 解 释 eos
+询问免责条款		保障项目的责任免除详情		bos bxcp 免 责 条 款 eos bos bxcp 免 责 条 款 eos
+理赔需要的材料		询问保险条款		bos 理 赔 需 要 发 票 吗 eos bos 理 赔 需 要 发 票 吗 eos
+申请理赔		保障项目如何申请理赔		bos 怎 么 申 请 理 赔 eos bos 怎 么 申 请 理 赔 eos
+释义项定义		释义项的定义		bos 什 么 事 保 单 回 溯 eos bos 什 么 事 保 单 回 溯 eos
+询问免赔额		询问免赔额数值		bos bxcp 的 免 赔 额 表 eos bos bxcp 的 免 赔 额 表 eos
+投保限制		询问投保年龄		bos 老 龄 人 投 保 限 制 eos bos 老 龄 人 投 保 限 制 eos
+other		险种的年龄限制		bos 终 身 是 9 9 岁 吗 eos bos 终 身 是 9 9 岁 吗 eos
+产品介绍		询问公司有哪些产品		bos bxcp 有 哪 些 bzxm eos bos bxcp 有 哪 些 bzxm eos
+投保限制		投保人条件限制		bos 老 年 人 投 保 要 求 eos bos 老 年 人 投 保 要 求 eos
+释义项定义		产品介绍		bos bxcp 保 险 费 应 缴 日 eos bos bxcp 保 险 费 应 缴 日 eos
+投保限制		投保人条件限制		bos 老 龄 人 投 保 限 制 eos bos 老 龄 人 投 保 限 制 eos
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 理 赔 流 程 eos bos jbzl 理 赔 流 程 eos
+申请理赔		得了某类疾病怎样申请理赔		bos 如 何 申 领 jbzl eos bos 如 何 申 领 jbzl eos
+询问免赔额		询问免赔额定义		bos 介 绍 一 下 免 赔 额 eos bos 介 绍 一 下 免 赔 额 eos
+投保限制		投保人条件限制		bos 孕 妇 能 不 能 投 保 eos bos 孕 妇 能 不 能 投 保 eos
+保障项目的赔付		保障项目如何申请理赔		bos 疾 病 qj 怎 么 赔 eos bos 疾 病 qj 怎 么 赔 eos
+保费核算		保费核算 询问产品价格		bos 需 要 多 少 费 用 eos bos 需 要 多 少 费 用 eos
+询问保障责任		询问保险责任 保障项目的保障范围		bos bzxm 保 什 么 eos bos bzxm 保 什 么 eos
+询问增值服务项目		询问某产品增值服务项目		bos 增 值 服 务 介 绍 eos bos 增 值 服 务 介 绍 eos
+疾病包含哪些疾病		产品保哪些疾病		bos 哪 些 疾 病 可 以 赔 eos bos 哪 些 疾 病 可 以 赔 eos
+申请理赔		得了某类疾病怎样申请理赔		bos bzxm 怎 么 申 请 eos bos bzxm 怎 么 申 请 eos
+申请理赔		理赔的地域限制		bos 国 外 理 陪 的 流 程 eos bos 国 外 理 陪 的 流 程 eos
+询问保额规定		询问保险金额规定		bos bxcp 的 保 额 规 定 eos bos bxcp 的 保 额 规 定 eos
+询问免赔额		询问免赔额定义		bos 好 高 的 免 赔 额 啊 eos bos 好 高 的 免 赔 额 啊 eos
+责任免除		保障项目的责任免除详情		bos 哪 些 情 况 免 赔 eos bos 哪 些 情 况 免 赔 eos
+某情景是否在承保范围内		某种疾病是否在承保范围内		bos 甲 状 腺 保 不 保 eos bos 甲 状 腺 保 不 保 eos
+产品保额限制		某产品的最低保额		bos 至 少 有 多 少 保 额 eos bos 至 少 有 多 少 保 额 eos
+询问免赔额		询问险种免赔额数值		bos bxzl 免 赔 额 价 格 eos bos bxzl 免 赔 额 价 格 eos
+产品介绍		产品升级介绍		bos bxcp 升 级 bxcp \ n eos bos bxcp 升 级 bxcp \ n eos
+投保途径		某渠道的投保流程		bos 港 澳 台 手 机 购 买 eos bos 港 澳 台 手 机 购 买 eos
+保障项目如何申请理赔		某情景下全残或身故赔偿		bos 疾 病 qj 怎 么 赔 eos bos 疾 病 qj 怎 么 赔 eos
+询问保单借款		other		bos bxcp 保 单 贷 款 利 息 eos bos bxcp 保 单 贷 款 利 息 eos
+体检标准		某项体检的包含项		bos 体 检 项 目 是 哪 些 eos bos 体 检 项 目 是 哪 些 eos
+other		询问增值服务内容		bos 检 测 结 果 准 确 吗 eos bos 检 测 结 果 准 确 吗 eos
+责任免除		保障免除项目的责任免除详情		bos bxcp 不 保 什 么 eos bos bxcp 不 保 什 么 eos
+疾病是否赔某个保障项目		某种疾病是否在承保范围内		bos bzxm jb 赔 偿 吗 eos bos bzxm jb 赔 偿 吗 eos
+释义项定义		other		bos bxcp 保 险 费 应 缴 日 eos bos bxcp 保 险 费 应 缴 日 eos
+投保规则		特殊人群投保规则		bos 智 能 障 碍 者 投 保 eos bos 智 能 障 碍 者 投 保 eos
+申请理赔		保障项目如何申请理赔 理赔渠道申请流程		bos 理 赔 流 程 eos bos 理 赔 流 程 eos
+申请理赔		理赔渠道申请流程		bos 国 外 理 陪 的 流 程 eos bos 国 外 理 陪 的 流 程 eos
+询问免赔额		询问险种免赔额数值		bos bxzl 免 赔 额 价 值 eos bos bxzl 免 赔 额 价 值 eos
+某情景是否在承保范围内		情景是否赔偿某个保障项目		bos qj 赔 不 赔 bzxm eos bos qj 赔 不 赔 bzxm eos
+保障项目的赔付		某情景下全残或身故赔偿		bos qj 全 残 怎 么 赔 eos bos qj 全 残 怎 么 赔 eos
+询问免赔额		询问险种免赔额数值		bos bxzl 免 赔 额 多 少 eos bos bxzl 免 赔 额 多 少 eos
+申请理赔		某种疾病是否在承保范围内		bos jb 可 以 理 赔 吗 eos bos jb 可 以 理 赔 吗 eos
+理赔的地域限制		产品保障的地域限制		bos 在 国 外 可 以 买 吗 eos bos 在 国 外 可 以 买 吗 eos
+释义项的定义		保障项目的定义		bos bxcp 的 bzxm 是 什 么 eos bos bxcp 的 bzxm 是 什 么 eos
+保额限制		产品保额限制		bos bxcp 最 高 保 额 多 少 eos bos bxcp 最 高 保 额 多 少 eos
+释义项定义		释义项的定义		bos bxcp 保 险 费 应 缴 日 eos bos bxcp 保 险 费 应 缴 日 eos
+询问联系方式		询问分公司联系方式		bos 有 那 些 分 支 机 构 eos bos 有 那 些 分 支 机 构 eos
+询问联系方式		询问分公司联系方式		bos 联 系 方 式 是 什 么 eos bos 联 系 方 式 是 什 么 eos
+投保规则		询问投保规则		bos bxcp 最 高 投 保 要 求 eos bos bxcp 最 高 投 保 要 求 eos
+疾病种类包含哪些疾病		询问保险责任 疾病种类的定义		bos 保 多 少 种 jbzl eos bos 保 多 少 种 jbzl eos
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos jbzl 保 障 有 哪 些 eos bos jbzl 保 障 有 哪 些 eos
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos 哪 些 疾 病 算 jbzl eos bos 哪 些 疾 病 算 jbzl eos
+产品续保		询问保险条款		bos bxcp 是 保 证 续 保 吗 eos bos bxcp 是 保 证 续 保 吗 eos
+询问保额		询问保险金额		bos bxcp 的 保 额 是 多 少 eos bos bxcp 的 保 额 是 多 少 eos
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos 哪 些 疾 病 是 jbzl eos bos 哪 些 疾 病 是 jbzl eos
+释义项定义		释义项的定义		bos bxcp 法 定 身 份 证 明 eos bos bxcp 法 定 身 份 证 明 eos
+体检指引		体检指引 体检标准		bos 4 0 岁 体 检 限 额 eos bos 4 0 岁 体 检 限 额 eos
+询问联系方式		询问分公司联系方式		bos 辽 宁 分 公 司 电 话 eos bos 辽 宁 分 公 司 电 话 eos
+询问保险责任		询问保险责任投保规则		bos bxcp 的 保 险 责 任 eos bos bxcp 的 保 险 责 任 eos
+释义项定义		释义项的定义		bos 医 学 必 要 是 指 什 么 eos bos 医 学 必 要 是 指 什 么 eos
+申请理赔		保障项目如何申请理赔		bos 何 时 申 请 满 期 金 eos bos 何 时 申 请 满 期 金 eos
+询问合同终止		询问特别约定		bos 的 附 加 条 件 是 什 么 eos bos 的 附 加 条 件 是 什 么 eos
+责任免除		保障项目的责任免除详情		bos bzxm 不 保 的 内 容 eos bos bzxm 不 保 的 内 容 eos
+保障项目的赔付		保障项目的责任免除详情		bos bzxm 不 保 的 范 围 eos bos bzxm 不 保 的 范 围 eos
+询问免赔额		询问保险条款		bos 免 赔 额 是 共 用 的 吗 eos bos 免 赔 额 是 共 用 的 吗 eos
+释义项定义		释义项的定义		bos 关 于 肿 瘤 免 疫 疗 法 eos bos 关 于 肿 瘤 免 疫 疗 法 eos
+询问保额		询问保险金额		bos 最 高 能 赔 偿 多 少 钱 eos bos 最 高 能 赔 偿 多 少 钱 eos
+释义项定义		释义项的定义		bos 解 释 一 下 医 学 必 要 eos bos 解 释 一 下 医 学 必 要 eos
+保哪些疾病		产品保哪些疾病		bos jbzl 都 保 什 么 病 种 eos bos jbzl 都 保 什 么 病 种 eos
+释义项定义		释义项的定义		bos 什 么 事 保 单 回 溯 / eos bos 什 么 事 保 单 回 溯 / eos
+投保限制		询问投保规则		bos 投 保 有 地 区 限 制 吗 eos bos 投 保 有 地 区 限 制 吗 eos
+询问复效期		询问保险期间		bos 合 同 有 效 期 是 多 久 eos bos 合 同 有 效 期 是 多 久 eos
+释义项定义		释义项的定义		bos 标 准 保 费 （ 寿 险 ） eos bos 标 准 保 费 （ 寿 险 ） eos
+释义项定义		释义项的定义		bos 哪 些 算 是 医 学 必 要 eos bos 哪 些 算 是 医 学 必 要 eos
+询问免责条款		询问保险条款		bos 主 险 合 同 免 责 条 款 eos bos 主 险 合 同 免 责 条 款 eos
+公司介绍		询问公司介绍		bos 你 们 是 什 么 公 司 啊 eos bos 你 们 是 什 么 公 司 啊 eos
+询问免责条款		询问保险条款		bos 死 亡 赔 付 免 责 条 款 eos bos 死 亡 赔 付 免 责 条 款 eos
+询问特别约定		询问合同终止		bos 的 附 加 条 件 是 什 么 eos bos 的 附 加 条 件 是 什 么 eos
+释义项定义		释义项的定义		bos 怎 么 理 解 医 学 必 要 eos bos 怎 么 理 解 医 学 必 要 eos
+投保限制		投保人条件限制		bos bxcp 什 么 人 可 以 买 eos bos bxcp 什 么 人 可 以 买 eos
+公司介绍		询问公司介绍		bos 介 绍 一 下 你 们 公 司 eos bos 介 绍 一 下 你 们 公 司 eos
+释义项定义		释义项的定义		bos 医 学 必 要 怎 么 理 解 eos bos 医 学 必 要 怎 么 理 解 eos
+某疾病是否属于某疾病种类		疾病种类包含哪些疾病		bos jb 是 否 属 于 jbzl eos bos jb 是 否 属 于 jbzl eos
+投保规则		询问如实告知		bos 健 康 状 况 有 要 求 吗 eos bos 健 康 状 况 有 要 求 吗 eos
+公司介绍		询问公司介绍		bos 你 们 公 司 有 多 少 人 eos bos 你 们 公 司 有 多 少 人 eos
+保障项目如何申请理赔		申请某保障项目所需资料		bos 申 请 bzxm 的 资 料 eos bos 申 请 bzxm 的 资 料 eos
+公司介绍		询问公司介绍		bos 广 东 省 有 分 公 司 吗 eos bos 广 东 省 有 分 公 司 吗 eos
+释义项定义		释义项的定义		bos 医 学 必 要 有 什 么 用 eos bos 医 学 必 要 有 什 么 用 eos
+产品续保		询问保险条款		bos 续 保 有 什 么 要 求 吗 eos bos 续 保 有 什 么 要 求 吗 eos
+产品续保		询问保险条款 产品续保		bos bxcp 保 证 续 保 吗 eos bos bxcp 保 证 续 保 吗 eos
+投保规则		询问投保规则		bos 健 康 状 况 有 要 求 吗 eos bos 健 康 状 况 有 要 求 吗 eos
+责任免除		保障项目的责任免除详情		bos bzxm 的 责 任 免 除 eos bos bzxm 的 责 任 免 除 eos
+释义项的定义		保障项目的定义		bos 我 想 了 解 一 下 bxzl eos bos 我 想 了 解 一 下 bxzl eos
+产品费用与报销		询问保险条款		bos 住 院 可 以 报 销 的 吗 eos bos 住 院 可 以 报 销 的 吗 eos
+询问合同解除		保障项目如何申请理赔		bos 解 除 合 同 的 流 程 eos bos 解 除 合 同 的 流 程 eos
+释义项定义		释义项的定义		bos 放 射 疗 法 有 什 么 用 eos bos 放 射 疗 法 有 什 么 用 eos
+释义项定义		保障项目的定义		bos bzxm 是 怎 么 定 义 的 eos bos bzxm 是 怎 么 定 义 的 eos
+释义项定义		释义项的定义		bos 身 体 健 康 怎 么 解 释 eos bos 身 体 健 康 怎 么 解 释 eos
+释义项定义		释义项的定义		bos 医 学 必 要 什 么 意 思 eos bos 医 学 必 要 什 么 意 思 eos
+产品保障期限		询问保险期间		bos 保 险 什 么 时 候 终 止 eos bos 保 险 什 么 时 候 终 止 eos
+释义项定义		释义项的定义		bos 民 航 班 机 怎 么 解 释 eos bos 民 航 班 机 怎 么 解 释 eos
+某种疾病是否在承保范围内		某种疾病的保障范围		bos jb 在 保 障 范 围 吗 eos bos jb 在 保 障 范 围 吗 eos
+释义项定义		释义项的定义		bos 重 症 监 护 室 的 定 义 eos bos 重 症 监 护 室 的 定 义 eos
+询问受益人		保险产品的定义		bos bxcp 指 定 受 益 份 额 eos bos bxcp 指 定 受 益 份 额 eos
+询问增值服务项目		询问某产品增值服务项目		bos bxcp 有 哪 些 服 务 eos bos bxcp 有 哪 些 服 务 eos
+释义项定义		释义项的定义		bos 什 么 叫 做 化 学 疗 法 eos bos 什 么 叫 做 化 学 疗 法 eos
+释义项定义		释义项的定义		bos 化 学 疗 法 怎 么 解 释 eos bos 化 学 疗 法 怎 么 解 释 eos
+责任免除		保障项目的责任免除详情		bos bxcp 的 除 外 责 任 eos bos bxcp 的 除 外 责 任 eos
+other		询问合同恢复		bos 重 新 申 请 自 动 转 账 eos bos 重 新 申 请 自 动 转 账 eos
+申请理赔		保障项目如何申请理赔		bos bxcp qj 了 怎 么 赔 eos bos bxcp qj 了 怎 么 赔 eos
+释义项定义		释义项的定义		bos 肿 瘤 标 志 物 的 意 义 eos bos 肿 瘤 标 志 物 的 意 义 eos
+询问增值服务项目		询问某产品增值服务项目		bos 说 说 你 们 的 服 务 eos bos 说 说 你 们 的 服 务 eos
+增值服务亮点		询问增值服务内容		bos fwxm 怎 么 申 请 使 用 eos bos fwxm 怎 么 申 请 使 用 eos
+理赔医院		国外医院的要求		bos 国 外 的 医 院 的 要 求 eos bos 国 外 的 医 院 的 要 求 eos
+询问增值服务项目		询问某产品增值服务项目		bos 服 务 内 容 有 哪 些 eos bos 服 务 内 容 有 哪 些 eos
+询问免赔额		询问免赔额定义		bos 免 赔 额 是 共 用 的 吗 eos bos 免 赔 额 是 共 用 的 吗 eos
+询问增值服务项目		询问某产品增值服务项目		bos 服 务 内 容 是 什 么 eos bos 服 务 内 容 是 什 么 eos
+other		理赔需要的材料		bos 索 赔 需 要 登 机 牌 吗 eos bos 索 赔 需 要 登 机 牌 吗 eos
+投保限制		投保人条件限制		bos 6 5 岁 还 能 投 保 吗 eos bos 6 5 岁 还 能 投 保 吗 eos
+体检标准		体检的时限要求		bos 体 检 时 限 有 无 要 求 eos bos 体 检 时 限 有 无 要 求 eos
+投保规则		询问投保规则		bos qj 投 保 有 什 么 限 制 eos bos qj 投 保 有 什 么 限 制 eos
+询问免赔额		询问免赔额定义		bos 理 赔 时 有 免 赔 额 吗 eos bos 理 赔 时 有 免 赔 额 吗 eos
+询问免责条款		询问保险条款		bos qj 免 责 条 款 有 什 么 eos bos qj 免 责 条 款 有 什 么 eos
+增值服务亮点		询问增值服务内容		bos fwxm 增 值 服 务 内 容 eos bos fwxm 增 值 服 务 内 容 eos
+保额限制		询问保额		bos bxcp 最 高 保 额 是 多 少 eos bos bxcp 最 高 保 额 是 多 少 eos
+疾病种类的定义		区分疾病种类的标准		bos jbzl 和 jbzl 的 区 别 eos bos jbzl 和 jbzl 的 区 别 eos
+询问保单借款		保单借款相关规定		bos bxcp 保 单 贷 款 利 息 eos bos bxcp 保 单 贷 款 利 息 eos
+责任免除		保障项目的责任免除详情		bos 全 残 免 责 有 什 么 eos bos 全 残 免 责 有 什 么 eos
+询问免赔额		询问免赔额定义		bos 如 何 计 算 免 赔 额 的 eos bos 如 何 计 算 免 赔 额 的 eos
+某情景是否在承保范围内		某情景下全残或身故赔偿		bos 疾 病 qj 可 以 赔 吗 eos bos 疾 病 qj 可 以 赔 吗 eos
+申请理赔		保障项目如何申请理赔		bos 如 何 申 领 bxcp bzxm eos bos 如 何 申 领 bxcp bzxm eos
+理赔条件		理赔申请后出现特殊情况的解决办法		bos 理 赔 上 门 服 务 eos bos 理 赔 上 门 服 务 eos
+理赔需要的材料		某情景下全残或身故赔偿		bos 疾 病 qj 理 赔 资 料 eos bos 疾 病 qj 理 赔 资 料 eos
+询问缴费方式		询问变更缴费方式		bos 月 缴 能 改 成 年 缴 吗 eos bos 月 缴 能 改 成 年 缴 吗 eos
+询问缴费方式		询问变更缴费方式		bos 缴 费 方 式 怎 么 变 更 eos bos 缴 费 方 式 怎 么 变 更 eos
+询问联系方式		询问变更通讯方式		bos 怎 么 更 新 电 话 号 码 eos bos 怎 么 更 新 电 话 号 码 eos
+某情景下全残或身故赔偿		某情景是否在承保范围内		bos 乘 坐 农 用 车 辆 qj eos bos 乘 坐 农 用 车 辆 qj eos
+增值服务亮点		增值服务使用时间		bos 电 话 医 生 能 用 多 久 eos bos 电 话 医 生 能 用 多 久 eos
+投保规则		特殊人群投保规则		bos 早 产 儿 可 以 购 买 吗 eos bos 早 产 儿 可 以 购 买 吗 eos
+询问附加险		询问投保规则 询问附加险		bos 附 加 险 投 保 规 则 eos bos 附 加 险 投 保 规 则 eos
+询问失踪处理		询问宣告死亡 询问失踪处理		bos bxcp 的 失 踪 处 理 eos bos bxcp 的 失 踪 处 理 eos
+询问缴费方式		询问变更缴费方式		bos 缴 费 方 式 怎 么 改 变 eos bos 缴 费 方 式 怎 么 改 变 eos
+询问减额缴清		减额缴清相关规定		bos 减 额 缴 清 怎 么 申 请 eos bos 减 额 缴 清 怎 么 申 请 eos
+询问缴费方式		询问变更缴费方式		bos 缴 费 方 式 中 途 更 换 eos bos 缴 费 方 式 中 途 更 换 eos
+投保限制		特殊人群投保规则		bos 6 5 岁 还 能 投 保 吗 eos bos 6 5 岁 还 能 投 保 吗 eos
+other		保费核算		bos 标 准 保 费 按 年 化 计 算 eos bos 标 准 保 费 按 年 化 计 算 eos
+询问附加险		询问现金价值 询问附加险		bos 附 加 险 现 金 价 值 eos bos 附 加 险 现 金 价 值 eos
+投保规则		特殊人群投保规则		bos 未 成 年 人 投 保 规 则 eos bos 未 成 年 人 投 保 规 则 eos
+other		询问增值服务内容		bos 怎 么 成 为 尊 崇 会 员 eos bos 怎 么 成 为 尊 崇 会 员 eos
+申请理赔		理赔申请后出现特殊情况的解决办法		bos 国 外 理 赔 流 程 eos bos 国 外 理 赔 流 程 eos
+保额限制		特殊人群投保限额		bos 未 成 年 人 投 保 限 额 eos bos 未 成 年 人 投 保 限 额 eos
+保障项目的赔付		疾病种类的赔付流程 保障项目的赔付		bos jbzl 是 怎 么 赔 eos bos jbzl 是 怎 么 赔 eos
+询问投保年龄		释义项的定义 询问投保年龄		bos 什 么 是 投 保 年 龄 eos bos 什 么 是 投 保 年 龄 eos
+投保规则		询问投保规则		bos bxcp 因 为 什 么 会 拒 保 eos bos bxcp 因 为 什 么 会 拒 保 eos
+保额限制		询问保险金额		bos bxcp 可 以 买 多 少 保 额 eos bos bxcp 可 以 买 多 少 保 额 eos
+保额限制		询问保险金额		bos bxcp 最 高 保 额 是 多 少 eos bos bxcp 最 高 保 额 是 多 少 eos
+保额限制		产品保额限制		bos bxcp 最 高 保 额 是 多 少 eos bos bxcp 最 高 保 额 是 多 少 eos
+申请理赔		保障项目如何申请理赔		bos bxcp 如 何 申 请 理 赔 eos bos bxcp 如 何 申 请 理 赔 eos
+疾病种类的定义		疾病种类的赔付流程		bos 亲 证 可 以 欺 负 几 次 eos bos 亲 证 可 以 欺 负 几 次 eos
+other		产品保额限制		bos bxcp 银 保 通 出 单 要 求 eos bos bxcp 银 保 通 出 单 要 求 eos
+疾病的定义		疾病种类的定义		bos jbzl 和 jbzl 如 何 定 义 eos bos jbzl 和 jbzl 如 何 定 义 eos
+申请理赔		得了某个疾病怎样申请理赔		bos jb 怎 么 申 请 理 赔 eos bos jb 怎 么 申 请 理 赔 eos
+other		产品保额限制		bos bxcp 银 保 通 出 单 限 额 eos bos bxcp 银 保 通 出 单 限 额 eos
+保额限制		产品保额限制		bos bxcp 可 以 买 多 少 保 额 eos bos bxcp 可 以 买 多 少 保 额 eos
+询问联系方式		询问分公司联系方式		bos 分 公 司 的 联 系 方 式 eos bos 分 公 司 的 联 系 方 式 eos
+投保规则		询问投保规则		bos bxcp 有 什 么 投 保 规 则 eos bos bxcp 有 什 么 投 保 规 则 eos
+某情景是否在承保范围内		某种疾病是否在承保范围内		bos jb 等 待 期 赔 钱 吗 eos bos jb 等 待 期 赔 钱 吗 eos
+询问信息误告		释义项的定义 询问信息误告		bos 什 么 是 年 龄 误 告 eos bos 什 么 是 年 龄 误 告 eos
+保额限制		产品保额限制		bos bxcp 保 额 有 什 么 要 求 eos bos bxcp 保 额 有 什 么 要 求 eos
+投保规则		询问投保规则		bos bxcp 投 保 的 其 他 规 则 eos bos bxcp 投 保 的 其 他 规 则 eos
+询问投保年龄		释义项的定义 询问投保年龄		bos 投 保 年 龄 是 什 么 eos bos 投 保 年 龄 是 什 么 eos
+申请理赔		保障项目如何申请理赔		bos bzxm 发 生 如 何 理 赔 eos bos bzxm 发 生 如 何 理 赔 eos
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos 8 0 种 jbzl 有 哪 些 eos bos 8 0 种 jbzl 有 哪 些 eos
+申请理赔		保障项目如何申请理赔		bos bzxm 怎 么 申 请 索 赔 eos bos bzxm 怎 么 申 请 索 赔 eos
+释义项定义		释义项的定义		bos bxcp 的 有 效 身 份 证 明 eos bos bxcp 的 有 效 身 份 证 明 eos
+询问保额		询问保额累计		bos bxcp 的 保 额 累 计 规 则 eos bos bxcp 的 保 额 累 计 规 则 eos
+询问信息误告		释义项的定义 询问信息误告		bos 年 龄 误 告 是 什 么 eos bos 年 龄 误 告 是 什 么 eos
+投保指引		询问投保规则		bos bxcp 的 健 康 核 保 规 则 eos bos bxcp 的 健 康 核 保 规 则 eos
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos jbzl 包 括 哪 些 疾 病 eos bos jbzl 包 括 哪 些 疾 病 eos
+申请理赔		保障项目如何申请理赔		bos bzxm 我 想 申 请 理 赔 eos bos bzxm 我 想 申 请 理 赔 eos
+责任免除		保障项目的责任免除详情		bos bzxm 责 任 免 除 内 容 eos bos bzxm 责 任 免 除 内 容 eos
+公司介绍		询问公司介绍		bos 你 们 公 司 规 模 怎 么 样 eos bos 你 们 公 司 规 模 怎 么 样 eos
+询问免赔额		询问免赔额数值		bos bxcp 的 免 赔 额 是 多 少 eos bos bxcp 的 免 赔 额 是 多 少 eos
+询问特别约定		询问合同终止		bos 有 没 有 什 么 附 加 条 件 eos bos 有 没 有 什 么 附 加 条 件 eos
+释义项定义		释义项的定义		bos 医 学 必 要 干 什 么 用 的 eos bos 医 学 必 要 干 什 么 用 的 eos
+释义项定义		保障项目的定义		bos 航 空 意 外 bzxm 是 什 么 eos bos 航 空 意 外 bzxm 是 什 么 eos
+申请理赔		询问投保人		bos 投 保 人 qj 后 如 何 办 理 eos bos 投 保 人 qj 后 如 何 办 理 eos
+other		询问保单借款		bos 中 间 可 以 取 钱 出 来 吗 eos bos 中 间 可 以 取 钱 出 来 吗 eos
+投保规则		询问投保年龄		bos 未 成 年 人 可 以 投 保 吗 eos bos 未 成 年 人 可 以 投 保 吗 eos
+投保限制		询问投保规则		bos 买 保 险 有 什 么 要 求 吗 eos bos 买 保 险 有 什 么 要 求 吗 eos
+疾病包含哪些疾病		询问疾病种类包含哪些		bos 包 括 哪 些 疾 病 种 类 eos bos 包 括 哪 些 疾 病 种 类 eos
+某种疾病是否在承保范围内		某种疾病的保障范围		bos jb 在 不 在 保 障 范 围 eos bos jb 在 不 在 保 障 范 围 eos
+释义项定义		释义项的定义		bos 医 学 必 要 的 官 方 解 释 eos bos 医 学 必 要 的 官 方 解 释 eos
+释义项定义		释义项的定义		bos 医 学 必 要 的 官 方 说 法 eos bos 医 学 必 要 的 官 方 说 法 eos
+公司介绍		询问公司介绍		bos 我 想 了 解 下 你 们 公 司 eos bos 我 想 了 解 下 你 们 公 司 eos
+释义项定义		释义项的定义		bos 什 么 是 基 本 保 险 金 额 eos bos 什 么 是 基 本 保 险 金 额 eos
+责任免除		保障项目的责任免除详情		bos 哪 些 情 况 不 赔 bzxm eos bos 哪 些 情 况 不 赔 bzxm eos
+责任免除		保障项目的责任免除详情		bos bzxm 不 赔 偿 的 哪 些 eos bos bzxm 不 赔 偿 的 哪 些 eos
+理赔条件		询问保险条款		bos 门 诊 的 报 销 有 要 求 吗 eos bos 门 诊 的 报 销 有 要 求 吗 eos
+释义项定义		释义项的定义		bos bxzl 合 同 恢 复 jb 定 义 eos bos bxzl 合 同 恢 复 jb 定 义 eos
+释义项的定义		保险产品的定义		bos bxcp 具 体 是 怎 么 回 事 eos bos bxcp 具 体 是 怎 么 回 事 eos
+产品续保		询问保险责任 产品续保		bos bxcp 是 否 可 以 续 保 eos bos bxcp 是 否 可 以 续 保 eos
+释义项定义		释义项的定义		bos 基 本 保 险 金 额 是 什 么 eos bos 基 本 保 险 金 额 是 什 么 eos
+责任免除		保障项目的责任免除详情		bos bzxm 有 什 么 不 保 的 eos bos bzxm 有 什 么 不 保 的 eos
+释义项定义		释义项的定义		bos 什 么 是 肿 瘤 免 疫 疗 法 eos bos 什 么 是 肿 瘤 免 疫 疗 法 eos
+增值服务亮点		增值服务使用时间		bos bxcp fwxm 什 么 用 多 久 eos bos bxcp fwxm 什 么 用 多 久 eos
+产品续保		询问保险条款		bos 是 不 是 一 定 可 以 续 保 eos bos 是 不 是 一 定 可 以 续 保 eos
+释义项定义		释义项的定义		bos 身 体 健 康 有 什 么 定 义 eos bos 身 体 健 康 有 什 么 定 义 eos
+释义项定义		释义项的定义		bos 关 于 肿 瘤 内 分 泌 疗 法 eos bos 关 于 肿 瘤 内 分 泌 疗 法 eos
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos 4 0 种 疾 病 有 哪 些 eos bos 4 0 种 疾 病 有 哪 些 eos
+other		服务内容介绍		bos 签 合 同 有 无 经 办 人 的 eos bos 签 合 同 有 无 经 办 人 的 eos
+询问区别		询问特别约定		bos 有 没 有 什 么 附 加 条 件 eos bos 有 没 有 什 么 附 加 条 件 eos
+释义项定义		保障项目的定义		bos bzxm 具 体 是 怎 么 回 事 eos bos bzxm 具 体 是 怎 么 回 事 eos
+释义项定义		释义项的定义		bos 机 动 车 包 括 哪 些 车 辆 eos bos 机 动 车 包 括 哪 些 车 辆 eos
+释义项定义		保险种类的定义		bos 给 我 介 绍 一 下 bxzl 吧 eos bos 给 我 介 绍 一 下 bxzl 吧 eos
+询问保额		询问保险金额		bos 保 险 金 额 可 以 更 改 吗 eos bos 保 险 金 额 可 以 更 改 吗 eos
+释义项定义		释义项的定义		bos 什 么 是 癌 症 靶 向 疗 法 eos bos 什 么 是 癌 症 靶 向 疗 法 eos
+体检指引		询问体检或验尸		bos 买 bxcp 有 体 检 要 求 吗 eos bos 买 bxcp 有 体 检 要 求 吗 eos
+释义项定义		保障项目的定义		bos 租 赁 车 、 网 约 车 bzxm eos bos 租 赁 车 、 网 约 车 bzxm eos
+释义项定义		释义项的定义		bos 冠 状 动 脉 支 架 植 入 术 eos bos 冠 状 动 脉 支 架 植 入 术 eos
+公司介绍		询问公司介绍		bos 你 们 公 司 是 做 什 么 的 eos bos 你 们 公 司 是 做 什 么 的 eos
+释义项定义		释义项的定义		bos 肿 瘤 免 疫 疗 法 是 什 么 eos bos 肿 瘤 免 疫 疗 法 是 什 么 eos
+释义项定义		释义项的定义		bos 化 学 疗 法 是 怎 么 定 义 eos bos 化 学 疗 法 是 怎 么 定 义 eos
+释义项定义		释义项的定义		bos 癌 症 靶 向 疗 法 是 什 么 eos bos 癌 症 靶 向 疗 法 是 什 么 eos
+产品续保		询问保险条款		bos 续 保 流 程 是 怎 么 样 的 eos bos 续 保 流 程 是 怎 么 样 的 eos
+高发疾病		疾病种类包含哪些疾病		bos 高 发 疾 病 都 有 哪 些 eos bos 高 发 疾 病 都 有 哪 些 eos
+释义项定义		释义项的定义		bos 分 公 司 （ 二 级 机 构 ） eos bos 分 公 司 （ 二 级 机 构 ） eos
+询问保额		询问保额规定		bos 体 检 保 额 有 什 么 规 定 eos bos 体 检 保 额 有 什 么 规 定 eos
+释义项定义		释义项的定义		bos 机 动 车 的 定 义 是 什 么 eos bos 机 动 车 的 定 义 是 什 么 eos
+other		询问保单借款		bos 资 金 周 转 可 以 取 钱 吗 eos bos 资 金 周 转 可 以 取 钱 吗 eos
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 是 怎 么 赔 的 呢 eos bos jbzl 是 怎 么 赔 的 呢 eos
+other		产品费用与报销		bos 报 了 能 再 给 回 发 票 吗 eos bos 报 了 能 再 给 回 发 票 吗 eos
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 怎 么 申 请 索 赔 eos bos jbzl 怎 么 申 请 索 赔 eos
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 如 何 申 请 理 赔 eos bos jbzl 如 何 申 请 理 赔 eos
+other		产品费用与报销		bos 报 了 能 再 拿 回 发 票 吗 eos bos 报 了 能 再 拿 回 发 票 吗 eos
+保哪些疾病		产品保哪些疾病		bos 这 款 保 险 保 哪 些 疾 病 eos bos 这 款 保 险 保 哪 些 疾 病 eos
+释义项定义		保险种类的定义		bos 机 动 车 商 业 险 是 什 么 eos bos 机 动 车 商 业 险 是 什 么 eos
+询问保额累计		询问保险金额累计		bos bxcp 的 保 额 累 计 规 则 eos bos bxcp 的 保 额 累 计 规 则 eos
+增值服务亮点		增值服务使用时间		bos fwxm 增 值 服 务 有 效 期 eos bos fwxm 增 值 服 务 有 效 期 eos
+other		产品费用与报销		bos 报 了 能 再 退 回 发 票 吗 eos bos 报 了 能 再 退 回 发 票 吗 eos
+投保限制		投保人条件限制		bos 买 保 险 有 什 么 要 求 吗 eos bos 买 保 险 有 什 么 要 求 吗 eos
+释义项定义		询问宽限期定义		bos 保 费 不 按 时 交 会 怎 样 eos bos 保 费 不 按 时 交 会 怎 样 eos
+保哪些疾病		产品保哪些疾病		bos 这 个 保 险 保 哪 些 疾 病 eos bos 这 个 保 险 保 哪 些 疾 病 eos
+询问保险金额		询问基本保险金额		bos bxcp 的 基 本 保 险 金 额 eos bos bxcp 的 基 本 保 险 金 额 eos
+询问免责条款		询问保险条款		bos qj 免 责 条 款 包 括 哪 些 eos bos qj 免 责 条 款 包 括 哪 些 eos
+保哪些疾病		询问保险条款 疾病种类包含哪些疾病		bos 9 0 种 jbzl 条 款 eos bos 9 0 种 jbzl 条 款 eos
+询问保额		询问保险金额		bos bzxm 和 bzxm 共 用 保 额 吗 eos bos bzxm 和 bzxm 共 用 保 额 吗 eos
+投保规则		特殊人群投保规则		bos 零 岁 的 宝 宝 买 多 少 钱 eos bos 零 岁 的 宝 宝 买 多 少 钱 eos
+产品介绍		产品升级介绍		bos bxcp 怎 么 申 请 升 级 bxcp eos bos bxcp 怎 么 申 请 升 级 bxcp eos
+增值服务亮点		增值服务使用时间		bos 电 话 医 生 的 服 务 时 间 eos bos 电 话 医 生 的 服 务 时 间 eos
+申请理赔		得了某类疾病怎样申请理赔		bos 理 赔 该 怎 么 走 流 程 eos bos 理 赔 该 怎 么 走 流 程 eos
+投保规则		特殊人群投保规则		bos 两 岁 小 孩 可 以 投 保 吗 eos bos 两 岁 小 孩 可 以 投 保 吗 eos
+保费核算		推荐保额		bos 女 性 3 0 岁 该 买 多 少 钱 eos bos 女 性 3 0 岁 该 买 多 少 钱 eos
+产品介绍		产品升级介绍		bos bxcp 可 以 升 级 成 bxcp / eos bos bxcp 可 以 升 级 成 bxcp / eos
+询问受益人		变更受益人相关规定		bos bxcp 怎 么 变 更 受 益 人 eos bos bxcp 怎 么 变 更 受 益 人 eos
+保障项目的赔付		保障项目的赔付次数		bos bzxm 可 以 赔 付 多 少 次 eos bos bzxm 可 以 赔 付 多 少 次 eos
+产品介绍		产品升级介绍		bos bxcp 可 以 升 级 为 bxcp 吗 eos bos bxcp 可 以 升 级 为 bxcp 吗 eos
+释义项定义		询问基本保险金额		bos 基 本 保 险 金 额 是 多 少 eos bos 基 本 保 险 金 额 是 多 少 eos
+释义项定义		保障项目的定义		bos bxcp 的 （ 1 ） 疾 病 bzxm eos bos bxcp 的 （ 1 ） 疾 病 bzxm eos
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos 9 0 种 jbzl 都 有 什 么 eos bos 9 0 种 jbzl 都 有 什 么 eos
+询问联系方式		询问分公司联系方式		bos 河 南 分 公 司 联 系 方 式 eos bos 河 南 分 公 司 联 系 方 式 eos
+询问保额		询问保额规定		bos bxcp 的 保 额 规 定 是 多 少 eos bos bxcp 的 保 额 规 定 是 多 少 eos
+变更投保人		变更投保人相关规定		bos 变 更 投 保 人 要 怎 么 办 eos bos 变 更 投 保 人 要 怎 么 办 eos
+申请理赔		保障项目如何申请理赔		bos bzxm 理 赔 有 什 么 方 法 eos bos bzxm 理 赔 有 什 么 方 法 eos
+other		产品期满返还		bos bxcp 具 备 返 本 的 功 能 吗 eos bos bxcp 具 备 返 本 的 功 能 吗 eos
+询问保额		询问保额规定		bos bxcp 的 每 份 保 额 是 多 少 eos bos bxcp 的 每 份 保 额 是 多 少 eos
+询问合作医院		询问合作医院 询问增值服务内容		bos jbzl fwxm 合 作 医 院 eos bos jbzl fwxm 合 作 医 院 eos
+释义项定义		询问保单借款		bos bxcp 保 险 单 借 款 的 解 释 eos bos bxcp 保 险 单 借 款 的 解 释 eos
+释义项定义		释义项的定义		bos 什 么 叫 做 专 家 手 术 fwxm eos bos 什 么 叫 做 专 家 手 术 fwxm eos
+询问免责条款		询问保险条款 保障项目的责任免除详情		bos bxcp 的 免 责 条 款 eos bos bxcp 的 免 责 条 款 eos
+公司介绍		询问公司有哪些产品		bos 介 绍 下 你 们 家 的 产 品 eos bos 介 绍 下 你 们 家 的 产 品 eos
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos 具 体 是 哪 9 0 种 jbzl eos bos 具 体 是 哪 9 0 种 jbzl eos
+询问联系方式		询问分公司联系方式		bos 天 津 分 公 司 联 系 方 式 eos bos 天 津 分 公 司 联 系 方 式 eos
+某种疾病的保障范围		某种疾病是否在承保范围内		bos jb 在 不 在 保 障 范 围 eos bos jb 在 不 在 保 障 范 围 eos
+释义项定义		释义项的定义		bos bxzl 的 生 存 期 是 指 什 么 eos bos bxzl 的 生 存 期 是 指 什 么 eos
+询问联系方式		询问分公司联系方式		bos 山 西 分 公 司 联 系 方 式 eos bos 山 西 分 公 司 联 系 方 式 eos
+询问联系方式		询问分公司联系方式		bos 广 西 分 公 司 联 系 方 式 eos bos 广 西 分 公 司 联 系 方 式 eos
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos 9 0 种 jbzl 有 哪 些 啊 eos bos 9 0 种 jbzl 有 哪 些 啊 eos
+投保规则		询问投保规则		bos bxcp 的 拒 保 规 则 是 什 么 eos bos bxcp 的 拒 保 规 则 是 什 么 eos
+询问保额		询问保额累计		bos bxcp 未 成 年 人 保 额 累 计 eos bos bxcp 未 成 年 人 保 额 累 计 eos
+询问联系方式		询问分公司联系方式		bos 北 京 分 公 司 联 系 方 式 eos bos 北 京 分 公 司 联 系 方 式 eos
+申请理赔		保障项目如何申请理赔		bos bzxm 怎 么 样 去 理 赔 呢 eos bos bzxm 怎 么 样 去 理 赔 呢 eos
+释义项定义		释义项的定义		bos bxcp 保 险 单 借 款 的 解 释 eos bos bxcp 保 险 单 借 款 的 解 释 eos
+投保规则		询问投保规则		bos bxcp 的 投 保 规 则 有 哪 些 eos bos bxcp 的 投 保 规 则 有 哪 些 eos
+保障项目的赔付		保障项目的赔付次数		bos 这 个 保 险 可 以 赔 几 次 eos bos 这 个 保 险 可 以 赔 几 次 eos
+询问保额		询问保险金额		bos bxcp 的 保 额 是 固 定 的 吗 eos bos bxcp 的 保 额 是 固 定 的 吗 eos
+申请理赔		保障项目如何申请理赔		bos bzxm 怎 么 申 请 理 赔 呢 eos bos bzxm 怎 么 申 请 理 赔 呢 eos
+申请理赔		保障项目如何申请理赔		bos bzxm 理 赔 材 料 有 哪 些 eos bos bzxm 理 赔 材 料 有 哪 些 eos
+投保规则		询问投保规则		bos bxcp 的 拒 保 规 则 有 哪 些 eos bos bxcp 的 拒 保 规 则 有 哪 些 eos
+询问联系方式		询问分公司联系方式		bos 分 公 司 的 电 话 是 多 少 eos bos 分 公 司 的 电 话 是 多 少 eos
+释义项定义		other		bos 住 院 的 标 准 不 包 括 哪 些 eos bos 住 院 的 标 准 不 包 括 哪 些 eos
+询问联系方式		询问分公司联系方式		bos 山 东 分 公 司 联 系 方 式 eos bos 山 东 分 公 司 联 系 方 式 eos
+询问缴费年期		询问保费垫缴		bos 没 有 缴 付 保 险 费 怎 么 办 eos bos 没 有 缴 付 保 险 费 怎 么 办 eos
+询问免赔额		询问免赔额数值		bos bxcp 的 免 赔 额 是 多 少 啊 eos bos bxcp 的 免 赔 额 是 多 少 啊 eos
+询问合同终止		询问特别约定		bos 合 同 上 有 没 有 特 别 约 定 eos bos 合 同 上 有 没 有 特 别 约 定 eos
+释义项定义		释义项的定义		bos 长 ( 短 ) 期 险 保 费 占 比 eos bos 长 ( 短 ) 期 险 保 费 占 比 eos
+释义项定义		释义项的定义		bos 现 金 分 红 ( 保 费 分 红 ） eos bos 现 金 分 红 ( 保 费 分 红 ） eos
+other		询问保单借款		bos 中 途 钱 可 以 拿 出 来 用 吗 eos bos 中 途 钱 可 以 拿 出 来 用 吗 eos
+询问保额		询问保额规定		bos 国 外 理 赔 保 额 会 变 化 吗 eos bos 国 外 理 赔 保 额 会 变 化 吗 eos
+某情景下全残或身故赔偿		保障项目如何申请理赔		bos bxcp 对 于 qj 怎 么 赔 付 eos bos bxcp 对 于 qj 怎 么 赔 付 eos
+释义项定义		释义项的定义		bos 住 院 的 标 准 不 包 括 哪 些 eos bos 住 院 的 标 准 不 包 括 哪 些 eos
+询问等待期		询问等待期 产品续保		bos 续 保 有 多 少 天 等 待 期 eos bos 续 保 有 多 少 天 等 待 期 eos
+释义项定义		释义项的定义		bos 我 想 了 解 一 下 医 学 必 要 eos bos 我 想 了 解 一 下 医 学 必 要 eos
+投保规则		询问投保规则		bos 之 前 做 过 手 术 能 参 加 吗 eos bos 之 前 做 过 手 术 能 参 加 吗 eos
+产品续保		询问保险条款		bos 是 不 是 无 条 件 续 保 的 呢 eos bos 是 不 是 无 条 件 续 保 的 呢 eos
+other		产品保障期限		bos 合 同 到 期 后 还 有 保 障 吗 eos bos 合 同 到 期 后 还 有 保 障 吗 eos
+释义项定义		释义项的定义		bos 误 合 法 有 效 驾 驶 证 驾 驶 eos bos 误 合 法 有 效 驾 驶 证 驾 驶 eos
+责任免除		保障项目的责任免除详情		bos bzxm 什 么 情 况 下 不 保 eos bos bzxm 什 么 情 况 下 不 保 eos
+询问保额		询问保险金额		bos 保 险 金 额 什 么 时 候 会 赔 eos bos 保 险 金 额 什 么 时 候 会 赔 eos
+释义项定义		释义项的定义		bos 住 院 需 要 满 足 哪 些 条 件 eos bos 住 院 需 要 满 足 哪 些 条 件 eos
+释义项定义		释义项的定义		bos 临 分 （ 合 同 ） 保 费 占 比 eos bos 临 分 （ 合 同 ） 保 费 占 比 eos
+公司介绍		询问公司介绍		bos 介 绍 一 下 你 们 公 司 吧 ！ eos bos 介 绍 一 下 你 们 公 司 吧 ！ eos
+询问免责条款		保障项目的责任免除详情		bos bxcp 的 其 他 免 责 条 款 eos bos bxcp 的 其 他 免 责 条 款 eos
+投保指引		投保人和被保险人关系		bos 爷 爷 帮 孙 子 买 可 以 吗 eos bos 爷 爷 帮 孙 子 买 可 以 吗 eos
+公司介绍		询问公司介绍		bos 你 们 公 司 业 务 范 围 广 吗 eos bos 你 们 公 司 业 务 范 围 广 吗 eos
+释义项定义		释义项的定义		bos 投 保 人 豁 免 是 什 么 意 思 eos bos 投 保 人 豁 免 是 什 么 意 思 eos
+释义项定义		释义项的定义		bos 机 动 车 的 是 怎 么 定 义 的 eos bos 机 动 车 的 是 怎 么 定 义 的 eos
+释义项定义		释义项的定义		bos 医 学 必 要 是 怎 么 定 义 的 eos bos 医 学 必 要 是 怎 么 定 义 的 eos
+责任免除		保障项目的责任免除详情		bos bzxm 什 么 情 况 下 免 责 eos bos bzxm 什 么 情 况 下 免 责 eos
+释义项定义		释义项的定义		bos 人 身 险 危 险 保 额 的 意 义 eos bos 人 身 险 危 险 保 额 的 意 义 eos
+释义项定义		释义项的定义		bos 什 么 是 肿 瘤 内 分 泌 疗 法 eos bos 什 么 是 肿 瘤 内 分 泌 疗 法 eos
+责任免除		保障项目的责任免除详情		bos bzxm 哪 些 情 况 是 免 赔 eos bos bzxm 哪 些 情 况 是 免 赔 eos
+释义项定义		某情景下全残或身故赔偿		bos 租 赁 车 、 网 约 车 bzxm eos bos 租 赁 车 、 网 约 车 bzxm eos
+释义项定义		释义项的定义		bos 癌 症 靶 向 疗 法 有 什 么 用 eos bos 癌 症 靶 向 疗 法 有 什 么 用 eos
+释义项定义		释义项的定义		bos 化 学 疗 法 的 目 的 是 什 么 eos bos 化 学 疗 法 的 目 的 是 什 么 eos
+释义项定义		释义项的定义		bos 永 久 不 可 逆 是 怎 么 解 释 eos bos 永 久 不 可 逆 是 怎 么 解 释 eos
+询问增值服务项目		询问某产品增值服务项目		bos bxcp 是 什 么 特 色 服 务 eos bos bxcp 是 什 么 特 色 服 务 eos
+询问保额		询问合同恢复		bos 如 何 恢 复 保 单 自 动 扣 钱 eos bos 如 何 恢 复 保 单 自 动 扣 钱 eos
+责任免除		保障项目的责任免除详情		bos bzxm 不 保 有 哪 些 情 况 eos bos bzxm 不 保 有 哪 些 情 况 eos
+询问保额		询问保险金额		bos 整 个 保 障 只 保 5 0 万 吗 eos bos 整 个 保 障 只 保 5 0 万 吗 eos
+产品续保		询问保险条款 产品续保		bos bxcp 可 以 保 证 续 保 吗 eos bos bxcp 可 以 保 证 续 保 吗 eos
+释义项定义		释义项的定义		bos 人 均 保 费 （ 人 均 产 能 ） eos bos 人 均 保 费 （ 人 均 产 能 ） eos
+保障免除项目的责任免除详情		保障项目的责任免除详情		bos bzxm 哪 些 情 况 不 赔 偿 eos bos bzxm 哪 些 情 况 不 赔 偿 eos
+理赔条件		产品费用与报销		bos bxcp 怎 么 报 销 门 诊 费 用 eos bos bxcp 怎 么 报 销 门 诊 费 用 eos
+责任免除		保障项目的责任免除详情		bos bzxm 不 赔 的 情 况 哪 些 eos bos bzxm 不 赔 的 情 况 哪 些 eos
+询问免赔额		询问保险条款		bos 免 赔 额 是 不 是 分 开 算 的 eos bos 免 赔 额 是 不 是 分 开 算 的 eos
+询问复效期		复效期有无收取滞纳金		bos 复 效 期 有 没 有 滞 纳 金 eos bos 复 效 期 有 没 有 滞 纳 金 eos
+责任免除		保障项目的责任免除详情		bos bzxm 什 么 是 责 任 免 除 eos bos bzxm 什 么 是 责 任 免 除 eos
+释义项定义		释义项的定义		bos 人 身 险 危 险 保 额 的 意 思 eos bos 人 身 险 危 险 保 额 的 意 思 eos
+申请理赔		得了某类疾病怎样申请理赔		bos 患 了 jbzl 怎 么 理 赔 / eos bos 患 了 jbzl 怎 么 理 赔 / eos
+询问保额规定		询问保险金额规定		bos bxcp 的 保 额 规 定 是 多 少 eos bos bxcp 的 保 额 规 定 是 多 少 eos
+询问等待期		疾病是否赔某个保障项目		bos bzxm jb 等 待 期 要 赔 吗 eos bos bzxm jb 等 待 期 要 赔 吗 eos
+增值服务亮点		增值服务使用时间		bos fwxm 增 值 服 务 截 止 时 间 eos bos fwxm 增 值 服 务 截 止 时 间 eos
+询问合作医院		询问合作医院 询问增值服务内容		bos 有 导 医 陪 诊 的 医 院 eos bos 有 导 医 陪 诊 的 医 院 eos
+询问增值服务项目		询问某产品增值服务项目		bos 对 了 有 哪 些 增 值 服 务 eos bos 对 了 有 哪 些 增 值 服 务 eos
+公司介绍		询问公司介绍 公司地址		bos 你 们 公 司 有 哪 些 机 构 eos bos 你 们 公 司 有 哪 些 机 构 eos
+询问增值服务项目		询问某产品增值服务项目		bos 公 司 有 哪 些 增 值 服 务 eos bos 公 司 有 哪 些 增 值 服 务 eos
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 怎 么 样 去 理 赔 呢 eos bos jbzl 怎 么 样 去 理 赔 呢 eos
+询问合同恢复		询问保险费缴纳		bos 如 何 恢 复 保 单 自 动 扣 钱 eos bos 如 何 恢 复 保 单 自 动 扣 钱 eos
+增值服务亮点		增值服务使用时间		bos fwxm 增 值 服 务 使 用 时 效 eos bos fwxm 增 值 服 务 使 用 时 效 eos
+询问增值服务项目		询问某产品增值服务项目		bos 有 没 有 什 么 争 执 服 务 eos bos 有 没 有 什 么 争 执 服 务 eos
+释义项定义		释义项的定义		bos 合 同 恢 复 qj 不 知 道 是 啥 eos bos 合 同 恢 复 qj 不 知 道 是 啥 eos
+增值服务亮点		增值服务使用次数		bos fwxm 增 值 服 务 使 用 次 数 eos bos fwxm 增 值 服 务 使 用 次 数 eos
+申请理赔		理赔的地域限制		bos 国 外 理 陪 流 程 是 怎 么 样 eos bos 国 外 理 陪 流 程 是 怎 么 样 eos
+疾病种类豁免		区分疾病种类的标准		bos jbzl 和 jbzl 有 什 么 区 别 eos bos jbzl 和 jbzl 有 什 么 区 别 eos
+保额限制		特殊人群投保限额		bos bxcp 未 成 年 人 投 保 限 额 eos bos bxcp 未 成 年 人 投 保 限 额 eos
+保额限制		产品保额限制 特殊人群投保限额		bos 未 成 年 人 投 保 限 额 eos bos 未 成 年 人 投 保 限 额 eos
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 要 携 带 什 么 材 料 eos bos jbzl 要 携 带 什 么 材 料 eos
+询问某产品增值服务项目		购买某项保险产品有无优惠		bos bxcp 有 什 么 可 以 赠 送 eos bos bxcp 有 什 么 可 以 赠 送 eos
+询问增值服务项目		询问某产品增值服务项目		bos 1 0 年 期 有 什 么 服 务 eos bos 1 0 年 期 有 什 么 服 务 eos
+询问保费垫缴		询问保险费缴纳		bos 都 可 以 怎 样 缴 保 险 费 呢 eos bos 都 可 以 怎 样 缴 保 险 费 呢 eos
+询问赔付比例		某情景是否在承保范围内		bos bxcp 有 qj 比 例 赔 付 吗 eos bos bxcp 有 qj 比 例 赔 付 吗 eos
+询问免赔额		询问免赔额定义		bos 免 赔 额 是 不 是 分 开 算 的 eos bos 免 赔 额 是 不 是 分 开 算 的 eos
+保障项目如何申请理赔		某情景下全残或身故赔偿		bos bxcp 对 于 qj 怎 么 赔 付 eos bos bxcp 对 于 qj 怎 么 赔 付 eos
+other		产品费用与报销		bos 报 销 完 后 会 退 回 病 历 吗 eos bos 报 销 完 后 会 退 回 病 历 吗 eos
+理赔条件		保障项目的赔付 理赔条件		bos bzxm 有 哪 些 附 件 条 件 eos bos bzxm 有 哪 些 附 件 条 件 eos
+疾病种类的定义		区分疾病种类的标准		bos jbzl 和 jbzl 有 什 么 不 同 eos bos jbzl 和 jbzl 有 什 么 不 同 eos
+询问保费垫缴		询问宽限期时间		bos 没 有 缴 付 保 险 费 怎 么 办 eos bos 没 有 缴 付 保 险 费 怎 么 办 eos
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 赔 偿 要 什 么 材 料 eos bos jbzl 赔 偿 要 什 么 材 料 eos
+产品续保		保险产品支持保全项		bos bxcp 投 保 之 后 修 改 什 么 eos bos bxcp 投 保 之 后 修 改 什 么 eos
+投保途径		某渠道的投保流程		bos 中 信 银 行 手 机 投 保 流 程 eos bos 中 信 银 行 手 机 投 保 流 程 eos
+申请理赔		保障项目如何申请理赔		bos 如 何 获 得 理 赔 bxcp bzxm eos bos 如 何 获 得 理 赔 bxcp bzxm eos
+询问保险金额		询问基本保险金额		bos 基 本 保 险 金 额 在 哪 载 明 eos bos 基 本 保 险 金 额 在 哪 载 明 eos
+other		保费核算		bos 年 交 的 保 费 才 是 标 准 保 费 eos bos 年 交 的 保 费 才 是 标 准 保 费 eos
+other		询问变更缴费方式		bos 变 更 交 费 方 式 要 换 算 吗 eos bos 变 更 交 费 方 式 要 换 算 吗 eos
+申请理赔		理赔渠道申请流程		bos 国 外 理 赔 流 程 是 怎 么 样 eos bos 国 外 理 赔 流 程 是 怎 么 样 eos
+询问缴费方式		询问缴费方式 疾病种类豁免		bos jbzl 豁 免 的 交 费 方 式 eos bos jbzl 豁 免 的 交 费 方 式 eos
+申请理赔		理赔渠道申请流程		bos 国 外 理 陪 流 程 是 怎 么 样 eos bos 国 外 理 陪 流 程 是 怎 么 样 eos
+申请理赔		得了某类疾病怎样申请理赔		bos 申 请 理 赔 会 不 会 很 难 eos bos 申 请 理 赔 会 不 会 很 难 eos
+保额限制		产品保额限制		bos bxcp 最 高 可 投 保 多 少 保 额 eos bos bxcp 最 高 可 投 保 多 少 保 额 eos
+询问如实告知		other		bos 健 康 告 知 曾 经 患 有 血 友 病 eos bos 健 康 告 知 曾 经 患 有 血 友 病 eos
+申请理赔		保障项目如何申请理赔		bos bzxm 理 赔 有 什 么 流 程 呢 eos bos bzxm 理 赔 有 什 么 流 程 呢 eos
+询问合同解除		询问合同解除 询问失踪处理		bos 失 踪 后 会 终 止 合 同 吗 eos bos 失 踪 后 会 终 止 合 同 吗 eos
+投保规则		询问投保规则		bos bxcp 银 保 通 出 单 投 保 规 则 eos bos bxcp 银 保 通 出 单 投 保 规 则 eos
+申请理赔		保障项目如何申请理赔		bos bzxm 理 赔 该 怎 么 走 流 程 eos bos bzxm 理 赔 该 怎 么 走 流 程 eos
+询问公司介绍		询问公司有哪些产品		bos 你 们 公 司 有 什 么 产 品 ‘ eos bos 你 们 公 司 有 什 么 产 品 ‘ eos
+申请理赔		保障项目如何申请理赔		bos bzxm 索 赔 需 要 登 机 牌 吗 eos bos bzxm 索 赔 需 要 登 机 牌 吗 eos
+询问合同解除		询问合同解除 询问宣告死亡		bos 死 亡 后 会 终 止 合 同 吗 eos bos 死 亡 后 会 终 止 合 同 吗 eos
+询问附加险		询问保险责任		bos 可 以 附 加 jbzl 保 费 豁 免 吗 eos bos 可 以 附 加 jbzl 保 费 豁 免 吗 eos
+询问合作医院		询问合作医院 疾病种类的定义		bos jbzl 医 学 最 好 的 医 院 eos bos jbzl 医 学 最 好 的 医 院 eos
+释义项定义		释义项的定义		bos bxcp 法 定 身 份 证 包 括 哪 些 eos bos bxcp 法 定 身 份 证 包 括 哪 些 eos
+某情景是否在承保范围内		某种疾病是否在承保范围内		bos jb 出 事 故 都 会 赔 偿 吗 eos bos jb 出 事 故 都 会 赔 偿 吗 eos
+询问保额		询问保险金额		bos bxcp 买 多 少 保 额 比 较 合 适 eos bos bxcp 买 多 少 保 额 比 较 合 适 eos
+保费核算		other		bos 年 交 的 保 费 才 是 标 准 保 费 eos bos 年 交 的 保 费 才 是 标 准 保 费 eos
+申请理赔		得了某个疾病怎样申请理赔		bos jb 申 领 应 该 注 意 什 么 eos bos jb 申 领 应 该 注 意 什 么 eos
+保障项目的赔付		不同保障项目的重复理赔		bos 赔 了 jbzl 可 以 赔 jbzl 吗 eos bos 赔 了 jbzl 可 以 赔 jbzl 吗 eos
+保额限制		产品保额限制		bos bxcp 银 保 通 出 单 最 高 保 额 eos bos bxcp 银 保 通 出 单 最 高 保 额 eos
+保额限制		产品保额限制		bos bxcp 最 高 投 保 保 额 是 多 少 eos bos bxcp 最 高 投 保 保 额 是 多 少 eos
+询问保险责任		产品期满返还		bos 购 买 bxcp 什 么 时 候 返 本 呢 eos bos 购 买 bxcp 什 么 时 候 返 本 呢 eos
+保哪些疾病		产品保哪些疾病		bos 你 们 的 产 品 都 保 哪 些 jbzl eos bos 你 们 的 产 品 都 保 哪 些 jbzl eos
+高发疾病		疾病种类包含哪些疾病		bos 高 发 疾 病 主 要 有 那 几 类 eos bos 高 发 疾 病 主 要 有 那 几 类 eos
+释义项定义		释义项的定义		bos 民 航 班 机 的 标 准 是 怎 样 的 eos bos 民 航 班 机 的 标 准 是 怎 样 的 eos
+释义项定义		释义项的定义		bos 海 外 二 次 诊 疗 意 见 是 什 么 eos bos 海 外 二 次 诊 疗 意 见 是 什 么 eos
+险种关联选择申请时间		险种关联选择申请资料		bos 险 种 关 联 选 择 申 请 资 料 eos bos 险 种 关 联 选 择 申 请 资 料 eos
+责任免除		保障项目的责任免除详情		bos 请 问 bzxm 哪 些 情 况 不 保 eos bos 请 问 bzxm 哪 些 情 况 不 保 eos
+释义项定义		释义项的定义		bos 医 学 必 要 具 体 是 怎 么 回 事 eos bos 医 学 必 要 具 体 是 怎 么 回 事 eos
+询问增值服务项目		询问某产品增值服务项目		bos bxcp 包 括 哪 些 增 值 服 务 eos bos bxcp 包 括 哪 些 增 值 服 务 eos
+公司介绍		询问公司介绍		bos 可 以 介 绍 一 下 你 们 公 司 吗 eos bos 可 以 介 绍 一 下 你 们 公 司 吗 eos
+保障免除项目的责任免除详情		保障项目的责任免除详情		bos bzxm 不 保 的 情 况 有 哪 些 eos bos bzxm 不 保 的 情 况 有 哪 些 eos
+询问增值服务项目		询问某产品增值服务项目		bos bxcp 赠 送 的 服 务 有 什 么 eos bos bxcp 赠 送 的 服 务 有 什 么 eos
+释义项定义		释义项的定义 犹豫期终止合同相关规定		bos 犹 豫 期 保 费 退 保 率 eos bos 犹 豫 期 保 费 退 保 率 eos
+公司介绍		询问公司介绍		bos 中 信 保 诚 获 得 过 什 么 荣 誉 eos bos 中 信 保 诚 获 得 过 什 么 荣 誉 eos
+释义项定义		保障项目的定义		bos 公 共 交 通 意 外 bzxm 是 什 么 eos bos 公 共 交 通 意 外 bzxm 是 什 么 eos
+释义项定义		询问公司有哪些产品 询问包含产品 产品的保障内容		bos bxcp 是 否 有 bzxm eos bos bxcp 是 否 有 bzxm eos
+投保限制		投保人条件限制		bos 未 成 年 人 可 以 购 买 bxcp 吗 eos bos 未 成 年 人 可 以 购 买 bxcp 吗 eos
+询问免赔额		询问保险条款		bos 免 赔 额 里 面 包 括 什 么 项 目 eos bos 免 赔 额 里 面 包 括 什 么 项 目 eos
+other		产品费用与报销		bos bxcp 报 了 能 再 给 回 发 票 吗 eos bos bxcp 报 了 能 再 给 回 发 票 吗 eos
+询问等待期		询问减额缴清		bos 减 额 缴 清 等 待 期 解 释 一 下 eos bos 减 额 缴 清 等 待 期 解 释 一 下 eos
+询问增值服务项目		询问某产品增值服务项目		bos bxcp 赠 送 的 服 务 是 什 么 eos bos bxcp 赠 送 的 服 务 是 什 么 eos
+other		询问如实告知		bos 健 康 告 知 曾 经 患 有 血 友 病 eos bos 健 康 告 知 曾 经 患 有 血 友 病 eos
+释义项定义		释义项的定义		bos 比 例 （ 非 比 例 ） 保 费 占 比 eos bos 比 例 （ 非 比 例 ） 保 费 占 比 eos
+投保规则		询问投保规则		bos 儿 童 有 智 能 障 碍 能 投 保 吗 eos bos 儿 童 有 智 能 障 碍 能 投 保 吗 eos
+询问免责条款		保障项目的责任免除详情		bos bxcp 有 什 么 免 责 条 款 吗 eos bos bxcp 有 什 么 免 责 条 款 吗 eos
+责任免除		保障项目的责任免除详情		bos bzxm 责 任 免 除 都 有 什 么 eos bos bzxm 责 任 免 除 都 有 什 么 eos
+险种关联选择相关规定		险种关联选择申请时间		bos 险 种 关 联 选 择 申 请 时 间 eos bos 险 种 关 联 选 择 申 请 时 间 eos
+责任免除		保障项目的责任免除详情		bos bzxm 有 没 有 责 任 免 除 项 eos bos bzxm 有 没 有 责 任 免 除 项 eos
+询问如实告知		询问投保规则		bos 健 康 告 知 有 心 悸 能 投 保 吗 eos bos 健 康 告 知 有 心 悸 能 投 保 吗 eos
+保哪些疾病		产品保哪些疾病		bos 这 个 保 险 哪 些 疾 病 可 以 保 eos bos 这 个 保 险 哪 些 疾 病 可 以 保 eos
+疾病种类的定义		区分疾病种类的标准		bos jbzl 和 jbzl 的 标 准 是 什 么 eos bos jbzl 和 jbzl 的 标 准 是 什 么 eos
+产品保额限制		某产品的最低保额		bos bxcp 最 低 可 以 买 多 少 保 额 eos bos bxcp 最 低 可 以 买 多 少 保 额 eos
+投保途径		询问投保规则 投保途径		bos 手 机 上 投 保 有 什 么 要 求 eos bos 手 机 上 投 保 有 什 么 要 求 eos
+保障项目的赔付		保障项目的赔付次数		bos bxcp 的 bzxm 可 以 赔 付 几 次 eos bos bxcp 的 bzxm 可 以 赔 付 几 次 eos
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 理 赔 有 什 么 流 程 呢 eos bos jbzl 理 赔 有 什 么 流 程 呢 eos
+投保限制		特殊人群投保规则		bos 未 成 年 人 可 以 购 买 bxcp 吗 eos bos 未 成 年 人 可 以 购 买 bxcp 吗 eos
+询问免赔额		询问免赔额定义		bos 免 赔 额 里 面 包 括 什 么 项 目 eos bos 免 赔 额 里 面 包 括 什 么 项 目 eos
+询问免责条款		询问保险条款		bos 对 于 qj 的 免 责 条 款 有 哪 些 eos bos 对 于 qj 的 免 责 条 款 有 哪 些 eos
+询问增值服务项目		询问某产品增值服务项目		bos 2 0 1 8 年 的 增 值 服 务 eos bos 2 0 1 8 年 的 增 值 服 务 eos
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 索 赔 需 要 登 机 牌 吗 eos bos jbzl 索 赔 需 要 登 机 牌 吗 eos
+增值服务亮点		增值服务使用次数		bos fwxm 增 值 服 务 能 用 多 少 次 eos bos fwxm 增 值 服 务 能 用 多 少 次 eos
+询问免赔额		询问免赔额定义		bos 每 个 保 险 都 有 没 免 赔 额 吗 eos bos 每 个 保 险 都 有 没 免 赔 额 吗 eos
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 我 不 知 道 怎 么 理 赔 eos bos jbzl 我 不 知 道 怎 么 理 赔 eos
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 理 赔 该 怎 么 走 流 程 eos bos jbzl 理 赔 该 怎 么 走 流 程 eos
+保哪些疾病		产品保哪些疾病		bos 这 个 保 险 哪 些 疾 病 可 以 赔 eos bos 这 个 保 险 哪 些 疾 病 可 以 赔 eos
+体检标准		体检的时限要求		bos 近 半 年 的 体 检 结 果 能 用 吗 eos bos 近 半 年 的 体 检 结 果 能 用 吗 eos
+other		other 询问减额缴清		bos bzxm 减 额 缴 清 哪 些 算 是 eos bos bzxm 减 额 缴 清 哪 些 算 是 eos
+询问增值服务项目		询问某产品增值服务项目		bos 有 没 有 什 么 争 执 服 务 呢 eos bos 有 没 有 什 么 争 执 服 务 呢 eos
+疾病的定义		疾病种类的定义		bos 你 们 的 疾 病 是 怎 么 定 义 的 eos bos 你 们 的 疾 病 是 怎 么 定 义 的 eos
+保障项目的理赔方式		保障项目的责任免除详情		bos 保 险 人 有 意 失 踪 会 赔 吗 eos bos 保 险 人 有 意 失 踪 会 赔 吗 eos
+增值服务亮点		增值服务使用时间		bos fwxm 增 值 服 务 使 用 有 效 期 eos bos fwxm 增 值 服 务 使 用 有 效 期 eos
+询问区别		询问缴费年期 询问区别		bos 年 交 和 月 交 有 什 么 区 别 eos bos 年 交 和 月 交 有 什 么 区 别 eos
+公司地址		询问公司介绍 公司地址		bos 哪 些 地 方 有 你 们 的 机 构 eos bos 哪 些 地 方 有 你 们 的 机 构 eos
+other		保险是否有购买限制		bos 我 没 了 bxcp 还 能 买 bxcp 吗 eos bos 我 没 了 bxcp 还 能 买 bxcp 吗 eos
+增值服务亮点		增值服务使用时间		bos fwxm 增 值 服 务 什 么 用 多 久 eos bos fwxm 增 值 服 务 什 么 用 多 久 eos
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos 您 好 bxcp 保 障 多 少 种 jbzl eos bos 您 好 bxcp 保 障 多 少 种 jbzl eos
+other		询问区别		bos 租 赁 车 与 网 约 车 有 什 么 不 同 eos bos 租 赁 车 与 网 约 车 有 什 么 不 同 eos
+保障项目如何申请理赔		保障项目如何申请理赔 询问保险金给付		bos bxcp 的 如 何 申 请 bzxm eos bos bxcp 的 如 何 申 请 bzxm eos
+询问保险金额		询问基本保险金额		bos 基 本 保 险 金 额 变 更 怎 么 办 eos bos 基 本 保 险 金 额 变 更 怎 么 办 eos
+申请保单回溯		购买某项保险产品有无优惠		bos 刚 过 生 日 有 回 溯 优 惠 吗 eos bos 刚 过 生 日 有 回 溯 优 惠 吗 eos
+申请理赔		得了某个疾病怎样申请理赔		bos 投 保 bxcp 后 患 jb 怎 么 赔 eos bos 投 保 bxcp 后 患 jb 怎 么 赔 eos
+产品介绍		产品是否属于某一类险		bos bxcp 和 金 悦 行 都 是 bxzl 吗 eos bos bxcp 和 金 悦 行 都 是 bxzl 吗 eos
+患某疾病是否可以投保		某种疾病是否在承保范围内		bos 有 帕 金 森 氏 症 能 投 保 吗 eos bos 有 帕 金 森 氏 症 能 投 保 吗 eos
+询问保险金额		询问基本保险金额		bos 怎 样 定 义 基 本 保 险 金 额 的 eos bos 怎 样 定 义 基 本 保 险 金 额 的 eos
+询问保单借款		保单借款相关规定		bos 保 单 借 款 需 要 提 交 的 材 料 eos bos 保 单 借 款 需 要 提 交 的 材 料 eos
+申请理赔		理赔渠道申请流程		bos 中 国 人 寿 意 外 险 理 赔 流 程 eos bos 中 国 人 寿 意 外 险 理 赔 流 程 eos
+增值服务亮点		增值服务使用时间		bos 全 程 导 医 服 务 时 间 是 多 长 eos bos 全 程 导 医 服 务 时 间 是 多 长 eos
+询问受益人		变更受益人相关规定		bos bxcp 变 更 受 益 人 保 全 范 围 eos bos bxcp 变 更 受 益 人 保 全 范 围 eos
+增值服务亮点		增值服务使用时间		bos 在 线 问 诊 有 没 有 使 用 时 间 eos bos 在 线 问 诊 有 没 有 使 用 时 间 eos
+释义项定义		释义项的定义 询问保单借款		bos bxcp 保 险 单 借 款 的 解 释 eos bos bxcp 保 险 单 借 款 的 解 释 eos
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos bxcp 4 0 种 jbzl 包 括 什 么 eos bos bxcp 4 0 种 jbzl 包 括 什 么 eos
+增值服务亮点		询问增值服务内容		bos 异 地 就 医 补 贴 是 什 么 服 务 eos bos 异 地 就 医 补 贴 是 什 么 服 务 eos
+增值服务亮点		增值服务使用时间		bos 赠 送 的 服 务 使 用 期 是 多 久 eos bos 赠 送 的 服 务 使 用 期 是 多 久 eos
+other		询问区别		bos 租 和 和 约 车 保 的 是 否 都 一 样 eos bos 租 和 和 约 车 保 的 是 否 都 一 样 eos
+某种疾病的保障范围		某种疾病是否在承保范围内		bos bxcp jb 在 不 在 保 障 范 围 eos bos bxcp jb 在 不 在 保 障 范 围 eos
+other		保障项目的保障范围		bos bzxm 等 待 期 发 生 有 保 障 吗 eos bos bzxm 等 待 期 发 生 有 保 障 吗 eos
+申请理赔		保障项目如何申请理赔		bos bzxm 理 赔 的 流 程 是 什 么 呢 eos bos bzxm 理 赔 的 流 程 是 什 么 呢 eos
+询问区别		other		bos 租 赁 车 与 网 约 车 有 什 么 不 同 eos bos 租 赁 车 与 网 约 车 有 什 么 不 同 eos
+申请理赔		保障项目如何申请理赔		bos bzxm 申 请 理 赔 需 要 怎 么 做 eos bos bzxm 申 请 理 赔 需 要 怎 么 做 eos
+释义项定义		other		bos 野 外 救 援 属 于 高 风 险 活 动 吗 eos bos 野 外 救 援 属 于 高 风 险 活 动 吗 eos
+other		释义项的定义		bos bxcp 租 赁 车 与 网 约 车 的 异 同 eos bos bxcp 租 赁 车 与 网 约 车 的 异 同 eos
+申请理赔		保障项目如何申请理赔		bos bzxm 索 赔 要 提 供 什 么 材 料 eos bos bzxm 索 赔 要 提 供 什 么 材 料 eos
+变更投保人		变更投保人申请时间		bos 变 更 投 保 人 申 请 开 始 时 间 eos bos 变 更 投 保 人 申 请 开 始 时 间 eos
+询问保险责任		询问保险责任 释义项的定义		bos 什 么 是 保 险 责 任 的 开 始 eos bos 什 么 是 保 险 责 任 的 开 始 eos
+保哪些疾病		疾病种类包含哪些疾病		bos 你 们 的 产 品 都 保 哪 些 jbzl eos bos 你 们 的 产 品 都 保 哪 些 jbzl eos
+申请理赔		得了某个疾病怎样申请理赔		bos 成 年 女 性 患 了 jb 怎 么 赔 eos bos 成 年 女 性 患 了 jb 怎 么 赔 eos
+询问联系方式		询问分公司联系方式		bos 分 公 司 的 联 系 方 式 是 什 么 eos bos 分 公 司 的 联 系 方 式 是 什 么 eos
+申请理赔		保障项目如何申请理赔		bos bzxm 发 生 事 故 保 险 怎 么 赔 eos bos bzxm 发 生 事 故 保 险 怎 么 赔 eos
+产品介绍		产品升级介绍		bos 老 款 bxcp 现 在 还 可 以 升 级 吗 eos bos 老 款 bxcp 现 在 还 可 以 升 级 吗 eos
+询问联系方式		询问分公司联系方式		bos 我 需 要 分 公 司 的 联 系 方 式 eos bos 我 需 要 分 公 司 的 联 系 方 式 eos
+释义项定义		询问保险责任 释义项的定义		bos 保 险 责 任 的 开 始 是 什 么 eos bos 保 险 责 任 的 开 始 是 什 么 eos
+询问联系方式		询问分公司联系方式		bos 告 诉 我 分 公 司 的 电 话 号 码 eos bos 告 诉 我 分 公 司 的 电 话 号 码 eos
+申请理赔		保障项目如何申请理赔		bos bzxm 都 有 哪 些 理 赔 材 料 呢 eos bos bzxm 都 有 哪 些 理 赔 材 料 呢 eos
+询问免责条款		保障免除项目的责任免除详情		bos 全 残 的 免 责 条 款 有 哪 些 eos bos 全 残 的 免 责 条 款 有 哪 些 eos
+产品推荐		询问公司有哪些产品		bos 可 以 推 荐 一 下 热 销 产 品 吗 eos bos 可 以 推 荐 一 下 热 销 产 品 吗 eos
+保额限制		保险是否有购买限制		bos 购 买 过 其 他 保 险 有 冲 突 吗 eos bos 购 买 过 其 他 保 险 有 冲 突 吗 eos
+保费核算		询问缴费年期 保费核算		bos bxcp 保 费 测 算 不 能 月 缴 吗 eos bos bxcp 保 费 测 算 不 能 月 缴 吗 eos
+询问免赔额		询问免赔额数值		bos bxcp 的 免 赔 额 包 括 哪 些 内 容 eos bos bxcp 的 免 赔 额 包 括 哪 些 内 容 eos
+释义项定义		释义项的定义		bos 野 外 救 援 属 于 高 风 险 活 动 吗 eos bos 野 外 救 援 属 于 高 风 险 活 动 吗 eos
+责任免除		保障项目的责任免除详情		bos bzxm 责 任 免 除 的 都 不 赔 吗 eos bos bzxm 责 任 免 除 的 都 不 赔 吗 eos
+询问增值服务项目		询问某产品增值服务项目		bos bxcp b 你 们 有 什 么 服 务 b eos bos bxcp b 你 们 有 什 么 服 务 b eos
+释义项定义		某种体检异常指标定义		bos 乳 腺 体 检 异 常 指 标 是 什 么 eos bos 乳 腺 体 检 异 常 指 标 是 什 么 eos
+释义项定义		释义项的定义		bos 国 内 & n b s p ; 二 诊 意 见 eos bos 国 内 & n b s p ; 二 诊 意 见 eos
+other		产品费用与报销		bos bxcp 报 销 完 后 会 退 回 病 历 吗 eos bos bxcp 报 销 完 后 会 退 回 病 历 吗 eos
+释义项定义		释义项的定义		bos 直 接 赔 付 率 （ 简 单 赔 付 率 ） eos bos 直 接 赔 付 率 （ 简 单 赔 付 率 ） eos
+other		询问如实告知		bos 健 康 告 知 正 患 有 甲 状 腺 疾 病 eos bos 健 康 告 知 正 患 有 甲 状 腺 疾 病 eos
+释义项定义		释义项的定义		bos 家 庭 病 床 属 于 住 院 的 范 畴 吗 eos bos 家 庭 病 床 属 于 住 院 的 范 畴 吗 eos
+释义项定义		释义项的定义		bos 住 院 治 疗 费 用 是 包 括 了 哪 些 eos bos 住 院 治 疗 费 用 是 包 括 了 哪 些 eos
+投保指引		患某疾病是否可以投保		bos bxcp jb 做 了 手 术 可 以 买 吗 eos bos bxcp jb 做 了 手 术 可 以 买 吗 eos
+责任免除		询问保险责任 保障项目的责任免除详情		bos 那 这 保 险 不 保 什 么 啊 eos bos 那 这 保 险 不 保 什 么 啊 eos
+某情景下全残或身故赔偿		某情景下全残或身故赔偿 特殊人群的理赔方式		bos 未 成 年 qj 如 何 理 赔 eos bos 未 成 年 qj 如 何 理 赔 eos
+公司介绍		询问公司介绍		bos 可 以 简 单 的 介 绍 一 下 公 司 吗 eos bos 可 以 简 单 的 介 绍 一 下 公 司 吗 eos
+释义项定义		释义项的定义		bos 原 （ 分 ） 保 费 收 入 市 场 份 额 eos bos 原 （ 分 ） 保 费 收 入 市 场 份 额 eos
+申请理赔		保障项目如何申请理赔		bos bxcp 怎 么 申 请 疾 病 qj 理 赔 eos bos bxcp 怎 么 申 请 疾 病 qj 理 赔 eos
+增值服务亮点		询问增值服务内容		bos bxcp 赠 送 的 服 务 能 使 用 几 次 eos bos bxcp 赠 送 的 服 务 能 使 用 几 次 eos
+增值服务亮点		询问增值服务内容		bos bxcp 赠 送 的 服 务 能 使 用 多 久 eos bos bxcp 赠 送 的 服 务 能 使 用 多 久 eos
+询问免赔额		询问免赔额定义		bos 免 赔 额 就 是 不 赔 付 的 金 额 吗 eos bos 免 赔 额 就 是 不 赔 付 的 金 额 吗 eos
+投保规则		投保人和被保险人关系 特殊人群投保规则		bos 我 能 不 能 给 小 孩 买 啊 eos bos 我 能 不 能 给 小 孩 买 啊 eos
+询问保费垫缴		询问保险费缴纳		bos 如 何 取 消 续 期 保 费 自 动 转 账 eos bos 如 何 取 消 续 期 保 费 自 动 转 账 eos
+变更受益人相关规定		保险产品变更受益人的范围		bos bxcp 变 更 受 益 人 保 全 范 围 eos bos bxcp 变 更 受 益 人 保 全 范 围 eos
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 申 请 理 赔 需 要 怎 么 做 eos bos jbzl 申 请 理 赔 需 要 怎 么 做 eos
+释义项定义		保障项目的定义		bos 意 外 险 危 险 保 额 是 什 么 意 思 eos bos 意 外 险 危 险 保 额 是 什 么 意 思 eos
+释义项定义		产品费用与报销		bos 住 院 治 疗 费 用 是 包 括 了 哪 些 eos bos 住 院 治 疗 费 用 是 包 括 了 哪 些 eos
+询问增值服务内容		询问增值服务内容 询问联系方式		bos 电 话 医 生 服 务 如 何 获 取 eos bos 电 话 医 生 服 务 如 何 获 取 eos
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 理 赔 的 流 程 是 什 么 呢 eos bos jbzl 理 赔 的 流 程 是 什 么 呢 eos
+申请理赔		理赔需要的材料		bos 保 险 的 理 赔 材 料 都 有 哪 些 呢 eos bos 保 险 的 理 赔 材 料 都 有 哪 些 呢 eos
+增值服务亮点		增值服务使用时间		bos bxcp 赠 送 的 服 务 能 使 用 多 久 eos bos bxcp 赠 送 的 服 务 能 使 用 多 久 eos
+询问如实告知		某种情景是否可以投保		bos 健 康 告 知 曾 经 qj 能 投 保 吗 eos bos 健 康 告 知 曾 经 qj 能 投 保 吗 eos
+保险产品变更受益人的范围		保险产品变更签名的范围		bos 趸 缴 可 以 支 持 变 更 受 益 人 eos bos 趸 缴 可 以 支 持 变 更 受 益 人 eos
+某情景是否在承保范围内		情景是否赔偿某个保障项目		bos bzxm qj 出 事 故 都 会 赔 偿 吗 eos bos bzxm qj 出 事 故 都 会 赔 偿 吗 eos
+投保指引		投资连结保险投资账户介绍		bos 产 品 利 率 及 投 连 价 格 查 询 eos bos 产 品 利 率 及 投 连 价 格 查 询 eos
+询问保险金额		询问基本保险金额		bos 基 本 保 险 金 额 如 怎 么 约 定 的 eos bos 基 本 保 险 金 额 如 怎 么 约 定 的 eos
+申请理赔		得了某个疾病怎样申请理赔		bos bxcp 如 果 患 的 是 jb 怎 么 赔 eos bos bxcp 如 果 患 的 是 jb 怎 么 赔 eos
+疾病的定义		某渠道的投保流程		bos 威 信 平 台 绑 定 使 用 服 务 流 程 eos bos 威 信 平 台 绑 定 使 用 服 务 流 程 eos
+询问保险责任		询问保险责任 释义项的定义		bos bxcp 保 险 责 任 的 开 始 解 释 eos bos bxcp 保 险 责 任 的 开 始 解 释 eos
+保障项目的保障范围		不同保障项目的重复理赔		bos 赔 过 重 疾 过 后 qj 还 能 赔 吗 eos bos 赔 过 重 疾 过 后 qj 还 能 赔 吗 eos
+询问保额		询问保险金额		bos bzxm 和 bzxm 是 加 起 来 5 0 万 吗 eos bos bzxm 和 bzxm 是 加 起 来 5 0 万 吗 eos
+申请理赔		得了某类疾病怎样申请理赔		bos 我 要 申 请 理 赔 不 知 道 流 程 eos bos 我 要 申 请 理 赔 不 知 道 流 程 eos
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos 那 些 bxcp 嗯 还 有 多 少 种 jbzl eos bos 那 些 bxcp 嗯 还 有 多 少 种 jbzl eos
+申请理赔		得了某个疾病怎样申请理赔		bos 投 保 bxcp 后 患 了 jb 怎 么 赔 eos bos 投 保 bxcp 后 患 了 jb 怎 么 赔 eos
+询问保险金额		询问基本保险金额		bos 的 基 本 保 险 金 额 是 不 变 的 吗 eos bos 的 基 本 保 险 金 额 是 不 变 的 吗 eos
+某情景是否在承保范围内		某种疾病是否在承保范围内		bos jb 在 bxcp 的 保 障 范 围 内 吗 eos bos jb 在 bxcp 的 保 障 范 围 内 吗 eos
+询问联系方式		询问分公司联系方式		bos 分 支 机 构 的 联 系 方 式 是 什 么 eos bos 分 支 机 构 的 联 系 方 式 是 什 么 eos
+申请理赔		保障项目如何申请理赔		bos bzxm 保 险 单 丢 了 影 响 赔 付 吗 eos bos bzxm 保 险 单 丢 了 影 响 赔 付 吗 eos
+患某疾病是否可以投保		某种疾病是否在承保范围内		bos 1 型 jb 患 者 还 可 以 投 保 吗 eos bos 1 型 jb 患 者 还 可 以 投 保 吗 eos
+申请理赔		申请某保障项目所需资料		bos 申 请 bxcp bzxm 需 要 哪 些 资 料 eos bos 申 请 bxcp bzxm 需 要 哪 些 资 料 eos
+申请理赔		得了某个疾病怎样申请理赔		bos jb 申 请 理 赔 需 要 准 备 什 么 eos bos jb 申 请 理 赔 需 要 准 备 什 么 eos
+申请理赔		保障项目如何申请理赔		bos bxcp 住 i c u 具 体 怎 么 赔 付 eos bos bxcp 住 i c u 具 体 怎 么 赔 付 eos
+申请理赔		得了某个疾病怎样申请理赔		bos jb 保 后 理 赔 流 程 是 如 何 的 eos bos jb 保 后 理 赔 流 程 是 如 何 的 eos
+申请理赔		保障项目如何申请理赔		bos bzxm 保 险 人 怎 样 领 取 赔 偿 金 eos bos bzxm 保 险 人 怎 样 领 取 赔 偿 金 eos
+某种疾病的保障范围		某种疾病是否在承保范围内		bos jb 是 不 是 在 保 障 范 围 内 呢 eos bos jb 是 不 是 在 保 障 范 围 内 呢 eos
+申请理赔		保障项目如何申请理赔		bos bzxm 保 险 理 赔 需 要 哪 些 材 料 eos bos bzxm 保 险 理 赔 需 要 哪 些 材 料 eos
+保障项目保哪些疾病		询问保险条款		bos jb 的 治 疗 费 用 可 以 申 请 bzxm 吗 eos bos jb 的 治 疗 费 用 可 以 申 请 bzxm 吗 eos
+询问保额		询问保额累计		bos bxcp 未 成 年 人 qj 保 额 会 累 计 吗 eos bos bxcp 未 成 年 人 qj 保 额 会 累 计 吗 eos
+询问附加险		询问附加险 产品升级介绍		bos bxcp 升 级 能 附 加 住 院 bxzl 吗 eos bos bxcp 升 级 能 附 加 住 院 bxzl 吗 eos
+申请理赔		申请某保障项目所需资料		bos 申 请 bzxm 需 要 提 供 什 么 资 料 eos bos 申 请 bzxm 需 要 提 供 什 么 资 料 eos
+申请理赔		保障项目如何申请理赔		bos 对 于 理 赔 是 如 何 进 行 核 定 的 eos bos 对 于 理 赔 是 如 何 进 行 核 定 的 eos
+服务内容介绍		变更通讯资料相关规定		bos 买 了 后 需 要 改 手 机 号 怎 么 改 eos bos 买 了 后 需 要 改 手 机 号 怎 么 改 eos
+投保规则		询问投保规则		bos 发 现 有 不 明 原 因 出 血 能 投 保 吗 eos bos 发 现 有 不 明 原 因 出 血 能 投 保 吗 eos
+申请理赔		保障项目如何申请理赔		bos 买 了 bxcp qj 了 是 怎 么 赔 付 的 eos bos 买 了 bxcp qj 了 是 怎 么 赔 付 的 eos
+产品介绍		询问附加险 产品升级介绍		bos bxcp 升 级 能 附 加 住 院 bxzl 吗 eos bos bxcp 升 级 能 附 加 住 院 bxzl 吗 eos
+询问免责条款		保障项目的责任免除详情		bos 什 么 是 bxcp 的 其 他 免 责 条 款 eos bos 什 么 是 bxcp 的 其 他 免 责 条 款 eos
+保费核算		保费核算 疾病种类豁免		bos jbzl 豁 免 可 以 算 一 下 价 钱 吗 eos bos jbzl 豁 免 可 以 算 一 下 价 钱 吗 eos
+释义项定义		释义项的定义		bos 已 付 赔 款 赔 付 率 （ 业 务 年 度 ） eos bos 已 付 赔 款 赔 付 率 （ 业 务 年 度 ） eos
+投保限制		询问投保年龄		bos 6 0 周 岁 以 上 能 作 为 投 保 人 吗 eos bos 6 0 周 岁 以 上 能 作 为 投 保 人 吗 eos
+释义项定义		释义项的定义		bos 膳 食 费 是 属 于 住 院 医 疗 费 用 吗 eos bos 膳 食 费 是 属 于 住 院 医 疗 费 用 吗 eos
+责任免除		保障项目的责任免除详情		bos bzxm 责 任 免 除 对 我 有 什 么 用 eos bos bzxm 责 任 免 除 对 我 有 什 么 用 eos
+保费核算		询问缴费年期		bos 女 4 0 岁 保 额 3 0 万 交 2 0 年 eos bos 女 4 0 岁 保 额 3 0 万 交 2 0 年 eos
+释义项定义		释义项的定义		bos 健 康 告 知 正 患 有 慢 性 支 气 管 炎 eos bos 健 康 告 知 正 患 有 慢 性 支 气 管 炎 eos
+申请理赔		保障项目如何申请理赔		bos 在 国 外 看 病 申 请 理 赔 的 流 程 eos bos 在 国 外 看 病 申 请 理 赔 的 流 程 eos
+释义项定义		释义项的定义		bos 化 学 疗 法 对 癌 细 胞 有 什 么 作 用 eos bos 化 学 疗 法 对 癌 细 胞 有 什 么 作 用 eos
+某产品的最低保额		某产品的最低保额 询问保险金额		bos bxcp 最 低 保 额 是 多 少 eos bos bxcp 最 低 保 额 是 多 少 eos
+投保限制		投保人条件限制		bos 6 0 周 岁 以 上 能 作 为 投 保 人 吗 eos bos 6 0 周 岁 以 上 能 作 为 投 保 人 吗 eos
+增值服务亮点		询问增值服务内容		bos bxcp 赠 送 的 服 务 使 用 期 是 多 久 eos bos bxcp 赠 送 的 服 务 使 用 期 是 多 久 eos
+增值服务亮点		增值服务使用时间		bos bxcp 赠 送 的 服 务 可 以 使 用 多 久 eos bos bxcp 赠 送 的 服 务 可 以 使 用 多 久 eos
+询问复效期		询问体检或验尸		bos 中 止 期 后 重 新 缴 费 需 要 体 检 吗 eos bos 中 止 期 后 重 新 缴 费 需 要 体 检 吗 eos
+询问增值服务内容		释义项的定义 询问增值服务内容		bos 基 因 检 测 是 干 什 么 的 \ n eos bos 基 因 检 测 是 干 什 么 的 \ n eos
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 保 险 人 怎 样 领 取 赔 偿 金 eos bos jbzl 保 险 人 怎 样 领 取 赔 偿 金 eos
+询问体检或验尸		某项体检的包含项		bos jbzl 体 检 中 一 般 体 检 包 含 什 么 eos bos jbzl 体 检 中 一 般 体 检 包 含 什 么 eos
+询问保险条款		保障项目保哪些疾病		bos jb 的 治 疗 能 在 jb 费 用 里 能 吗 eos bos jb 的 治 疗 能 在 jb 费 用 里 能 吗 eos
+释义项定义		产品费用与报销		bos 膳 食 费 是 属 于 住 院 医 疗 费 用 吗 eos bos 膳 食 费 是 属 于 住 院 医 疗 费 用 吗 eos
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 保 后 理 赔 流 程 是 如 何 的 eos bos jbzl 保 后 理 赔 流 程 是 如 何 的 eos
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 保 险 理 赔 需 要 哪 些 材 料 eos bos jbzl 保 险 理 赔 需 要 哪 些 材 料 eos
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 申 请 索 赔 需 要 提 交 什 么 eos bos jbzl 申 请 索 赔 需 要 提 交 什 么 eos
+申请理赔		保障项目如何申请理赔		bos 如 何 申 请 理 赔 bxcp bzxm 、 bzxm eos bos 如 何 申 请 理 赔 bxcp bzxm 、 bzxm eos
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 申 请 理 赔 需 要 准 备 什 么 eos bos jbzl 申 请 理 赔 需 要 准 备 什 么 eos
+释义项定义		询问增值服务内容		bos 海 外 二 次 诊 疗 意 见 是 什 么 服 务 eos bos 海 外 二 次 诊 疗 意 见 是 什 么 服 务 eos
+生存给付确认相关规定		满期给付生存确认相关规定		bos 满 期 给 付 生 存 确 认 相 关 规 定 eos bos 满 期 给 付 生 存 确 认 相 关 规 定 eos
+other		询问变更缴费方式		bos 非 年 缴 保 费 的 折 算 系 数 怎 么 算 eos bos 非 年 缴 保 费 的 折 算 系 数 怎 么 算 eos
+生存给付确认相关规定		满期给付生存确认相关规定		bos 满 期 给 付 生 存 确 认 所 需 材 料 eos bos 满 期 给 付 生 存 确 认 所 需 材 料 eos
+other		申请理赔		bos 理 赔 后 的 收 据 和 发 票 还 能 取 回 吗 eos bos 理 赔 后 的 收 据 和 发 票 还 能 取 回
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos jbzl 9 0 种 jbzl 4 0 种 是 什 么 eos bos jbzl 9 0 种 jbzl 4 0 种 是 什 么 eos
+申请定期额外投资申请时间		终止定期额外投资申请时间		bos 终 止 定 期 额 外 投 资 申 请 时 间 eos bos 终 止 定 期 额 外 投 资 申 请 时 间 eos
+询问缴费方式		询问缴费方式 疾病种类豁免		bos jbzl 豁 免 是 一 年 一 年 缴 费 吗 eos bos jbzl 豁 免 是 一 年 一 年 缴 费 吗 eos
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos jbzl 9 0 种 jbzl 4 0 种 有 哪 些 eos bos jbzl 9 0 种 jbzl 4 0 种 有 哪 些 eos
+额外投资相关规定		变更定期额外投资相关规定		bos 变 更 定 期 额 外 投 资 所 需 材 料 eos bos 变 更 定 期 额 外 投 资 所 需 材 料 eos
+询问联系方式		询问变更通讯方式		bos 更 改 联 系 方 式 需 要 什 么 文 件 吗 eos bos 更 改 联 系 方 式 需 要 什 么 文 件 吗 eos
+询问保单借款		保险产品保单借款的范围 保单借款相关规定		bos 年 缴 可 以 支 持 保 单 借 款 eos bos 年 缴 可 以 支 持 保 单 借 款 eos
+额外投资相关规定		申请定期额外投资相关规定		bos 申 请 定 期 额 外 投 资 办 理 流 程 eos bos 申 请 定 期 额 外 投 资 办 理 流 程 eos
+额外投资相关规定		终止定期额外投资相关规定		bos 终 止 定 期 额 外 投 资 所 需 材 料 eos bos 终 止 定 期 额 外 投 资 所 需 材 料 eos
+询问等待期		某种疾病是否在承保范围内		bos 合 同 恢 复 jb 等 待 期 不 会 赔 吗 eos bos 合 同 恢 复 jb 等 待 期 不 会 赔 吗 eos
+询问合同终止		合同自动终止的情景		bos 什 么 情 况 下 信 托 合 同 自 动 终 止 eos bos 什 么 情 况 下 信 托 合 同 自 动 终 止 eos
+询问犹豫期		询问犹豫期 咨询时间		bos bxcp 的 犹 豫 期 时 间 有 限 制 的 吗 eos bos bxcp 的 犹 豫 期 时 间 有 限 制 的 吗 eos
+某情景是否在承保范围内		某种疾病是否在承保范围内		bos 等 待 期 意 外 导 致 的 jb 赔 不 赔 eos bos 等 待 期 意 外 导 致 的 jb 赔 不 赔 eos
+询问保险条款		保障项目保哪些疾病		bos jb 的 治 疗 费 用 可 以 申 请 bzxm 吗 eos bos jb 的 治 疗 费 用 可 以 申 请 bzxm 吗 eos
+申请理赔		保障项目如何申请理赔		bos bzxm 我 要 申 请 理 赔 不 知 道 流 程 eos bos bzxm 我 要 申 请 理 赔 不 知 道 流 程 eos
+疾病的定义		询问如实告知 疾病的定义		bos 健 康 告 知 正 患 有 未 被 证 实 jb eos bos 健 康 告 知 正 患 有 未 被 证 实 jb eos
+投保限制		保障项目的年龄限制		bos 6 0 周 岁 以 上 能 作 为 投 保 人 吗 eos bos 6 0 周 岁 以 上 能 作 为 投 保 人 吗 eos
+保险产品复效的范围		保险产品变更职业等级的范围		bos 期 缴 可 以 支 持 变 更 职 业 等 级 eos bos 期 缴 可 以 支 持 变 更 职 业 等 级 eos
+保险产品变更缴费方式的范围式		保险产品变更缴费方式的范围		bos 月 缴 可 以 支 持 变 更 缴 费 方 式 eos bos 月 缴 可 以 支 持 变 更 缴 费 方 式 eos
+责任免除		保障项目的责任免除详情		bos bzxm 哪 些 情 况 不 在 承 保 范 围 内 eos bos bzxm 哪 些 情 况 不 在 承 保 范 围 内 eos
+释义项定义		释义项的定义		bos 医 学 必 要 治 疗 费 用 是 包 括 了 哪 些 eos bos 医 学 必 要 治 疗 费 用 是 包 括 了 哪
+复效相关规定		身故保险金分期领取选择相关规定		bos bzxm 分 期 领 取 选 择 相 关 规 定 eos bos bzxm 分 期 领 取 选 择 相 关 规 定 eos
+疾病的定义		疾病种类的定义		bos 哪 些 病 要 达 到 指 定 程 度 才 算 jbzl eos bos 哪 些 病 要 达 到 指 定 程 度 才 算 jbzl eos
+投保限制		询问投保年龄		bos 6 0 周 岁 以 上 可 以 作 为 投 保 人 吗 eos bos 6 0 周 岁 以 上 可 以 作 为 投 保 人
+投保限制		投保人条件限制		bos bxcp 超 过 6 0 周 岁 还 可 以 投 保 吗 eos bos bxcp 超 过 6 0 周 岁 还 可 以 投 保 吗 eos
+责任免除		保障项目的责任免除详情		bos bzxm 哪 些 情 况 不 属 于 保 障 范 围 eos bos bzxm 哪 些 情 况 不 属 于 保 障 范 围 eos
+投保限制		投保人条件限制		bos bxcp 老 年 人 投 保 规 则 具 体 是 什 么 eos bos bxcp 老 年 人 投 保 规 则 具 体 是 什 么 eos
+复效相关规定		身故保险金分期领取选择相关规定		bos bzxm 分 期 领 取 选 择 所 需 材 料 eos bos bzxm 分 期 领 取 选 择 所 需 材 料 eos
+释义项定义		释义项的定义		bos 骨 髓 造 血 干 细 胞 的 异 体 移 植 手 术 eos bos 骨 髓 造 血 干 细 胞 的 异 体 移 植 手
+理赔需要的材料		保障项目如何申请理赔		bos 申 请 理 赔 需 要 提 供 什 么 材 料 呢 eos bos 申 请 理 赔 需 要 提 供 什 么 材 料 呢 eos
+询问等待期		某种情景是否可以投保 询问等待期		bos 等 待 期 内 有 jbzl 可 以 投 保 吗 eos bos 等 待 期 内 有 jbzl 可 以 投 保 吗 eos
+产品保额限制		某产品的最低保额		bos bxcp 附 加 意 外 伤 害 医 疗 最 低 保 额 eos bos bxcp 附 加 意 外 伤 害 医 疗 最 低 保 额 eos
+other		保费核算		bos bxcp 非 年 缴 保 费 的 折 算 系 数 是 什 么 eos bos bxcp 非 年 缴 保 费 的 折 算 系 数 是 什
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 机 票 丢 了 还 能 申 请 理 赔 吗 eos bos jbzl 机 票 丢 了 还 能 申 请 理 赔 吗 eos
+other		产品费用与报销		bos 理 赔 后 的 收 据 和 发 票 还 能 取 回 吗 eos bos 理 赔 后 的 收 据 和 发 票 还 能 取 回
+询问保险责任		询问保险费缴纳		bos 保 险 费 缴 纳 是 直 接 从 卡 里 扣 除 吗 eos bos 保 险 费 缴 纳 是 直 接 从 卡 里 扣 除
+投保规则		特殊人群投保规则 投保人与被保险人关系		bos 未 成 年 人 可 以 隔 代 投 保 吗 eos bos 未 成 年 人 可 以 隔 代 投 保 吗 eos
+投保指引		指定第二投保人申请时间		bos 指 定 第 二 投 保 人 申 请 开 始 时 间 eos bos 指 定 第 二 投 保 人 申 请 开 始 时 间 eos
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 我 要 申 请 理 赔 不 知 道 流 程 eos bos jbzl 我 要 申 请 理 赔 不 知 道 流 程 eos
+询问减额缴清		=询问减额缴清		bos 保 单 生 效 后 可 以 办 理 减 额 缴 清 吗 eos bos 保 单 生 效 后 可 以 办 理 减 额 缴 清
+特殊人群投保限额		产品保额限制 特殊人群投保规则		bos 未 成 年 人 购 买 的 限 额 是 多 少 eos bos 未 成 年 人 购 买 的 限 额 是 多 少 eos
+申请理赔		理赔需要的材料		bos 请 问 一 下 申 请 理 赔 需 要 什 么 材 料 eos bos 请 问 一 下 申 请 理 赔 需 要 什 么 材
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 可 以 用 身 份 证 申 请 理 赔 吗 eos bos jbzl 可 以 用 身 份 证 申 请 理 赔 吗 eos
+投保限制		投保人条件限制		bos 6 0 周 岁 以 上 可 以 作 为 投 保 人 吗 eos bos 6 0 周 岁 以 上 可 以 作 为 投 保 人
+增值服务亮点		增值服务使用时间		bos fwxm 增 值 服 务 什 么 用 到 什 么 时 候 eos bos fwxm 增 值 服 务 什 么 用 到 什 么 时 候 eos
+询问缴费方式		询问缴费方式 疾病种类豁免		bos jbzl 豁 免 的 费 用 是 一 年 交 的 吗 eos bos jbzl 豁 免 的 费 用 是 一 年 交 的 吗 eos
+保障项目的赔付		保障项目的年龄限制		bos 未 成 年 人 有 bzxm 这 项 保 险 责 任 吗 eos bos 未 成 年 人 有 bzxm 这 项 保 险 责 任 吗 eos
+询问缴费年期		推荐保额		bos 年 交 保 费 和 年 收 入 之 间 的 合 理 比 例 eos bos 年 交 保 费 和 年 收 入 之 间 的 合
+赔付方式		业务办理提交材料		bos qj 或 全 残 给 付 bzxm 需 要 什 么 资 料 eos bos qj 或 全 残 给 付 bzxm 需 要 什 么 资 料 eos
+疾病的定义		区分疾病种类的标准		bos 哪 些 病 要 达 到 指 定 程 度 才 算 jbzl eos bos 哪 些 病 要 达 到 指 定 程 度 才 算 jbzl eos
+疾病种类的定义		疾病种类包含哪些疾病 不同保障项目的重复理赔		bos jbzl 和 jbzl 有 什 么 关 系 吗 eos bos jbzl 和 jbzl 有 什 么 关 系 吗 eos
+犹豫期减保相关规定		犹豫期其他保全变更相关规定		bos 犹 豫 期 其 他 保 全 变 更 所 需 材 料 eos bos 犹 豫 期 其 他 保 全 变 更 所 需 材 料 eos
+询问缴费方式		某类险种的缴费方式		bos 附 加 险 的 费 用 是 一 年 一 年 交 的 吗 eos bos 附 加 险 的 费 用 是 一 年 一 年 交 的
+犹豫期减保相关规定		犹豫期其他保全变更相关规定		bos 犹 豫 期 其 他 保 全 变 更 相 关 规 定 eos bos 犹 豫 期 其 他 保 全 变 更 相 关 规 定 eos
+申请理赔		保障项目如何申请理赔		bos bzxm 请 问 一 下 申 请 理 赔 需 要 什 么 eos bos bzxm 请 问 一 下 申 请 理 赔 需 要 什 么 eos
+申请理赔		保障项目如何申请理赔		bos bzxm 保 险 的 理 赔 材 料 都 有 哪 些 呢 eos bos bzxm 保 险 的 理 赔 材 料 都 有 哪 些 呢 eos
+申请理赔		保障项目如何申请理赔		bos bzxm 航 班 延 误 保 险 索 赔 申 请 指 南 eos bos bzxm 航 班 延 误 保 险 索 赔 申 请 指 南 eos
+犹豫期减保相关规定		犹豫期其他保全变更相关规定		bos 犹 豫 期 其 他 保 全 变 更 申 请 流 程 eos bos 犹 豫 期 其 他 保 全 变 更 申 请 流 程 eos
+询问缴费方式		询问缴费年期 询问缴费方式		bos 年 缴 费 方 式 下 的 标 准 年 缴 保 费 eos bos 年 缴 费 方 式 下 的 标 准 年 缴 保 费 eos
+询问复效期		复效期有无收取滞纳金		bos bxcp 复 效 期 内 复 效 有 没 有 滞 纳 金 eos bos bxcp 复 效 期 内 复 效 有 没 有 滞 纳 金 eos
+犹豫期减保相关规定		犹豫期其他保全变更相关规定		bos 犹 豫 期 其 他 保 全 变 更 办 理 流 程 eos bos 犹 豫 期 其 他 保 全 变 更 办 理 流 程 eos
+申请理赔		保障项目如何申请理赔		bos bzxm 申 请 理 赔 需 要 索 赔 申 请 书 吗 eos bos bzxm 申 请 理 赔 需 要 索 赔 申 请 书 吗 eos
+申请理赔		保障项目如何申请理赔		bos bzxm 可 以 告 诉 我 怎 样 申 请 理 赔 吗 eos bos bzxm 可 以 告 诉 我 怎 样 申 请 理 赔 吗 eos
+犹豫期减保申请时间		犹豫期其他保全变更申请时间		bos 犹 豫 期 其 他 保 全 变 更 申 请 时 间 eos bos 犹 豫 期 其 他 保 全 变 更 申 请 时 间 eos
+other		询问缴费方式		bos bxcp 非 年 缴 保 费 的 折 算 系 数 是 什 么 eos bos bxcp 非 年 缴 保 费 的 折 算 系 数 是 什
+询问体检或验尸		询问体检或验尸 询问复效期		bos 中 止 期 后 重 新 缴 费 需 要 体 检 吗 eos bos 中 止 期 后 重 新 缴 费 需 要 体 检 吗 eos
+询问如实告知		询问如实告知 患某疾病是否可以投保		bos 健 康 告 知 有 jb 能 通 过 核 保 吗 eos bos 健 康 告 知 有 jb 能 通 过 核 保 吗 eos
+产品费用与报销		产品费用与报销 保险产品的定义		bos bxcp 的 特 定 门 诊 医 疗 费 用 是 指 eos bos bxcp 的 特 定 门 诊 医 疗 费 用 是 指 eos
+复效相关规定		身故保险金分期领取选择相关规定		bos bzxm 分 期 领 取 选 择 需 要 的 材 料 eos bos bzxm 分 期 领 取 选 择 需 要 的 材 料 eos
+投保限制		投保人条件限制		bos bxcp 6 0 周 岁 以 上 能 作 为 投 保 人 吗 eos bos bxcp 6 0 周 岁 以 上 能 作 为 投 保 人
+申请理赔		产品费用与报销		bos 理 赔 审 核 中 可 以 先 退 还 病 历 资 料 吗 eos bos 理 赔 审 核 中 可 以 先 退 还 病 历
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 航 班 延 误 保 险 索 赔 要 提 供 啥 eos bos jbzl 航 班 延 误 保 险 索 赔 要 提 供 啥 eos
+保障项目保哪些疾病		询问保险条款		bos 治 疗 jb 可 以 算 在 jb 治 疗 bzxm 当 中 吗 eos bos 治 疗 jb 可 以 算 在 jb 治 疗 bzxm 当 中
+询问缴费方式		询问变更缴费方式		bos 客 户 投 保 bxcp 可 以 选 择 的 缴 费 方 式 eos bos 客 户 投 保 bxcp 可 以 选 择 的 缴 费 方
+增值服务亮点		询问增值服务内容		bos bxcp 赠 送 的 增 值 服 务 使 用 时 间 次 数 eos bos bxcp 赠 送 的 增 值 服 务 使 用 时 间 次
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 航 班 延 误 保 险 索 赔 申 请 指 南 eos bos jbzl 航 班 延 误 保 险 索 赔 申 请 指 南 eos
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 保 险 的 理 赔 材 料 都 有 哪 些 呢 eos bos jbzl 保 险 的 理 赔 材 料 都 有 哪 些 呢 eos
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 请 问 一 下 申 请 理 赔 需 要 什 么 eos bos jbzl 请 问 一 下 申 请 理 赔 需 要 什 么 eos
+责任免除		保障项目的责任免除详情		bos bxcp 的 qj 免 责 条 款 （ 除 外 责 任 ） eos bos bxcp 的 qj 免 责 条 款 （ 除 外 责 任 ） eos
+生存给付确认申请时间		满期给付生存确认申请时间		bos 满 期 给 付 生 存 确 认 申 请 开 始 时 间 eos bos 满 期 给 付 生 存 确 认 申 请 开 始 时
+保险是否有购买限制		投保人和被保险人关系		bos 为 什 么 已 投 保 bxcp 就 不 能 再 投 bxcp eos bos 为 什 么 已 投 保 bxcp 就 不 能 再 投 bxcp eos
+体检指引		询问体检或验尸 特殊人群投保规则		bos 早 产 儿 投 保 需 要 体 检 和 加 费 吗 eos bos 早 产 儿 投 保 需 要 体 检 和 加 费 吗 eos
+特殊人群投保规则		某情景是否具备购买产品资格		bos 未 成 年 人 父 母 双 亡 可 以 买 bxcp 吗 eos bos 未 成 年 人 父 母 双 亡 可 以 买 bxcp 吗 eos
+询问保险责任		询问保险责任 询问保险金额		bos bxcp 自 驾 车 是 否 提 供 1 0 倍 保 额 eos bos bxcp 自 驾 车 是 否 提 供 1 0 倍 保 额 eos
+投保规则		特殊人群投保规则		bos 对 于 未 成 年 人 投 保 有 没 有 保 额 限 制 eos bos 对 于 未 成 年 人 投 保 有 没 有 保
+额外投资申请时间		变更定期额外投资申请时间		bos 变 更 定 期 额 外 投 资 申 请 开 始 时 间 eos bos 变 更 定 期 额 外 投 资 申 请 开 始 时
+保险产品变更缴费方式的范围式		保险产品变更缴费方式的范围		bos 期 缴 可 以 支 持 bxcp 变 更 缴 费 方 式 eos bos 期 缴 可 以 支 持 bxcp 变 更 缴 费 方 式 eos
+申请定期额外投资申请时间		终止定期额外投资申请时间		bos 终 止 定 期 额 外 投 资 申 请 开 始 时 间 eos bos 终 止 定 期 额 外 投 资 申 请 开 始 时
+保险产品变更缴费方式的范围式		保险产品变更缴费方式的范围		bos 趸 缴 可 以 支 持 bxcp 变 更 缴 费 方 式 eos bos 趸 缴 可 以 支 持 bxcp 变 更 缴 费 方 式 eos
+询问缴费方式		询问变更缴费方式		bos 保 保 单 生 效 后 可 以 更 改 缴 费 方 式 吗 eos bos 保 保 单 生 效 后 可 以 更 改 缴 费
+产品保障范围		保险产品满期生存确认的范围		bos 年 缴 可 以 支 持 bxcp 满 期 生 存 确 认 eos bos 年 缴 可 以 支 持 bxcp 满 期 生 存 确 认 eos
+other		询问保单借款		bos bxcp 中 途 需 要 钱 周 转 钱 可 以 拿 出 来 吗 eos bos bxcp 中 途 需 要 钱 周 转 钱 可 以 拿
+增值服务使用次数		增值服务使用时间 增值服务使用次数		bos 赠 送 的 增 值 服 务 使 用 时 间 次 数 eos bos 赠 送 的 增 值 服 务 使 用 时 间 次 数 eos
+投保限制		投保人条件限制 保障项目的年龄限制		bos 6 0 周 岁 以 上 能 作 为 投 保 人 吗 eos bos 6 0 周 岁 以 上 能 作 为 投 保 人 吗 eos
+保险是否有购买限制		商业保险与医保的关系		bos 客 户 已 经 有 医 社 保 还 可 以 买 bxcp 吗 eos bos 客 户 已 经 有 医 社 保 还 可 以 买 bxcp
+other		询问保险责任		bos 出 租 车 司 机 投 保 bxcp 有 1 0 倍 保 障 吗 eos bos 出 租 车 司 机 投 保 bxcp 有 1 0 倍
+询问保额		询问保额规定		bos 合 同 有 限 期 内 bxcp 可 否 申 请 增 减 保 额 eos bos 合 同 有 限 期 内 bxcp 可 否 申 请 增
+询问犹豫期		犹豫期其他保全变更相关规定		bos 犹 豫 期 其 他 保 全 变 更 需 要 的 材 料 eos bos 犹 豫 期 其 他 保 全 变 更 需 要 的 材
+询问保额		询问减额缴清		bos 合 同 有 效 期 内 bxcp 可 否 申 请 减 额 保 额 eos bos 合 同 有 效 期 内 bxcp 可 否 申 请 减
+某情景是否在承保范围内		某种疾病是否在承保范围内		bos 等 待 期 发 生 意 外 导 致 jb 能 否 赔 偿 eos bos 等 待 期 发 生 意 外 导 致 jb 能 否 赔
+申请理赔		保障项目如何申请理赔		bos bzxm 申 请 理 赔 需 要 有 效 保 险 凭 证 吗 eos bos bzxm 申 请 理 赔 需 要 有 效 保 险 凭 证
+变更年金领取方式相关规定		变更生存保险金领取方式相关规定		bos 变 更 生 存 bzxm 领 取 方 式 所 需 材 料 eos bos 变 更 生 存 bzxm 领 取 方 式 所 需 材 料 eos
+变更年金领取方式相关规定		变更生存保险金领取方式相关规定		bos 变 更 生 存 bzxm 领 取 方 式 申 请 流 程 eos bos 变 更 生 存 bzxm 领 取 方 式 申 请 流 程 eos
+保障项目如何申请理赔		申请某保障项目所需资料		bos bzxm 我 要 赔 偿 需 要 提 供 什 么 材 料 啊 eos bos bzxm 我 要 赔 偿 需 要 提 供 什 么 材 料
+申请理赔		理赔需要的材料 保障项目如何申请理赔		bos 航 班 延 误 险 理 赔 需 要 提 供 什 么 eos bos 航 班 延 误 险 理 赔 需 要 提 供 什 么 eos
+变更年金领取方式相关规定		变更生存保险金领取方式相关规定		bos 变 更 生 存 bzxm 领 取 方 式 相 关 规 定 eos bos 变 更 生 存 bzxm 领 取 方 式 相 关 规 定 eos
+增值服务亮点		询问某产品增值服务项目		bos bxcp 赠 送 的 增 值 服 务 使 用 时 间 次 数 eos bos bxcp 赠 送 的 增 值 服 务 使 用 时 间 次
+变更年金领取方式申请时间		变更生存保险金领取方式申请时间		bos 变 更 生 存 bzxm 领 取 方 式 申 请 时 间 eos bos 变 更 生 存 bzxm 领 取 方 式 申 请 时 间 eos
+申请理赔		保障项目如何申请理赔		bos 航 班 延 误 保 险 索 赔 申 请 的 注 意 事 项 eos bos 航 班 延 误 保 险 索 赔 申 请 的 注
+体检标准		某种体检异常指标分析		bos 乳 腺 体 检 异 常 指 标 检 出 率 数 据 分 析 eos bos 乳 腺 体 检 异 常 指 标 检 出 率 数
+变更年金领取方式相关规定		变更生存保险金领取方式相关规定		bos 变 更 生 存 bzxm 领 取 方 式 办 理 流 程 eos bos 变 更 生 存 bzxm 领 取 方 式 办 理 流 程 eos
+询问如实告知		某种情景是否可以投保		bos 健 康 告 知 有 慢 性 肝 炎 能 通 过 核 保 吗 eos bos 健 康 告 知 有 慢 性 肝 炎 能 通 过
+领取现金红利申请时间		身故保险金分期领取选择申请时间		bos bzxm 分 期 领 取 选 择 申 请 开 始 时 间 eos bos bzxm 分 期 领 取 选 择 申 请 开 始 时 间 eos
+变更年金领取方式相关规定		变更生存保险金领取方式相关规定		bos 变 更 生 存 bzxm 领 取 方 式 怎 么 申 请 eos bos 变 更 生 存 bzxm 领 取 方 式 怎 么 申 请 eos
+询问减额缴清		权益间的关系		bos 申 请 保 单 借 款 后 还 能 申 请 减 额 缴 清 吗 eos bos 申 请 保 单 借 款 后 还 能 申 请
+保障项目的赔付		不同保障项目的重复理赔		bos 赔 付 过 重 疾 最 后 终 老 还 可 以 赔 付 吗 eos bos 赔 付 过 重 疾 最 后 终 老 还 可 以
+询问保费垫缴		询问保险费缴纳		bos 不 及 时 缴 纳 保 险 费 对 我 有 什 么 影 响 吗 eos bos 不 及 时 缴 纳 保 险 费 对 我 有
+询问增值服务项目		询问某产品增值服务项目		bos 投 保 获 得 其 增 值 服 务 的 标 准 是 什 么 eos bos 投 保 获 得 其 增 值 服 务 的 标 准
+增值服务亮点		询问某产品增值服务项目		bos 你 们 有 提 供 尊 贵 客 户 的 专 属 服 务 吗 eos bos 你 们 有 提 供 尊 贵 客 户 的 专 属
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 申 请 理 赔 需 要 有 效 保 险 凭 证 吗 eos bos jbzl 申 请 理 赔 需 要 有 效 保 险 凭 证
+询问等待期		某种疾病是否在承保范围内 询问等待期		bos 等 待 期 内 意 外 导 致 的 jb 赔 不 赔 eos bos 等 待 期 内 意 外 导 致 的 jb 赔 不 赔 eos
+变更受益人相关规定		保险产品变更受益人的范围		bos 客 户 投 保 bxcp 后 要 怎 么 变 更 受 益 人 eos bos 客 户 投 保 bxcp 后 要 怎 么 变 更 受 益
+询问缴费方式		询问变更缴费方式		bos bxcp 保 单 生 效 后 可 以 更 改 缴 费 方 式 吗 eos bos bxcp 保 单 生 效 后 可 以 更 改 缴 费
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 申 请 理 赔 需 要 航 空 公 司 证 明 吗 eos bos jbzl 申 请 理 赔 需 要 航 空 公 司 证 明
+保障项目的赔付		询问赔付比例 保障项目的赔付		bos 自 驾 车 导 致 的 qj 或 全 残 怎 么 赔 付 eos bos 自 驾 车 导 致 的 qj 或 全 残 怎 么 赔
+询问如实告知		询问如实告知 询问合同解除		bos bxcp 的 如 实 告 知 与 保 险 合 同 的 解 除 eos bos bxcp 的 如 实 告 知 与 保 险 合 同 的 解
+额外投资相关规定		变更定期额外投资相关规定		bos 变 更 定 期 额 外 投 资 需 要 提 交 的 材 料 eos bos 变 更 定 期 额 外 投 资 需 要 提 交
+询问缴费方式		询问缴费方式 疾病种类豁免		bos jbzl 豁 免 的 费 用 是 一 年 一 年 缴 的 吗 eos bos jbzl 豁 免 的 费 用 是 一 年 一 年 缴 的
+额外投资相关规定		申请定期额外投资相关规定		bos 申 请 定 期 额 外 投 资 需 要 提 交 的 材 料 eos bos 申 请 定 期 额 外 投 资 需 要 提 交
+疾病的定义		某种疾病的预防		bos 日 常 生 活 中 如 何 更 好 的 预 防 jb 的 发 生 eos bos 日 常 生 活 中 如 何 更 好 的 预
+申请理赔		得了某个疾病怎样申请理赔		bos 未 成 年 人 投 保 bxcp 患 了 jb 怎 么 赔 呢 eos bos 未 成 年 人 投 保 bxcp 患 了 jb 怎 么 赔
+询问缴费方式		询问缴费方式 疾病种类豁免		bos jbzl 豁 免 的 费 用 也 是 一 年 一 年 缴 吗 eos bos jbzl 豁 免 的 费 用 也 是 一 年 一 年 缴
+申请理赔		保障项目如何申请理赔		bos bzxm 请 问 一 下 申 请 理 赔 需 要 什 么 材 料 eos bos bzxm 请 问 一 下 申 请 理 赔 需 要 什
+犹豫期减保申请时间		犹豫期其他保全变更申请时间		bos 犹 豫 期 其 他 保 全 变 更 申 请 开 始 时 间 eos bos 犹 豫 期 其 他 保 全 变 更 申 请 开
+申请理赔		保障项目如何申请理赔		bos bzxm 申 请 理 赔 需 要 航 班 凭 证 的 原 件 吗 eos bos bzxm 申 请 理 赔 需 要 航 班 凭 证 的
+询问受益人		询问合同变更		bos 客 户 购 买 bxcp 要 变 更 受 益 人 要 如 何 变 更 eos bos 客 户 购 买 bxcp 要 变 更 受 益 人
+询问联系方式		询问分公司联系方式		bos 分 公 司 的 联 系 方 式 就 是 总 部 的 那 个 吗 eos bos 分 公 司 的 联 系 方 式 就 是 总
+申请理赔		保障项目如何申请理赔		bos bzxm 申 请 理 赔 具 体 的 操 作 是 怎 么 样 的 eos bos bzxm 申 请 理 赔 具 体 的 操 作 是 怎
+领取现金红利相关规定		身故保险金分期领取选择相关规定		bos bzxm 分 期 领 取 选 择 需 要 提 交 的 材 料 eos bos bzxm 分 期 领 取 选 择 需 要 提 交 的 材
+释义项的定义		保障项目的定义		bos bzxm \ r < d i v > \ n < / d i v > eos bos bzxm \ r < d i v > \ n <
+变更年金领取方式相关规定		变更生存保险金领取方式相关规定		bos 变 更 生 存 bzxm 领 取 方 式 需 要 的 材 料 eos bos 变 更 生 存 bzxm 领 取 方 式 需 要 的 材
+申请理赔		保障项目如何申请理赔		bos bxcp 的 bzxm 和 bzxm 的 最 伽 婆 理 赔 天 数 是 eos bos bxcp 的 bzxm 和 bzxm 的 最 伽 婆 理 赔 天 数
+询问缴费方式		询问变更缴费方式		bos 投 保 bxcp 之 后 多 久 可 以 更 换 缴 费 方 式 呢 eos bos 投 保 bxcp 之 后 多 久 可 以 更 换
+询问增值服务内容		询问保险条款		bos jb 基 因 检 测 样 品 快 递 费 用 是 客 户 到 付 吗 eos bos jb 基 因 检 测 样 品 快 递 费
+投保途径		某渠道的投保流程		bos 在 港 澳 台 可 以 用 手 机 a p p 购 买 bxcp 吗 eos bos 在 港 澳 台 可 以 用 手 机 a p
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 申 请 理 赔 具 体 的 操 作 是 怎 么 样 的 eos bos jbzl 申 请 理 赔 具 体 的 操 作 是 怎
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 请 问 一 下 申 请 理 赔 需 要 什 么 材 料 eos bos jbzl 请 问 一 下 申 请 理 赔 需 要 什
+询问复效期		询问合同恢复 询问复效期		bos 复 效 期 内 申 请 复 效 合 同 还 需 要 核 保 吗 eos bos 复 效 期 内 申 请 复 效 合 同 还
+保障项目的赔付		保障项目的赔付方式		bos 发 生 jbzl 后 再 发 生 jbzl 最 后 再 jb 怎 么 赔 eos bos 发 生 jbzl 后 再 发 生 jbzl 最 后 再 jb
+询问缴费方式		询问缴费方式 疾病种类豁免		bos jbzl 豁 免 的 费 用 也 是 一 年 一 年 缴 的 吗 eos bos jbzl 豁 免 的 费 用 也 是 一 年 一 年
+申请定期额外投资申请时间		变更定期额外投资申请时间		bos 变 更 定 期 额 外 投 资 什 么 时 候 可 以 申 请 eos bos 变 更 定 期 额 外 投 资 什 么 时
+询问复效期		询问合同恢复 询问复效期		bos 复 效 期 内 申 请 复 效 合 同 还 需 要 核 保 吗 eos bos 复 效 期 内 申 请 复 效 合 同 还
+询问保额		询问保险金额 询问保险期间		bos 合 同 有 效 期 内 bxcp 可 否 申 请 减 额 保 额 eos bos 合 同 有 效 期 内 bxcp 可 否 申 请 减
+某情景是否在承保范围内		某情景是否在承保范围内 不同保障项目的重复理赔		bos 赔 过 重 疾 之 后 qj 了 还 有 的 赔 吗 eos bos 赔 过 重 疾 之 后 qj 了 还 有 的 赔 吗 eos
+申请定期额外投资申请时间		终止定期额外投资申请时间		bos 终 止 定 期 额 外 投 资 什 么 时 候 可 以 申 请 eos bos 终 止 定 期 额 外 投 资 什 么 时
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos 你 可 以 给 我 介 绍 一 下 jbzl 都 包 括 哪 一 些 eos bos 你 可 以 给 我 介 绍 一 下 jbzl 都
+公司地址		询问增值服务内容 公司地址		bos 绿 医 通 道 这 个 公 司 的 公 司 地 址 在 哪 里 eos bos 绿 医 通 道 这 个 公 司 的 公 司
+询问保单借款		询问保单借款 询问减额缴清		bos 申 请 保 单 借 款 后 还 能 申 请 减 额 缴 清 吗 eos bos 申 请 保 单 借 款 后 还 能 申 请
+犹豫期减保相关规定		犹豫期其他保全变更相关规定		bos 犹 豫 期 其 他 保 全 变 更 需 要 提 交 的 材 料 eos bos 犹 豫 期 其 他 保 全 变 更 需 要
+保障项目的赔付		保障项目的责任免除详情		bos bzxm 哪 些 情 况 保 险 公 司 不 承 担 赔 付 责 任 eos bos bzxm 哪 些 情 况 保 险 公 司 不 承
+other		询问合同恢复		bos 客 户 做 了 中 止 转 账 现 在 又 想 缴 费 怎 么 操 作 eos bos 客 户 做 了 中 止 转 账 现
+询问增值服务项目		询问某产品增值服务项目		bos bxcp 你 们 有 提 供 尊 贵 客 户 的 专 属 服 务 吗 eos bos bxcp 你 们 有 提 供 尊 贵 客 户 的
+变更年金领取方式申请时间		变更生存保险金领取方式申请时间		bos 变 更 生 存 bzxm 领 取 方 式 申 请 开 始 时 间 eos bos 变 更 生 存 bzxm 领 取 方 式 申 请 开
+询问保额		询问保险金额		bos 5 0 万 的 保 额 可 以 申 请 保 险 的 项 目 有 哪 些 eos bos 5 0 万 的 保 额 可 以 申
+投保规则		询问投保规则		bos 银 保 通 出 单 对 于 全 民 有 没 有 什 么 投 保 规 则 eos bos 银 保 通 出 单 对 于 全 民
+领取现金红利申请时间		身故保险金分期领取选择申请时间		bos bzxm 分 期 领 取 选 择 什 么 时 候 可 以 申 请 eos bos bzxm 分 期 领 取 选 择 什 么 时 候 可
+询问赔付比例		询问增值服务内容		bos 买 了 bxcp 有 医 保 的 是 按 什 么 比 例 进 行 赔 付 eos bos 买 了 bxcp 有 医 保 的 是 按 什
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 可 以 告 诉 我 理 赔 都 需 要 什 么 材 料 吗 eos bos jbzl 可 以 告 诉 我 理 赔 都 需 要
+询问缴费方式		询问变更缴费方式		bos bxcp 保 单 生 效 后 可 以 选 择 改 变 缴 费 方 式 吗 eos bos bxcp 保 单 生 效 后 可 以 选 择
+申请理赔		理赔的地域限制		bos 国 内 买 的 保 险 在 国 外 就 医 了 如 何 进 行 理 赔 eos bos 国 内 买 的 保 险 在 国 外
+询问增值服务项目		询问某产品增值服务项目		bos 寰 宇 卡 金 卡 尊 贵 型 和 银 卡 基 础 型 的 区 别 eos bos 寰 宇 卡 金 卡 尊 贵 型 和 银
+other		询问保险费缴纳		bos 客 户 做 了 中 止 转 账 现 在 又 想 缴 费 怎 么 操 作 eos bos 客 户 做 了 中 止 转 账 现
+责任免除		保障项目的责任免除详情		bos bxcp 的 bzxm 、 bzxm 免 责 条 款 （ 除 外 责 任 ） eos bos bxcp 的 bzxm 、 bzxm 免 责 条 款 （ 除 外
+询问减额缴清		询问保单借款 询问减额缴清 权益间的关系		bos 保 单 借 款 和 减 额 缴 清 能 同 时 进 行 吗 eos bos 保 单 借 款 和 减 额 缴 清 能 同 时
+投保指引		投保渠道的月缴首期		bos 手 机 投 保 月 缴 首 期 投 保 缴 两 个 月 的 保 费 吗 eos bos 手 机 投 保 月 缴 首 期 投
+某情景下全残或身故赔偿		某种情景是否可以投保		bos bxcp 保 单 生 效 后 乘 坐 航 空 出 了 事 故 怎 么 赔 eos bos bxcp 保 单 生 效 后 乘 坐 航 空
+申请理赔		保障项目如何申请理赔		bos bzxm 满 足 合 同 的 理 赔 范 围 我 要 怎 么 去 申 请 eos bos bzxm 满 足 合 同 的 理 赔 范 围
+产品介绍		产品升级介绍		bos 去 年 已 获 得 过 绿 色 就 医 通 道 可 以 同 步 升 级 吗 eos bos 去 年 已 获 得 过 绿 色
+申请理赔		理赔需要的材料 保障项目如何申请理赔		bos 不 确 定 航 班 延 误 保 险 索 赔 要 提 供 什 么 eos bos 不 确 定 航 班 延 误 保 险 索 赔
+变更年金领取方式相关规定		变更生存保险金领取方式相关规定		bos 变 更 生 存 bzxm 领 取 方 式 需 要 提 交 的 材 料 eos bos 变 更 生 存 bzxm 领 取 方 式 需 要
+投保限制		投保人条件限制		bos 外 籍 人 事 或 港 澳 台 人 事 是 否 能 投 保 具 体 要 求 eos bos 外 籍 人 事 或 港 澳 台
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 申 请 理 赔 需 要 被 保 险 人 的 登 机 证 明 吗 eos bos jbzl 申 请 理 赔 需 要 被 保 险
+询问体检或验尸		询问体检或验尸 某种情景是否可以投保		bos qj 每 年 体 检 都 是 正 常 的 能 正 常 购 买 吗 eos bos qj 每 年 体 检 都 是 正 常 的 能
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 满 足 合 同 的 理 赔 范 围 我 要 怎 么 去 申 请 eos bos jbzl 满 足 合 同 的 理 赔 范 围
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 我 想 申 请 理 赔 都 有 哪 些 材 料 需 要 准 备 eos bos jbzl 我 想 申 请 理 赔 都 有 哪
+询问诉讼时效		询问诉讼时效 询问保险金给付		bos bxcp 请 求 给 付 bzxm 的 诉 讼 时 效 期 间 为 几 年 eos bos bxcp 请 求 给 付 bzxm 的 诉 讼 时 效
+申请理赔		保障项目如何申请理赔		bos bzxm 没 有 航 空 公 司 的 延 误 证 明 能 否 申 请 bzxm eos bos bzxm 没 有 航 空 公 司 的 延 误
+释义项定义		保障项目的定义		bos bxcp bzxm 给 了 百 分 之 五 十 之 后 保 费 还 需 要 缴 吗 eos bos bxcp bzxm 给 了 百 分 之 五 十
+申请理赔		保障项目如何申请理赔		bos bzxm 申 请 理 赔 需 要 保 险 事 故 证 明 文 件 正 本 吗 eos bos bzxm 申 请 理 赔 需 要 保 险
+询问如实告知		询问如实告知 患某疾病是否可以投保		bos 健 康 告 知 曾 经 患 有 甲 状 腺 疾 病 能 投 保 吗 eos bos 健 康 告 知 曾 经 患 有 甲 状
+产品保障期限		产品保障期限 询问附加险 疾病种类豁免		bos 信 诚 附 加 jbzl 豁 免 保 险 费 bxzl 的 保 障 期 eos bos 信 诚 附 加 jbzl 豁 免 保 险 费 bxzl 的
+询问增值服务内容		询问某产品增值服务项目		bos bxcp 赠 送 的 信 享 卡 增 值 服 务 需 要 客 户 激 活 吗 eos bos bxcp 赠 送 的 信 享 卡 增 值
+保障项目的赔付		某情景下全残或身故赔偿 保障项目的赔付		bos 航 空 意 外 身 故 或 全 残 按 照 什 么 标 准 赔 付 eos bos 航 空 意 外 身 故 或 全 残 按
+询问保障责任		询问保险责任		bos 同 个 保 险 事 故 bxcp 是 否 会 出 现 多 项 bzxm 同 时 赔 付 eos bos 同 个 保 险 事 故 bxcp 是
+申请理赔		保障项目如何申请理赔		bos bzxm 介 绍 一 下 航 班 延 误 保 险 索 赔 需 要 提 供 什 么 eos bos bzxm 介 绍 一 下 航 班 延
+申请理赔		保障项目如何申请理赔		bos bzxm 申 请 理 赔 需 要 被 保 险 人 的 航 班 订 座 记 录 吗 eos bos bzxm 申 请 理 赔 需 要 被
+申请理赔		保障项目如何申请理赔		bos bzxm 能 告 诉 我 申 请 理 赔 都 要 准 备 些 什 么 东 西 吗 eos bos bzxm 能 告 诉 我 申 请 理
+疾病包含哪些疾病		疾病种类包含哪些疾病		bos 可 以 给 我 介 绍 一 下 你 们 的 产 品 都 保 哪 些 jbzl 么 eos bos 可 以 给 我 介 绍 一 下
+询问保险责任		询问保险责任 询问宣告死亡		bos 如 果 是 由 于 出 了 车 祸 导 致 的 死 亡 也 可 以 赔 嘛 eos bos 如 果 是 由 于 出 了 车
+申请理赔		保障项目如何申请理赔		bos bzxm 我 想 咨 询 一 下 申 请 理 赔 需 要 提 前 准 备 什 么 eos bos bzxm 我 想 咨 询 一 下 申
+询问投保年龄		询问投保年龄 询问附加险 疾病种类豁免		bos 信 诚 附 加 jbzl 豁 免 保 险 费 bxzl 的 投 保 年 龄 eos bos 信 诚 附 加 jbzl 豁 免 保 险 费 bxzl
+申请理赔		保障项目如何申请理赔		bos bzxm 申 请 理 赔 需 要 被 保 险 人 的 银 行 账 户 信 息 吗 eos bos bzxm 申 请 理 赔 需 要 被
+询问区别		询问区别 购买某项保险产品有无优惠		bos 线 上 和 线 下 投 保 投 保 优 惠 有 什 么 不 同 的 呢 eos bos 线 上 和 线 下 投 保 投 保
+other		询问保费垫缴		bos 我 已 经 终 止 了 保 单 的 扣 费 , 为 什 么 还 会 产 生 垫 缴 eos bos 我 已 经 终 止 了
+理赔需要的材料		理赔需要的材料 保障项目如何申请理赔		bos 航 班 延 误 保 险 索 赔 一 定 要 提 交 什 么 材 料 呢 eos bos 航 班 延 误 保 险 索 赔 一
+申请理赔		理赔申请后出现特殊情况的解决办法		bos 理 赔 了 bzxm 后 有 幸 活 过 6 个 月 那 后 期 怎 么 办 eos bos 理 赔 了 bzxm 后 有 幸 活 过
+询问增值服务项目		询问某产品增值服务项目		bos 听 说 这 个 产 品 还 有 增 值 服 务 可 以 给 我 介 绍 下 吗 eos bos 听 说 这 个 产 品 还
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 申 请 理 赔 需 要 被 保 险 人 的 银 行 账 户 信 息 吗 eos bos jbzl 申 请 理 赔 需 要 被
+询问减额缴清		询问保单借款 询问减额缴清 权益间的关系		bos bxcp 申 请 保 单 借 款 后 还 能 申 请 减 额 缴 清 吗 eos bos bxcp 申 请 保 单 借 款 后 还 能
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 申 请 理 赔 需 要 被 保 险 人 的 航 班 订 座 记 录 吗 eos bos jbzl 申 请 理 赔 需 要 被
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 我 想 咨 询 一 下 申 请 理 赔 需 要 提 前 准 备 什 么 eos bos jbzl 我 想 咨 询 一 下 申
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 能 告 诉 我 申 请 理 赔 都 要 准 备 些 什 么 东 西 吗 eos bos jbzl 能 告 诉 我 申 请 理
+询问体检或验尸		询问体检或验尸 保障项目的年龄限制		bos 超 过 5 1 周 岁 投 保 bxcp 需 要 做 哪 些 体 检 项 目 eos bos 超 过 5 1 周 岁 投 保 bxcp
+理赔需要的材料		得了某类疾病怎样申请理赔		bos 申 请 理 赔 需 要 被 保 险 人 本 人 的 银 行 账 户 信 息 吗 eos bos 申 请 理 赔 需 要 被
+询问等待期		保障项目如何申请理赔 询问等待期		bos 等 待 期 内 由 于 疾 病 导 致 的 qj 可 以 申 请 bzxm 吗 eos bos 等 待 期 内 由 于 疾 病 导
+保障项目的赔付		不同保障项目的重复理赔		bos 同 个 保 险 事 故 bxcp 是 否 会 出 现 多 项 bzxm 同 时 赔 付 eos bos 同 个 保 险 事 故 bxcp 是
+申请理赔		保障项目如何申请理赔		bos bzxm 申 请 理 赔 需 要 延 误 时 间 正 式 书 面 证 明 文 件 吗 eos bos bzxm 申 请 理 赔 需 要
+询问保额		询问保险金额		bos 租 赁 车 司 机 购 买 bxcp 后 出 险 可 以 1 0 倍 保 额 赔 付 吗 eos bos 租 赁 车 司 机 购
+疾病种类豁免		豁免保费后保单是否存在现金价值		bos 得 了 jbzl 豁 免 保 费 了 之 后 保 单 还 有 现 金 价 值 吗 eos bos 得 了 jbzl 豁 免 保 费 了
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 申 请 理 赔 需 要 航 班 取 消 正 式 书 面 证 明 文 件 吗 eos bos jbzl 申 请 理 赔 需 要
+申请理赔		保障项目如何申请理赔		bos bzxm 申 请 理 赔 需 要 被 保 险 人 本 人 的 银 行 账 户 信 息 吗 eos bos bzxm 申 请 理 赔 需
+询问等待期		某种疾病是否在承保范围内		bos jb 或 高 发 肿 瘤 基 因 检 测 在 等 待 期 查 出 会 不 会 拒 保 eos bos jb 或 高 发 肿 瘤
+申请理赔		保障项目如何申请理赔		bos bzxm 可 以 告 诉 我 航 班 延 误 保 险 索 赔 需 要 提 供 什 么 吗 eos bos bzxm 可 以 告 诉 我
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 可 以 告 诉 我 航 班 延 误 保 险 索 赔 需 要 提 供 什 么 吗 eos bos jbzl 可 以 告 诉 我
+理赔后缓缴保险费的处理办法		忘记交保费的解决办法 理赔后缓缴保险费的处理办法		bos 理 赔 “ bzxm ” 后 客 户 缓 缴 的 余 下 各 期 保 费 将 eos bos 理 赔 “ bzxm ” 后 客 户 缓
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 申 请 理 赔 需 要 被 保 险 人 本 人 的 银 行 账 户 信 息 吗 eos bos jbzl 申 请 理 赔 需
+保费核算		保费支出		bos 我 的 月 收 入 一 万 块 你 看 我 是 拿 多 少 钱 出 来 买 保 险 比 较 好 eos bos 我 的 月
+申请理赔		保障项目如何申请理赔		bos bzxm 航 班 延 误 理 赔 需 要 提 供 身 份 证 号 码 和 银 行 卡 号 吗 eos bos bzxm 航 班 延 误
+理赔需要的材料		理赔需要的材料 保障项目如何申请理赔		bos 航 班 延 误 理 赔 需 要 提 供 身 份 证 号 码 和 银 行 卡 号 吗 eos bos 航 班 延 误 理 赔
+申请理赔		得了某类疾病怎样申请理赔		bos jbzl 航 班 延 误 理 赔 需 要 提 供 身 份 证 号 码 和 银 行 卡 号 吗 eos bos jbzl 航 班 延 误
+询问保险责任		产品费用与报销		bos 入 住 重 症 监 护 室 后 除 了 床 位 费 其 他 的 器 械 治 疗 费 用 能 包 吗 eos bos 入 住
+投保规则		特殊人群投保规则		bos 为 未 成 年 人 投 保 qj 保 额 和 jbzl 责 任 保 额 需 要 累 计 附 加 bxcp eos bos 为 未 成 年
+疾病种类豁免		疾病种类豁免 豁免保费后保单是否存在现金价值		bos bxcp 得 了 jbzl 豁 免 保 费 了 之 后 保 单 还 有 现 金 价 值 吗 eos bos bxcp 得 了 jbzl 豁 免 保
+申请理赔		保障项目如何申请理赔		bos bzxm 申 请 理 赔 需 要 证 明 保 险 事 故 原 因 损 失 程 度 的 文 件 资 料 吗 eos bos bzxm 申
+产品费用与报销		疾病种类治疗费用		bos bxcp 入 住 重 症 监 护 室 后 除 了 床 位 费 其 他 的 器 械 治 疗 费 用 能 包 吗 eos bos bxcp
+询问附加险		询问现金价值 询问保单借款 询问附加险		bos 附 加 险 有 现 金 价 值 附 加 险 的 现 金 价 值 可 以 进 行 保 单 借 款 吗 eos bos 附 加
+询问保险金额		变更保险金额		bos 保 单 生 效 后 中 途 可 以 申 请 降 低 附 加 bxcp 提 前 给 付 特 定 bxzl 的 保 额 吗 eos bos
+投保的职业要求		询问保险责任 投保的职业要求		bos bxcp 是 否 存 在 健 康 及 职 业 加 费 情 况 职 业 等 级 5 级 以 上 能 否 投 保 eos bos bxcp
+询问免赔额		询问免赔额数值		bos 社 会 医 疗 保 险 和 公 费 保 险 获 取 的 补 偿 可 以 用 来 抵 扣 bxcp 的 免 赔 额 吗 eos
+询问保单借款		豁免保费后保单是否存在现金价值		bos 得 了 jbzl 保 费 豁 免 了 之 后 保 单 还 有 现 金 价 值 吗 还 可 以 保 单 借 款 吗 eos bos
+增值服务亮点		询问增值服务内容		bos 寰 宇 卡 客 户 、 v i p 银 卡 客 户 和 v i p 金 卡 客 户 都 可 以 获 得 什 么 服
+释义项定义		某产品的最低保额		bos bxcp 的 最 低 保 费 限 制 是 多 少 \ r < d i v > & n b s p ; < / d i v
+保障项目的赔付		不同保障项目的重复理赔		bos 同 个 保 险 事 故 bxcp 是 否 会 出 现 多 项 bzxm 同 时 赔 付 （ 例 如 ： 自 驾 车 意 外 身
+投保规则		特殊人群投保规则		bos 为 未 成 年 人 投 保 qj 保 额 和 jbzl 责 任 保 额 需 要 累 计 附 加 jbzl 豁 免 保 险 费 bxzl
+责任免除		询问保险责任		bos 客 户 投 保 了 bxcp 选 择 租 车 自 驾 游 请 问 驾 车 期 间 出 现 意 外 身 故 / 全 残 是
+other		理赔需要的材料		bos 如 何 判 断 客 户 qj 时 的 交 通 工 具 为 正 规 有 效 的 网 约 车 或 者 租 赁 车 理 赔
+某疾病是否属于某疾病种类		询问赔付比例		bos 客 户 投 保 了 bxcp 被 保 人 6 0 岁 时 不 幸 罹 患 了 jb （ 被 确 诊 时 基 本 保 险 金
+释义项定义		询问保险金给付		bos 客 户 投 保 了 bxcp 并 依 法 成 为 网 约 车 司 机 在 驾 驶 网 约 车 期 间 发 生 意 外 伤
+询问保险责任		询问赔付比例		bos 客 户 投 保 了 bxcp 被 保 人 在 6 0 岁 时 不 幸 被 确 诊 为 jb （ 非 bzxm 所 列 疾 病 被
+释义项定义		询问保险责任		bos 客 户 已 投 保 bxcp 名 下 的 个 人 车 辆 已 经 成 为 合 法 网 约 车 本 身 也 为 网 约 车

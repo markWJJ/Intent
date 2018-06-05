@@ -1,0 +1,1293 @@
+bos sy eos bos sy eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保费核算	1.0
+bos 3 eos bos 3 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 加 费 eos bos 加 费 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保费核算	1.0
+bos 尊 尚 eos bos 尊 尚 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品介绍	1.0
+bos 今 天 eos bos 今 天 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos bxj eos bos bxj eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的赔付	1.0
+bos 退 出 eos bos 退 出 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 1 2 eos bos 1 2 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 拜 拜 eos bos 拜 拜 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 上 海 eos bos 上 海 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 6 9 eos bos 6 9 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 法 定 eos bos 法 定 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 小 病 eos bos 小 病 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病的定义	1.0
+bos 辽 宁 eos bos 辽 宁 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 您 好 eos bos 您 好 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 骨 jb eos bos 骨 jb eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病的定义	1.0
+bos 优 势 eos bos 优 势 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问产品优势	1.0
+bos 儿 科 eos bos 儿 科 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos 撤 单 eos bos 撤 单 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同解除	1.0
+bos 开 胸 eos bos 开 胸 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos 拼 车 eos bos 拼 车 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos 亮 点 eos bos 亮 点 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问产品优势	1.0
+bos 回 溯 eos bos 回 溯 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	申请保单回溯	1.0
+bos 算 费 用 eos bos 算 费 用 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保费核算	1.0
+bos 测 保 费 eos bos 测 保 费 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保费核算	1.0
+bos 北 京 呢 eos bos 北 京 呢 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 附 加 险 eos bos 附 加 险 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问附加险	1.0
+bos 多 少 钱 eos bos 多 少 钱 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 开 门 红 eos bos 开 门 红 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 附 效 期 eos bos 附 效 期 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问复效期	1.0
+bos 怎 么 用 eos bos 怎 么 用 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 在 干 嘛 eos bos 在 干 嘛 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 烧 伤 科 eos bos 烧 伤 科 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合作医院	1.0
+bos 心 脏 科 eos bos 心 脏 科 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos 胰 腺 炎 eos bos 胰 腺 炎 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos 保 多 久 eos bos 保 多 久 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品保障期限	1.0
+bos 退 保 率 eos bos 退 保 率 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos 缴 费 期 eos bos 缴 费 期 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问缴费年期	1.0
+bos 乳 腺 jb eos bos 乳 腺 jb eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病的定义	1.0
+bos 小 轿 车 eos bos 小 轿 车 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos 什 么 bxcp eos bos 什 么 bxcp eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品介绍	1.0
+bos 谁 能 买 eos bos 谁 能 买 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	投保人条件限制	1.0
+bos qj 条 款 eos bos qj 条 款 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险条款	1.0
+bos 宽 限 期 eos bos 宽 限 期 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问宽限期时间	1.0
+bos bzxm 申 请 eos bos bzxm 申 请 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	申请理赔	1.0
+bos 高 发 疾 病 eos bos 高 发 疾 病 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	高发疾病	1.0
+bos 启 泰 康 元 eos bos 启 泰 康 元 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品介绍	1.0
+bos 男 性 费 率 eos bos 男 性 费 率 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保费核算	1.0
+bos 投 保 途 径 eos bos 投 保 途 径 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	投保指引	1.0
+bos 怎 么 赔 付 eos bos 怎 么 赔 付 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	赔付方式	1.0
+bos 理 赔 医 院 eos bos 理 赔 医 院 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	理赔医院	1.0
+bos 优 惠 eos bos 优 惠 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	购买某项保险产品有无优惠	1.0
+bos 如 何 缴 费 eos bos 如 何 缴 费 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	投保指引	1.0
+bos 保 额 选 择 eos bos 保 额 选 择 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	推荐保额	1.0
+bos 医 院 要 求 eos bos 医 院 要 求 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	理赔医院	1.0
+bos 怎 么 投 保 eos bos 怎 么 投 保 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	投保指引	1.0
+bos 保 费 计 算 eos bos 保 费 计 算 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保费核算	1.0
+bos 体 检 要 求 eos bos 体 检 要 求 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	体检标准	1.0
+bos 保 费 预 算 eos bos 保 费 预 算 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保费核算	1.0
+bos 体 检 费 用 eos bos 体 检 费 用 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	体检指引	1.0
+bos 申 请 理 赔 eos bos 申 请 理 赔 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	申请理赔	1.0
+bos bxcp 垫 缴 eos bos bxcp 垫 缴 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保费垫缴	1.0
+bos bxcp 条 款 eos bos bxcp 条 款 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险条款	1.0
+bos bxcp 不 行 eos bos bxcp 不 行 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos 哦 哈 哟 ！ eos bos 哦 哈 哟 ！ eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 健 康 保 障 eos bos 健 康 保 障 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 趸 交 eos bos 趸 交 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义 询问缴费年期	1.0
+bos 我 想 办 理 eos bos 我 想 办 理 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 了 解 谢 谢 eos bos 了 解 谢 谢 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 有 人 工 吗 eos bos 有 人 工 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 返 本 时 间 eos bos 返 本 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 转 机 器 人 eos bos 转 机 器 人 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 会 员 级 别 eos bos 会 员 级 别 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 例 如 1 岁 eos bos 例 如 1 岁 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos jbzl 豁 免 eos bos jbzl 豁 免 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos 考 虑 考 虑 eos bos 考 虑 考 虑 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 保 险 期 限 eos bos 保 险 期 限 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品保障期限	1.0
+bos 赔 多 少 钱 eos bos 赔 多 少 钱 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问赔付比例	1.0
+bos 合 同 构 成 eos bos 合 同 构 成 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同构成	1.0
+bos 客 服 热 线 eos bos 客 服 热 线 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问联系方式	1.0
+bos 最 大 优 势 eos bos 最 大 优 势 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问产品优势	1.0
+bos 保 障 时 间 eos bos 保 障 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险期间	1.0
+bos bxzl 是 啥 eos bos bxzl 是 啥 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的定义	1.0
+bos 能 回 溯 吗 eos bos 能 回 溯 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	申请保单回溯	1.0
+bos 合 同 解 除 eos bos 合 同 解 除 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同解除	1.0
+bos 投 保 规 定 eos bos 投 保 规 定 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问投保规则	1.0
+bos 保 费 垫 缴 eos bos 保 费 垫 缴 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保费垫缴	1.0
+bos 滴 滴 打 车 eos bos 滴 滴 打 车 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos 合 同 恢 复 eos bos 合 同 恢 复 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同恢复	1.0
+bos 银 行 购 买 eos bos 银 行 购 买 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合作银行	1.0
+bos 保 全 变 更 eos bos 保 全 变 更 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同变更	1.0
+bos 保 单 中 止 eos bos 保 单 中 止 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同解除	1.0
+bos 什 么 算 qj eos bos 什 么 算 qj eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	情景的定义	1.0
+bos 减 额 交 清 eos bos 减 额 交 清 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问减额缴清	1.0
+bos 公 司 介 绍 eos bos 公 司 介 绍 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问公司介绍	1.0
+bos 争 议 处 理 eos bos 争 议 处 理 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问争议处理	1.0
+bos 保 额 调 整 eos bos 保 额 调 整 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同变更	1.0
+bos 保 险 期 间 eos bos 保 险 期 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品保障期限	1.0
+bos jb 啥 意 思 eos bos jb 啥 意 思 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病的定义	1.0
+bos 专 科 医 院 eos bos 专 科 医 院 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合作医院	1.0
+bos 保 障 期 限 eos bos 保 障 期 限 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品保障期限	1.0
+bos 投 保 限 制 eos bos 投 保 限 制 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问投保规则	1.0
+bos bxcp 职 业 eos bos bxcp 职 业 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	投保的职业要求	1.0
+bos 什 么 是 qj eos bos 什 么 是 qj eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病的定义	1.0
+bos 如 何 缴 费 eos bos 如 何 缴 费 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问缴费方式	1.0
+bos 保 险 种 类 eos bos 保 险 种 类 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险种类	1.0
+bos 保 全 规 则 eos bos 保 全 规 则 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问投保规则	1.0
+bos 企 业 简 介 eos bos 企 业 简 介 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问公司介绍	1.0
+bos 公 司 实 力 eos bos 公 司 实 力 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问公司介绍	1.0
+bos 公 司 简 介 eos bos 公 司 简 介 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问公司介绍	1.0
+bos 哪 些 医 院 eos bos 哪 些 医 院 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合作医院	1.0
+bos 吉 林 fwxm eos bos 吉 林 fwxm eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 宁 夏 fwxm eos bos 宁 夏 fwxm eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 如 何 申 领 eos bos 如 何 申 领 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	理赔需要的材料	1.0
+bos 广 东 fwxm eos bos 广 东 fwxm eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos fwxm 对 象 eos bos fwxm 对 象 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 青 海 fwxm eos bos 青 海 fwxm eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 职 业 要 求 eos bos 职 业 要 求 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	投保的职业要求	1.0
+bos 安 徽 fwxm eos bos 安 徽 fwxm eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 天 津 fwxm eos bos 天 津 fwxm eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 缓 缴 保 费 eos bos 缓 缴 保 费 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问宽限期定义	1.0
+bos 保 险 缓 交 eos bos 保 险 缓 交 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问宽限期定义	1.0
+bos qj 保 吗 eos bos qj 保 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种情景是否可以投保	1.0
+bos 用 多 少 钱 买 eos bos 用 多 少 钱 买 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保费支出	1.0
+bos 国 内 二 诊 eos bos 国 内 二 诊 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 死 了 怎 么 赔 eos bos 死 了 怎 么 赔 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	申请理赔	1.0
+bos 疾 病 qj eos bos 疾 病 qj eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某情景下全残或身故赔偿	1.0
+bos bxcp 的 bxj eos bos bxcp 的 bxj eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的定义	1.0
+bos bzxm 意 外 eos bos bzxm 意 外 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的保障范围	1.0
+bos 投 保 方 式 eos bos 投 保 方 式 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某渠道的投保流程	1.0
+bos 健 康 测 平 eos bos 健 康 测 平 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 有 赠 送 eos bos 有 赠 送 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	购买某项保险产品有无优惠	1.0
+bos qj 赔 吗 eos bos qj 赔 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某情景是否在承保范围内	1.0
+bos 境 外 体 检 eos bos 境 外 体 检 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 能 算 费 用 吗 eos bos 能 算 费 用 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保费核算	1.0
+bos 会 员 等 级 eos bos 会 员 等 级 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 父 母 双 亡 eos bos 父 母 双 亡 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	特殊人群投保规则	1.0
+bos qj 保 吗 eos bos qj 保 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某情景是否在承保范围内	1.0
+bos 体 检 的 标 准 eos bos 体 检 的 标 准 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	体检标准	1.0
+bos 售 后 联 系 eos bos 售 后 联 系 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 保 费 多 少 钱 eos bos 保 费 多 少 钱 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保费核算	1.0
+bos 预 约 医 院 eos bos 预 约 医 院 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos qj 全 残 eos bos qj 全 残 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某情景下全残或身故赔偿	1.0
+bos 理 赔 速 度 吗 eos bos 理 赔 速 度 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	理赔速度	1.0
+bos 会 员 级 别 eos bos 会 员 级 别 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 合 同 找 不 到 eos bos 合 同 找 不 到 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	合同丢失	1.0
+bos bxcp 的 bzxm eos bos bxcp 的 bzxm eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的定义	1.0
+bos 保 费 比 较 贵 eos bos 保 费 比 较 贵 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 你 是 客 服 吗 eos bos 你 是 客 服 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos jbzl 包 括 eos bos jbzl 包 括 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病种类包含哪些疾病	1.0
+bos 严 重 肠 胃 炎 eos bos 严 重 肠 胃 炎 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病的定义	1.0
+bos 8 0 万 保 额 eos bos 8 0 万 保 额 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 复 效 期 多 久 eos bos 复 效 期 多 久 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问复效期	1.0
+bos 保 额 1 0 万 eos bos 保 额 1 0 万 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos c e o 是 谁 eos bos c e o 是 谁 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 你 是 人 工 吗 eos bos 你 是 人 工 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 神 经 官 能 症 eos bos 神 经 官 能 症 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病的定义	1.0
+bos bxcp 的 保 额 eos bos bxcp 的 保 额 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品保额限制	1.0
+bos jbzl 保 障 eos bos jbzl 保 障 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病种类包含哪些疾病	1.0
+bos 什 么 是 bzxm eos bos 什 么 是 bzxm eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的定义	1.0
+bos 保 障 期 多 久 eos bos 保 障 期 多 久 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品保障期限	1.0
+bos 隔 代 投 保 eos bos 隔 代 投 保 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	投保人与被保险人关系	1.0
+bos qj 什 么 意 思 eos bos qj 什 么 意 思 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	情景的定义	1.0
+bos 心 血 管 医 院 eos bos 心 血 管 医 院 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合作医院	1.0
+bos 什 么 是 bxzl eos bos 什 么 是 bxzl eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的定义	1.0
+bos 为 什 么 要 买 eos bos 为 什 么 要 买 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问产品优势	1.0
+bos bzxm 怎 么 赔 eos bos bzxm 怎 么 赔 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的赔付	1.0
+bos 现 金 价 值 低 eos bos 现 金 价 值 低 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问现金价值	1.0
+bos jb 什 么 意 思 eos bos jb 什 么 意 思 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病的定义	1.0
+bos 保 证 续 保 吗 eos bos 保 证 续 保 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险条款	1.0
+bos jbzl 保 哪 些 eos bos jbzl 保 哪 些 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品保哪些疾病	1.0
+bos 孕 妇 保 吗 eos bos 孕 妇 保 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种情景是否可以投保	1.0
+bos jb 怎 么 解 释 eos bos jb 怎 么 解 释 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病的定义	1.0
+bos qj 是 指 什 么 eos bos qj 是 指 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	情景的定义	1.0
+bos 拒 保 的 原 因 eos bos 拒 保 的 原 因 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问投保规则	1.0
+bos 售 后 方 便 吗 eos bos 售 后 方 便 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	服务内容介绍	1.0
+bos bzxm 是 多 少 eos bos bzxm 是 多 少 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的定义	1.0
+bos 自 驾 车 保 险 eos bos 自 驾 车 保 险 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos bxcp 是 什 么 eos bos bxcp 是 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品的定义	1.0
+bos 保 多 长 时 间 eos bos 保 多 长 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险期间	1.0
+bos 什 么 是 * jb eos bos 什 么 是 * jb eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病的定义	1.0
+bos 信 用 卡 保 费 eos bos 信 用 卡 保 费 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保费支付渠道	1.0
+bos bxcp 什 么 病 eos bos bxcp 什 么 病 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品保哪些疾病	1.0
+bos 什 么 叫 做 qj eos bos 什 么 叫 做 qj eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	情景的定义	1.0
+bos 缴 费 年 期 数 eos bos 缴 费 年 期 数 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问缴费年期	1.0
+bos 可 以 回 溯 吗 eos bos 可 以 回 溯 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	申请保单回溯	1.0
+bos bzxm 怎 么 算 eos bos bzxm 怎 么 算 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的赔付	1.0
+bos jbzl 是 多 少 eos bos jbzl 是 多 少 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病种类的定义	1.0
+bos 交 了 多 少 年 eos bos 交 了 多 少 年 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问缴费年期	1.0
+bos 体 检 表 有 吗 eos bos 体 检 表 有 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问体检或验尸	1.0
+bos 保 险 费 缴 纳 eos bos 保 险 费 缴 纳 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险费缴纳	1.0
+bos bxcp 保 全 方 式 eos bos bxcp 保 全 方 式 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保全规则	1.0
+bos qj 免 责 条 款 eos bos qj 免 责 条 款 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问免责条款	1.0
+bos bxcp 理 赔 时 间 eos bos bxcp 理 赔 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	理赔速度	1.0
+bos bzxm 怎 么 申 请 eos bos bzxm 怎 么 申 请 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	申请理赔	1.0
+bos jbzl 理 赔 eos bos jbzl 理 赔 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	得了某类疾病怎样申请理赔	1.0
+bos fwxm 是 什 么 eos bos fwxm 是 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos bxcp 体 检 保 额 eos bos bxcp 体 检 保 额 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	体检指引	1.0
+bos fwxm 有 效 期 eos bos fwxm 有 效 期 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	增值服务使用时间	1.0
+bos qj 是 qj 的 吗 eos bos qj 是 qj 的 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 除 外 责 任 eos bos 除 外 责 任 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的责任免除详情	1.0
+bos 免 赔 额 多 少 eos bos 免 赔 额 多 少 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问免赔额数值	1.0
+bos bxcp 保 费 测 算 eos bos bxcp 保 费 测 算 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保费核算	1.0
+bos bxcp 产 品 内 容 eos bos bxcp 产 品 内 容 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品介绍	1.0
+bos bxcp 体 检 标 准 eos bos bxcp 体 检 标 准 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	体检标准	1.0
+bos 新 发 现 有 qj eos bos 新 发 现 有 qj eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos 治 疗 费 用 jb eos bos 治 疗 费 用 jb eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病治疗费用	1.0
+bos qj 保 不 保 eos bos qj 保 不 保 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种情景是否可以投保	1.0
+bos bxcp 具 体 内 容 eos bos bxcp 具 体 内 容 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品介绍	1.0
+bos jb 理 赔 资 料 eos bos jb 理 赔 资 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	理赔需要的材料	1.0
+bos 能 优 惠 吗 eos bos 能 优 惠 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	购买某项保险产品有无优惠	1.0
+bos bxcp 缓 缴 保 费 eos bos bxcp 缓 缴 保 费 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos bxcp qj qj eos bos bxcp qj qj eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某情景下全残或身故赔偿	1.0
+bos 哪 里 可 以 购 买 eos bos 哪 里 可 以 购 买 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	投保指引	1.0
+bos 客 服 上 班 时 间 eos bos 客 服 上 班 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	咨询时间	1.0
+bos 怎 么 申 请 理 赔 eos bos 怎 么 申 请 理 赔 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	申请理赔	1.0
+bos 赔 偿 怎 么 处 理 eos bos 赔 偿 怎 么 处 理 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	申请理赔	1.0
+bos bxcp fwxm 特 色 eos bos bxcp fwxm 特 色 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	增值服务亮点	1.0
+bos qj 赔 不 赔 eos bos qj 赔 不 赔 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某情景是否在承保范围内	1.0
+bos bxcp 男 性 费 率 eos bos bxcp 男 性 费 率 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos bxcp fwxm 亮 点 eos bos bxcp fwxm 亮 点 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	增值服务亮点	1.0
+bos jbzl 怎 么 赔 eos bos jbzl 怎 么 赔 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病种类的赔付流程	1.0
+bos bxcp fwxm 好 处 eos bos bxcp fwxm 好 处 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	增值服务亮点	1.0
+bos 我 想 申 请 理 赔 eos bos 我 想 申 请 理 赔 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	申请理赔	1.0
+bos 客 服 中 心 地 址 eos bos 客 服 中 心 地 址 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	公司地址	1.0
+bos 人 工 服 务 时 间 eos bos 人 工 服 务 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	咨询时间	1.0
+bos qj 全 残 给 付 eos bos qj 全 残 给 付 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险金给付	1.0
+bos bxcp 有 收 益 吗 eos bos bxcp 有 收 益 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 复 效 期 是 什 么 eos bos 复 效 期 是 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问复效期	1.0
+bos fwxm 服 务 亮 点 eos bos fwxm 服 务 亮 点 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	增值服务亮点	1.0
+bos jb 赔 偿 吗 eos bos jb 赔 偿 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种疾病是否在承保范围内	1.0
+bos jbzl 保 障 范 围 eos bos jbzl 保 障 范 围 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos 保 哪 些 jbzl eos bos 保 哪 些 jbzl eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病种类包含哪些疾病	1.0
+bos bxcp 已 缴 年 期 eos bos bxcp 已 缴 年 期 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问缴费年期	1.0
+bos bxcp 能 保 多 久 eos bos bxcp 能 保 多 久 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品保障期限	1.0
+bos bxcp 保 什 么 的 eos bos bxcp 保 什 么 的 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos 医 疗 机 构 建 议 eos bos 医 疗 机 构 建 议 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos bzxm 谁 赔 付 多 eos bos bzxm 谁 赔 付 多 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问赔付比例	1.0
+bos 保 哪 些 jbzl 呢 eos bos 保 哪 些 jbzl 呢 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos bxcp 保 多 少 年 eos bos bxcp 保 多 少 年 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos jb 怎 么 办 eos bos jb 怎 么 办 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	得了某个疾病怎样申请理赔	1.0
+bos jb 能 赔 吗 eos bos jb 能 赔 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种疾病是否在承保范围内	1.0
+bos bxcp 升 级 增 值 eos bos bxcp 升 级 增 值 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品升级介绍	1.0
+bos 神 经 系 统 疾 病 eos bos 神 经 系 统 疾 病 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病的定义	1.0
+bos bxcp 保 单 年 度 eos bos bxcp 保 单 年 度 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos jb 保 不 保 eos bos jb 保 不 保 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种疾病是否在承保范围内	1.0
+bos 等 待 期 是 什 么 eos bos 等 待 期 是 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问等待期	1.0
+bos bxcp 产 品 优 势 eos bos bxcp 产 品 优 势 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问产品优势	1.0
+bos bxcp 变 更 合 同 eos bos bxcp 变 更 合 同 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同变更	1.0
+bos 财 务 核 保 规 定 eos bos 财 务 核 保 规 定 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos bxcp 都 能 保 啥 eos bos bxcp 都 能 保 啥 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos bxcp 什 么 是 jb eos bos bxcp 什 么 是 jb eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病的定义	1.0
+bos bzxm 如 何 赔 eos bos bzxm 如 何 赔 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目如何申请理赔	1.0
+bos bxcp 会 拒 保 吗 eos bos bxcp 会 拒 保 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问投保规则	1.0
+bos 有 没 有 覆 效 期 eos bos 有 没 有 覆 效 期 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问复效期	1.0
+bos 急 性 心 肌 梗 赛 eos bos 急 性 心 肌 梗 赛 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病的定义	1.0
+bos 有 没 有 合 同 的 eos bos 有 没 有 合 同 的 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 什 么 事 等 待 期 eos bos 什 么 事 等 待 期 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问等待期	1.0
+bos 等 待 期 有 多 长 eos bos 等 待 期 有 多 长 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问等待期	1.0
+bos bxcp 产 品 条 款 eos bos bxcp 产 品 条 款 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险条款	1.0
+bos bxcp 减 少 保 费 eos bos bxcp 减 少 保 费 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问减额缴清	1.0
+bos jb 会 保 吗 eos bos jb 会 保 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种疾病是否在承保范围内	1.0
+bos 矫 正 视 力 低 于 eos bos 矫 正 视 力 低 于 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos bxcp 保 障 什 么 eos bos bxcp 保 障 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos jb 保 障 范 围 eos bos jb 保 障 范 围 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种疾病的保障范围	1.0
+bos 解 释 一 下 bxcp eos bos 解 释 一 下 bxcp eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品的定义	1.0
+bos 能 否 保 单 借 款 eos bos 能 否 保 单 借 款 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保单借款	1.0
+bos 复 效 所 需 材 料 eos bos 复 效 所 需 材 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	复效相关规定	1.0
+bos 怎 么 才 算 jbzl eos bos 怎 么 才 算 jbzl eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病种类的定义	1.0
+bos bzxm 解 释 一 下 eos bos bzxm 解 释 一 下 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的定义	1.0
+bos bxcp 索 赔 材 料 eos bos bxcp 索 赔 材 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	理赔需要的材料	1.0
+bos 可 申 请 回 溯 吗 eos bos 可 申 请 回 溯 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	申请保单回溯	1.0
+bos 保 单 借 款 利 率 eos bos 保 单 借 款 利 率 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保单借款	1.0
+bos 老 人 家 能 买 吗 eos bos 老 人 家 能 买 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问投保年龄	1.0
+bos 支 持 哪 些 币 种 eos bos 支 持 哪 些 币 种 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问适用币种	1.0
+bos bxcp 的 服 务 eos bos bxcp 的 服 务 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问某产品增值服务项目	1.0
+bos 恢 复 合 同 流 程 eos bos 恢 复 合 同 流 程 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同恢复	1.0
+bos 哪 些 算 是 bzxm eos bos 哪 些 算 是 bzxm eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的定义	1.0
+bos 医 学 必 要 定 义 eos bos 医 学 必 要 定 义 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos bxzl 谁 能 参 保 eos bos bxzl 谁 能 参 保 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	投保人条件限制	1.0
+bos bxcp 孕 妇 投 保 eos bos bxcp 孕 妇 投 保 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	投保人条件限制	1.0
+bos 同 业 产 品 比 较 eos bos 同 业 产 品 比 较 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问产品优势	1.0
+bos bzxm 支 付 方 式 eos bos bzxm 支 付 方 式 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的赔付	1.0
+bos 湖 北 合 作 医 院 eos bos 湖 北 合 作 医 院 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合作医院	1.0
+bos 介 绍 一 下 bxcp eos bos 介 绍 一 下 bxcp eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品的定义	1.0
+bos bxcp 是 指 什 么 eos bos bxcp 是 指 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品的定义	1.0
+bos 广 西 合 作 医 院 eos bos 广 西 合 作 医 院 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合作医院	1.0
+bos 解 释 一 下 jbzl eos bos 解 释 一 下 jbzl eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病种类的定义	1.0
+bos 江 苏 合 作 医 院 eos bos 江 苏 合 作 医 院 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合作医院	1.0
+bos jbzl 有 什 么 用 eos bos jbzl 有 什 么 用 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病种类的定义	1.0
+bos 我 想 变 更 合 同 eos bos 我 想 变 更 合 同 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同变更	1.0
+bos 宁 夏 合 作 医 院 eos bos 宁 夏 合 作 医 院 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合作医院	1.0
+bos 浙 江 合 作 医 院 eos bos 浙 江 合 作 医 院 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合作医院	1.0
+bos p s 合 作 医 院 eos bos p s 合 作 医 院 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合作医院	1.0
+bos 租 赁 车 的 定 义 eos bos 租 赁 车 的 定 义 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos bxcp 保 qj 吗 eos bos bxcp 保 qj 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种情景是否可以投保	1.0
+bos 健 康 告 知 重 听 eos bos 健 康 告 知 重 听 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问如实告知	1.0
+bos 最 高 投 保 金 额 eos bos 最 高 投 保 金 额 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品保额限制	1.0
+bos 我 想 恢 复 合 同 eos bos 我 想 恢 复 合 同 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同恢复	1.0
+bos 公 司 会 倒 闭 吗 eos bos 公 司 会 倒 闭 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	公司经营状况	1.0
+bos 人 寿 免 责 条 款 eos bos 人 寿 免 责 条 款 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险条款	1.0
+bos 国 内 二 次 诊 疗 eos bos 国 内 二 次 诊 疗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合作医院	1.0
+bos 复 效 申 请 流 程 eos bos 复 效 申 请 流 程 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	复效相关规定	1.0
+bos 健 康 状 况 要 求 eos bos 健 康 状 况 要 求 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问如实告知	1.0
+bos 发 生 意 外 赔 吗 eos bos 发 生 意 外 赔 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos 续 保 怎 么 操 作 eos bos 续 保 怎 么 操 作 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险条款	1.0
+bos 属 于 什 么 险 种 eos bos 属 于 什 么 险 种 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险种类	1.0
+bos 合 同 中 有 什 么 eos bos 合 同 中 有 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同构成	1.0
+bos 我 该 如 何 支 付 eos bos 我 该 如 何 支 付 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问缴费方式	1.0
+bos bzxm 怎 么 理 解 eos bos bzxm 怎 么 理 解 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的定义	1.0
+bos 复 效 相 关 规 定 eos bos 复 效 相 关 规 定 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	复效相关规定	1.0
+bos 多 少 岁 可 投 保 eos bos 多 少 岁 可 投 保 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问投保年龄	1.0
+bos 最 高 保 额 限 制 eos bos 最 高 保 额 限 制 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品保额限制	1.0
+bos 可 购 最 高 限 额 eos bos 可 购 最 高 限 额 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品保额限制	1.0
+bos jb 患 者 投 保 eos bos jb 患 者 投 保 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	患某疾病是否可以投保	1.0
+bos jbzl 怎 么 配 eos bos jbzl 怎 么 配 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	得了某类疾病怎样申请理赔	1.0
+bos 宽 限 期 有 多 长 eos bos 宽 限 期 有 多 长 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问宽限期时间	1.0
+bos 免 赔 额 是 什 么 eos bos 免 赔 额 是 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问免赔额定义	1.0
+bos fwxm 截 止 时 间 eos bos fwxm 截 止 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	增值服务使用时间	1.0
+bos 中 途 缴 费 停 了 eos bos 中 途 缴 费 停 了 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问宽限期时间	1.0
+bos 解 释 下 免 赔 额 eos bos 解 释 下 免 赔 额 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问免赔额定义	1.0
+bos 三 甲 医 院 fwxm eos bos 三 甲 医 院 fwxm eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos bxcp 可 以 续 保 吗 eos bos bxcp 可 以 续 保 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品续保	1.0
+bos 全 残 怎 么 赔 eos bos 全 残 怎 么 赔 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某情景下全残或身故赔偿	1.0
+bos 有 哪 些 服 务 eos bos 有 哪 些 服 务 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问某产品增值服务项目	1.0
+bos fwxm 使 用 流 程 eos bos fwxm 使 用 流 程 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos bxcp 的 财 务 规 则 eos bos bxcp 的 财 务 规 则 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	投保指引	1.0
+bos 变 更 受 益 人 eos bos 变 更 受 益 人 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同变更 询问受益人	1.0
+bos bzxm bzxm 申 请 eos bos bzxm bzxm 申 请 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目如何申请理赔	1.0
+bos 基 本 保 险 金 额 eos bos 基 本 保 险 金 额 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问基本保险金额	1.0
+bos jbzl 给 付 次 数 eos bos jbzl 给 付 次 数 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的赔付次数	1.0
+bos 天 津 分 公 司 地 址 eos bos 天 津 分 公 司 地 址 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	公司地址	1.0
+bos 流 感 保 不 保 eos bos 流 感 保 不 保 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种疾病是否在承保范围内	1.0
+bos bxcp 保 全 方 式 eos bos bxcp 保 全 方 式 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品支持保全项	1.0
+bos 寿 险 功 能 是 什 么 eos bos 寿 险 功 能 是 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品介绍	1.0
+bos 会 员 有 分 级 吗 eos bos 会 员 有 分 级 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 能 算 一 下 费 用 吗 eos bos 能 算 一 下 费 用 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保费核算	1.0
+bos bxcp 犹 豫 期 退 保 eos bos bxcp 犹 豫 期 退 保 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问犹豫期	1.0
+bos 小 病 保 不 保 eos bos 小 病 保 不 保 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种疾病是否在承保范围内	1.0
+bos 有 什 么 产 品 推 荐 eos bos 有 什 么 产 品 推 荐 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品推荐	1.0
+bos 最 低 保 额 多 少 eos bos 最 低 保 额 多 少 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某产品的最低保额	1.0
+bos qj 不 会 赔 吗 eos bos qj 不 会 赔 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某情景是否在承保范围内	1.0
+bos 联 系 方 式 变 更 eos bos 联 系 方 式 变 更 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问变更通讯方式	1.0
+bos 在 线 问 诊 操 作 eos bos 在 线 问 诊 操 作 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 怎 么 更 新 住 址 eos bos 怎 么 更 新 住 址 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问变更通讯方式	1.0
+bos bxcp jb 保 吗 eos bos bxcp jb 保 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种疾病是否在承保范围内	1.0
+bos 什 么 争 执 服 务 eos bos 什 么 争 执 服 务 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 上 海 分 公 司 地 址 eos bos 上 海 分 公 司 地 址 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	公司地址	1.0
+bos 高 发 疾 病 有 哪 些 eos bos 高 发 疾 病 有 哪 些 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	高发疾病	1.0
+bos 可 以 打 折 吗 eos bos 可 以 打 折 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	购买某项保险产品有无优惠	1.0
+bos 还 能 投 保 bxcp 吗 eos bos 还 能 投 保 bxcp 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 在 线 问 诊 时 间 eos bos 在 线 问 诊 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 在 线 问 诊 服 务 eos bos 在 线 问 诊 服 务 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 基 因 检 测 拒 保 eos bos 基 因 检 测 拒 保 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 国 外 理 赔 流 程 eos bos 国 外 理 赔 流 程 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	理赔渠道申请流程	1.0
+bos 航 空 意 外 bzxm eos bos 航 空 意 外 bzxm eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种情景是否可以投保	1.0
+bos jb 赔 不 赔 偿 eos bos jb 赔 不 赔 偿 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种疾病是否在承保范围内	1.0
+bos bzxm 理 赔 流 程 eos bos bzxm 理 赔 流 程 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目如何申请理赔	1.0
+bos 受 益 比 例 怎 么 填 eos bos 受 益 比 例 怎 么 填 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问受益人	1.0
+bos bxcp 保 险 单 借 款 eos bos bxcp 保 险 单 借 款 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保单借款	1.0
+bos bxcp 的 缴 费 上 市 eos bos bxcp 的 缴 费 上 市 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问缴费方式	1.0
+bos 有 没 有 复 效 期 呢 eos bos 有 没 有 复 效 期 呢 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问复效期	1.0
+bos 专 家 手 术 fwxm / eos bos 专 家 手 术 fwxm / eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问公司介绍	1.0
+bos bxcp 的 投 保 规 则 eos bos bxcp 的 投 保 规 则 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问投保规则	1.0
+bos 哪 些 病 算 jbzl eos bos 哪 些 病 算 jbzl eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病种类包含哪些疾病	1.0
+bos bxcp 的 投 保 年 龄 eos bos bxcp 的 投 保 年 龄 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问投保年龄	1.0
+bos 受 益 人 如 何 变 更 eos bos 受 益 人 如 何 变 更 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问受益人	1.0
+bos bzxm 我 想 理 赔 eos bos bzxm 我 想 理 赔 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目如何申请理赔	1.0
+bos 1 岁 能 买 jbzl 吗 eos bos 1 岁 能 买 jbzl 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问投保年龄	1.0
+bos bxcp 支 持 增 额 吗 eos bos bxcp 支 持 增 额 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品保额限制	1.0
+bos jb 有 赔 付 吗 eos bos jb 有 赔 付 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种疾病是否在承保范围内	1.0
+bos 什 么 人 可 以 投 保 eos bos 什 么 人 可 以 投 保 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问投保人	1.0
+bos 有 没 有 犹 豫 期 呢 eos bos 有 没 有 犹 豫 期 呢 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问犹豫期	1.0
+bos 等 待 期 内 赔 不 赔 eos bos 等 待 期 内 赔 不 赔 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问等待期	1.0
+bos jbzl jbzl 的 种 类 eos bos jbzl jbzl 的 种 类 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病种类的定义	1.0
+bos bxcp 的 身 份 证 明 eos bos bxcp 的 身 份 证 明 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos 如 何 申 领 bzxm eos bos 如 何 申 领 bzxm eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目如何申请理赔	1.0
+bos * 严 重 ⅲ 度 烧 伤 eos bos * 严 重 ⅲ 度 烧 伤 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病的定义	1.0
+bos jbzl 包 含 哪 些 eos bos jbzl 包 含 哪 些 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病种类包含哪些疾病	1.0
+bos 老 年 人 投 保 限 额 eos bos 老 年 人 投 保 限 额 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品保额限制	1.0
+bos 可 以 选 择 月 交 吗 eos bos 可 以 选 择 月 交 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问缴费年期	1.0
+bos 保 险 期 间 有 多 长 eos bos 保 险 期 间 有 多 长 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险期间	1.0
+bos 可 以 中 途 退 保 吗 eos bos 可 以 中 途 退 保 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同解除	1.0
+bos 那 什 么 是 bxzl 呢 eos bos 那 什 么 是 bxzl 呢 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险种类的定义	1.0
+bos 如 实 告 知 是 什 么 eos bos 如 实 告 知 是 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问如实告知	1.0
+bos 中 信 保 城 的 历 史 eos bos 中 信 保 城 的 历 史 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问公司介绍	1.0
+bos 保 险 单 借 款 利 率 eos bos 保 险 单 借 款 利 率 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保单借款	1.0
+bos 这 个 保 险 保 什 么 eos bos 这 个 保 险 保 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos 产 品 优 势 是 什 么 eos bos 产 品 优 势 是 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问产品优势	1.0
+bos jbzl 是 什 么 意 思 eos bos jbzl 是 什 么 意 思 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病种类的定义	1.0
+bos 全 残 的 免 责 条 款 eos bos 全 残 的 免 责 条 款 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问免责条款	1.0
+bos 什 么 是 保 费 垫 缴 eos bos 什 么 是 保 费 垫 缴 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保费垫缴	1.0
+bos 澳 元 可 以 支 付 吗 eos bos 澳 元 可 以 支 付 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问适用币种	1.0
+bos 可 以 保 单 回 溯 吗 eos bos 可 以 保 单 回 溯 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	申请保单回溯	1.0
+bos 变 更 保 全 可 以 吗 eos bos 变 更 保 全 可 以 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同变更	1.0
+bos 保 险 合 同 是 什 么 eos bos 保 险 合 同 是 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同种类	1.0
+bos 保 险 合 同 有 几 类 eos bos 保 险 合 同 有 几 类 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同种类	1.0
+bos jb 属 于 什 么 科 目 eos bos jb 属 于 什 么 科 目 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病的定义	1.0
+bos 能 保 多 长 的 时 间 eos bos 能 保 多 长 的 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险期间	1.0
+bos bxcp 不 保 事 项 eos bos bxcp 不 保 事 项 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的责任免除详情	1.0
+bos 售 后 电 话 是 多 少 eos bos 售 后 电 话 是 多 少 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	服务内容介绍	1.0
+bos 医 学 必 要 是 什 么 eos bos 医 学 必 要 是 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos 产 品 有 什 么 特 别 eos bos 产 品 有 什 么 特 别 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问产品优势	1.0
+bos 你 们 的 优 势 是 啥 eos bos 你 们 的 优 势 是 啥 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问产品优势	1.0
+bos bxcp qj 保 不 保 eos bos bxcp qj 保 不 保 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种情景是否可以投保	1.0
+bos 已 经 缴 费 的 时 间 eos bos 已 经 缴 费 的 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问缴费年期	1.0
+bos 你 们 保 险 保 什 么 eos bos 你 们 保 险 保 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos 产 品 优 势 有 什 么 eos bos 产 品 优 势 有 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问产品优势	1.0
+bos 全 残 免 责 有 什 么 eos bos 全 残 免 责 有 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问免责条款	1.0
+bos 保 险 持 续 的 时 间 eos bos 保 险 持 续 的 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险期间	1.0
+bos 怎 么 样 可 以 理 赔 eos bos 怎 么 样 可 以 理 赔 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos jbzl fwxm 的 使 用 eos bos jbzl fwxm 的 使 用 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 哪 个 保 险 赔 jb eos bos 哪 个 保 险 赔 jb eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问哪个保险保疾病	1.0
+bos bxcp 是 否 保 疾 病 eos bos bxcp 是 否 保 疾 病 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品的保障内容	1.0
+bos 缴 费 方 式 有 哪 些 eos bos 缴 费 方 式 有 哪 些 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问缴费方式	1.0
+bos 保 险 期 间 怎 么 算 eos bos 保 险 期 间 怎 么 算 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险期间	1.0
+bos bzxm 不 保 什 么 eos bos bzxm 不 保 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的责任免除详情	1.0
+bos bxcp 的 报 销 比 例 eos bos bxcp 的 报 销 比 例 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品费用与报销	1.0
+bos 可 以 恢 复 合 同 吗 eos bos 可 以 恢 复 合 同 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同恢复	1.0
+bos bxcp qj 怎 么 赔 eos bos bxcp qj 怎 么 赔 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目如何申请理赔	1.0
+bos 合 同 有 什 么 文 件 eos bos 合 同 有 什 么 文 件 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同构成	1.0
+bos 有 什 么 需 要 告 知 eos bos 有 什 么 需 要 告 知 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问如实告知	1.0
+bos 专 科 医 生 的 定 义 eos bos 专 科 医 生 的 定 义 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos 身 体 健 康 的 定 义 eos bos 身 体 健 康 的 定 义 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos 什 么 是 投 保 年 龄 eos bos 什 么 是 投 保 年 龄 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问投保年龄	1.0
+bos 公 司 会 不 会 破 产 eos bos 公 司 会 不 会 破 产 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	公司经营状况	1.0
+bos 需 要 告 诉 年 龄 吗 eos bos 需 要 告 诉 年 龄 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问信息误告	1.0
+bos 公 司 有 什 么 优 势 eos bos 公 司 有 什 么 优 势 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问产品优势	1.0
+bos 合 同 恢 复 是 什 么 eos bos 合 同 恢 复 是 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同恢复	1.0
+bos 免 责 条 款 有 什 么 eos bos 免 责 条 款 有 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问免责条款	1.0
+bos jb 是 怎 么 定 义 的 eos bos jb 是 怎 么 定 义 的 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病的定义	1.0
+bos 保 障 范 围 有 哪 些 eos bos 保 障 范 围 有 哪 些 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos 借 款 不 还 会 怎 样 eos bos 借 款 不 还 会 怎 样 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保单借款	1.0
+bos 住 院 报 销 赔 不 赔 eos bos 住 院 报 销 赔 不 赔 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品费用与报销	1.0
+bos 有 qj 能 投 保 吗 eos bos 有 qj 能 投 保 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种情景是否可以投保	1.0
+bos bxcp 是 否 可 以 续 保 eos bos bxcp 是 否 可 以 续 保 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品续保	1.0
+bos jb 赔 不 赔 bzxm eos bos jb 赔 不 赔 bzxm eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病是否赔某个保障项目	1.0
+bos qj 是 怎 么 定 义 的 eos bos qj 是 怎 么 定 义 的 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos 高 危 职 业 不 可 投 eos bos 高 危 职 业 不 可 投 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	投保的职业要求	1.0
+bos 在 国 外 可 以 买 吗 eos bos 在 国 外 可 以 买 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	理赔的地域限制	1.0
+bos bxcp 续 保 怎 么 操 作 eos bos bxcp 续 保 怎 么 操 作 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品续保	1.0
+bos 增 值 服 务 类 型 eos bos 增 值 服 务 类 型 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问某产品增值服务项目	1.0
+bos bxcp 可 理 赔 的 医 院 eos bos bxcp 可 理 赔 的 医 院 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	理赔医院	1.0
+bos 体 检 费 是 谁 出 的 eos bos 体 检 费 是 谁 出 的 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问体检或验尸	1.0
+bos bxcp 与 社 保 的 区 别 eos bos bxcp 与 社 保 的 区 别 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问区别	1.0
+bos bxcp 理 赔 医 院 要 求 eos bos bxcp 理 赔 医 院 要 求 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	理赔医院	1.0
+bos 哪 些 疾 病 可 以 保 eos bos 哪 些 疾 病 可 以 保 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品保哪些疾病	1.0
+bos bzxm jb 会 赔 吗 eos bos bzxm jb 会 赔 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病是否赔某个保障项目	1.0
+bos 怎 么 算 的 宽 限 期 eos bos 怎 么 算 的 宽 限 期 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问宽限期时间	1.0
+bos jb 医 疗 费 用 bzxm eos bos jb 医 疗 费 用 bzxm eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的定义	1.0
+bos 孕 妇 可 以 投 保 吗 eos bos 孕 妇 可 以 投 保 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	投保人条件限制	1.0
+bos bzxm qj 保 不 保 eos bos bzxm qj 保 不 保 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	情景是否赔偿某个保障项目	1.0
+bos bxcp 未 归 还 款 项 eos bos bxcp 未 归 还 款 项 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问未归还款项偿还	1.0
+bos bxcp 观 察 期 有 几 天 eos bos bxcp 观 察 期 有 几 天 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问等待期	1.0
+bos 尊 尚 会 员 的 服 务 eos bos 尊 尚 会 员 的 服 务 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 未 成 年 人 如 何 购 买 eos bos 未 成 年 人 如 何 购 买 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	投保指引	1.0
+bos 多 久 可 以 理 赔 到 账 eos bos 多 久 可 以 理 赔 到 账 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	理赔速度	1.0
+bos 有 没 有 诉 讼 时 效 eos bos 有 没 有 诉 讼 时 效 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问变更通讯方式	1.0
+bos 我 不 知 道 怎 么 理 赔 eos bos 我 不 知 道 怎 么 理 赔 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	申请理赔	1.0
+bos 高 发 疾 病 都 有 哪 些 eos bos 高 发 疾 病 都 有 哪 些 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	高发疾病	1.0
+bos 寰 宇 卡 服 务 内 容 eos bos 寰 宇 卡 服 务 内 容 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos qj 也 是 意 外 吗 eos bos qj 也 是 意 外 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某情景下全残或身故赔偿	1.0
+bos 疾 病 qj 有 赔 吗 eos bos 疾 病 qj 有 赔 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某情景下全残或身故赔偿	1.0
+bos bxzl 有 免 赔 额 吗 eos bos bxzl 有 免 赔 额 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问险种免赔额数值	1.0
+bos 寰 宇 卡 救 援 电 话 eos bos 寰 宇 卡 救 援 电 话 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos bzxm qj 赔 钱 吗 eos bos bzxm qj 赔 钱 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	情景是否赔偿某个保障项目	1.0
+bos 广 州 分 支 机 构 在 哪 eos bos 广 州 分 支 机 构 在 哪 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	公司地址	1.0
+bos 现 在 有 哪 些 增 值 eos bos 现 在 有 哪 些 增 值 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 怎 么 申 请 理 赔 eos bos 怎 么 申 请 理 赔 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	得了某类疾病怎样申请理赔	1.0
+bos 体 检 项 目 有 要 求 吗 eos bos 体 检 项 目 有 要 求 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	体检标准	1.0
+bos 手 机 银 行 购 买 限 额 eos bos 手 机 银 行 购 买 限 额 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	投保途径	1.0
+bos 基 因 检 测 的 项 目 eos bos 基 因 检 测 的 项 目 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos bzxm 保 不 保 意 外 eos bos bzxm 保 不 保 意 外 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的保障范围	1.0
+bos 什 么 是 导 医 服 务 eos bos 什 么 是 导 医 服 务 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos bxcp 交 一 千 可 以 吗 eos bos bxcp 交 一 千 可 以 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 疾 病 qj 怎 么 赔 eos bos 疾 病 qj 怎 么 赔 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某情景是否在承保范围内	1.0
+bos 最 低 保 额 是 多 少 eos bos 最 低 保 额 是 多 少 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某产品的最低保额	1.0
+bos bzxm 失 踪 了 怎 么 办 eos bos bzxm 失 踪 了 怎 么 办 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 买 保 险 有 什 么 意 义 eos bos 买 保 险 有 什 么 意 义 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品介绍	1.0
+bos 哪 些 疾 病 是 bzxm eos bos 哪 些 疾 病 是 bzxm eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目保哪些疾病	1.0
+bos 借 款 期 限 有 多 久 eos bos 借 款 期 限 有 多 久 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保单借款的还款期限	1.0
+bos 9 0 种 jbzl 种 类 eos bos 9 0 种 jbzl 种 类 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病种类包含哪些疾病	1.0
+bos bxcp 的 特 色 / 亮 点 eos bos bxcp 的 特 色 / 亮 点 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问产品优势	1.0
+bos 受 益 人 可 以 变 更 吗 eos bos 受 益 人 可 以 变 更 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问受益人	1.0
+bos bxcp 能 否 保 单 借 款 eos bos bxcp 能 否 保 单 借 款 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保单借款	1.0
+bos bxcp 的 保 障 期 多 久 eos bos bxcp 的 保 障 期 多 久 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品保障期限	1.0
+bos 进 行 性 脊 肌 萎 缩 症 eos bos 进 行 性 脊 肌 萎 缩 症 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病的定义	1.0
+bos bxzl 减 额 缴 清 含 义 eos bos bxzl 减 额 缴 清 含 义 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问减额缴清	1.0
+bos bxcp 保 额 有 规 定 吗 eos bos bxcp 保 额 有 规 定 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保额规定	1.0
+bos 一 般 医 疗 金 有 多 少 eos bos 一 般 医 疗 金 有 多 少 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 可 以 电 话 联 系 我 么 eos bos 可 以 电 话 联 系 我 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 你 们 公 司 卖 什 么 eos bos 你 们 公 司 卖 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问公司有哪些产品	1.0
+bos bzxm 最 高 赔 付 比 例 eos bos bzxm 最 高 赔 付 比 例 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问赔付比例	1.0
+bos jbzl 豁 免 如 何 缴 费 eos bos jbzl 豁 免 如 何 缴 费 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问缴费方式	1.0
+bos 怎 样 选 择 合 作 年 限 eos bos 怎 样 选 择 合 作 年 限 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 可 以 重 复 赔 付 吗 eos bos 可 以 重 复 赔 付 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的赔付次数	1.0
+bos jb 包 括 哪 些 疾 病 eos bos jb 包 括 哪 些 疾 病 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病包含哪些疾病	1.0
+bos 受 益 人 可 以 更 改 吗 eos bos 受 益 人 可 以 更 改 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问受益人	1.0
+bos 哪 类 车 不 是 租 赁 车 eos bos 哪 类 车 不 是 租 赁 车 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos bxcp 可 以 保 费 垫 缴 eos bos bxcp 可 以 保 费 垫 缴 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保费垫缴	1.0
+bos bzxm 我 怎 么 索 赔 eos bos bzxm 我 怎 么 索 赔 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目如何申请理赔	1.0
+bos bxcp 意 外 危 险 保 额 eos bos bxcp 意 外 危 险 保 额 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品保额限制	1.0
+bos 的 复 效 期 是 多 少 天 eos bos 的 复 效 期 是 多 少 天 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问复效期	1.0
+bos bxcp 投 保 年 龄 要 求 eos bos bxcp 投 保 年 龄 要 求 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问投保年龄	1.0
+bos 能 介 绍 下 贵 公 司 吗 eos bos 能 介 绍 下 贵 公 司 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问公司介绍	1.0
+bos 购 买 保 单 有 限 额 吗 eos bos 购 买 保 单 有 限 额 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品保额限制	1.0
+bos 怎 样 才 算 医 学 必 要 eos bos 怎 样 才 算 医 学 必 要 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos 保 险 责 任 累 计 给 付 eos bos 保 险 责 任 累 计 给 付 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保额累计	1.0
+bos 可 以 帮 父 母 买 吗 eos bos 可 以 帮 父 母 买 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	投保人和被保险人关系	1.0
+bos 了 解 一 下 投 保 规 则 eos bos 了 解 一 下 投 保 规 则 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问投保规则	1.0
+bos jbzl fwxm 服 务 介 绍 eos bos jbzl fwxm 服 务 介 绍 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 未 成 年 人 qj 赔 付 eos bos 未 成 年 人 qj 赔 付 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	特殊人群的理赔方式	1.0
+bos 贷 款 利 息 怎 么 计 算 eos bos 贷 款 利 息 怎 么 计 算 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保单借款	1.0
+bos 人 民 币 可 以 支 付 吗 eos bos 人 民 币 可 以 支 付 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问适用币种	1.0
+bos 有 了 可 以 投 保 吗 eos bos 有 了 可 以 投 保 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种情景是否可以投保	1.0
+bos jbzl 是 怎 么 定 义 的 eos bos jbzl 是 怎 么 定 义 的 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病种类的定义	1.0
+bos jbzl fwxm 服 务 内 网 eos bos jbzl fwxm 服 务 内 网 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos bzxm 有 最 高 限 额 吗 eos bos bzxm 有 最 高 限 额 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的赔付	1.0
+bos 咳 嗽 可 以 投 保 吗 eos bos 咳 嗽 可 以 投 保 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	患某疾病是否可以投保	1.0
+bos 住 院 的 标 准 是 什 么 eos bos 住 院 的 标 准 是 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos jb jb 是 否 赔 付 eos bos jb jb 是 否 赔 付 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种疾病是否在承保范围内	1.0
+bos 介 绍 一 下 保 险 责 任 eos bos 介 绍 一 下 保 险 责 任 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos 你 们 的 产 品 哪 点 好 eos bos 你 们 的 产 品 哪 点 好 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问产品优势	1.0
+bos jb 具 体 是 怎 么 回 事 eos bos jb 具 体 是 怎 么 回 事 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病的定义	1.0
+bos 住 院 医 疗 费 用 bzxm eos bos 住 院 医 疗 费 用 bzxm eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的定义	1.0
+bos bxcp fwxm 次 数 限 制 eos bos bxcp fwxm 次 数 限 制 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	增值服务使用次数	1.0
+bos 合 同 什 么 时 候 生 效 eos bos 合 同 什 么 时 候 生 效 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同生效	1.0
+bos 什 么 时 候 给 付 bzxm eos bos 什 么 时 候 给 付 bzxm eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险金给付	1.0
+bos 减 额 缴 清 年 龄 限 制 eos bos 减 额 缴 清 年 龄 限 制 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问减额缴清	1.0
+bos 如 实 告 知 合 同 解 除 eos bos 如 实 告 知 合 同 解 除 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问如实告知	1.0
+bos bxcp fwxm 开 始 时 间 eos bos bxcp fwxm 开 始 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	增值服务使用时间	1.0
+bos 出 事 故 都 会 赔 偿 吗 eos bos 出 事 故 都 会 赔 偿 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos 可 以 带 病 投 保 么 eos bos 可 以 带 病 投 保 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种情景是否可以投保	1.0
+bos 减 额 交 清 什 么 意 思 eos bos 减 额 交 清 什 么 意 思 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问减额缴清	1.0
+bos 关 于 癌 症 靶 向 疗 法 eos bos 关 于 癌 症 靶 向 疗 法 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos 国 内 肿 瘤 最 好 医 院 eos bos 国 内 肿 瘤 最 好 医 院 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合作医院	1.0
+bos 有 哪 些 疾 病 种 类 eos bos 有 哪 些 疾 病 种 类 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问疾病种类包含哪些	1.0
+bos 投 保 的 规 则 是 什 么 eos bos 投 保 的 规 则 是 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问投保规则	1.0
+bos bxcp 是 怎 么 定 义 的 eos bos bxcp 是 怎 么 定 义 的 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品的定义	1.0
+bos bxcp 住 院 医 疗 费 用 eos bos bxcp 住 院 医 疗 费 用 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品费用与报销	1.0
+bos 年 缴 是 怎 么 缴 费 的 eos bos 年 缴 是 怎 么 缴 费 的 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问缴费方式	1.0
+bos jb 等 待 期 有 什 么 用 eos bos jb 等 待 期 有 什 么 用 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问等待期	1.0
+bos 总 结 下 产 品 的 卖 点 eos bos 总 结 下 产 品 的 卖 点 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问产品优势	1.0
+bos 属 于 什 么 保 险 类 型 eos bos 属 于 什 么 保 险 类 型 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险种类	1.0
+bos 冠 状 动 脉 搭 桥 手 术 eos bos 冠 状 动 脉 搭 桥 手 术 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos 怎 么 办 理 减 额 缴 清 eos bos 怎 么 办 理 减 额 缴 清 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问减额缴清	1.0
+bos 的 保 险 责 任 有 哪 些 eos bos 的 保 险 责 任 有 哪 些 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos 投 保 年 龄 有 要 求 吗 eos bos 投 保 年 龄 有 要 求 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问投保年龄	1.0
+bos bxcp 什 么 职 业 能 买 eos bos bxcp 什 么 职 业 能 买 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	投保的职业要求	1.0
+bos 免 赔 额 是 怎 么 算 的 eos bos 免 赔 额 是 怎 么 算 的 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问免赔额定义	1.0
+bos 宽 限 期 怎 么 定 义 的 eos bos 宽 限 期 怎 么 定 义 的 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问宽限期定义	1.0
+bos jb 是 否 赔 偿 bzxm eos bos jb 是 否 赔 偿 bzxm eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病是否赔某个保障项目	1.0
+bos 可 以 介 绍 一 下 bxcp 吗 eos bos 可 以 介 绍 一 下 bxcp 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品介绍	1.0
+bos 宽 限 期 有 多 长 时 间 eos bos 宽 限 期 有 多 长 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问宽限期时间	1.0
+bos 1 型 jb 患 者 投 保 eos bos 1 型 jb 患 者 投 保 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	患某疾病是否可以投保	1.0
+bos 哪 些 疾 病 可 以 保 呢 eos bos 哪 些 疾 病 可 以 保 呢 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品保哪些疾病	1.0
+bos 哪 些 可 以 是 保 险 人 eos bos 哪 些 可 以 是 保 险 人 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	投保人条件限制	1.0
+bos 为 什 么 qj 不 算 意 外 eos bos 为 什 么 qj 不 算 意 外 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos fwxm 服 务 获 取 条 件 eos bos fwxm 服 务 获 取 条 件 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos jbzl 绿 色 就 医 通 道 eos bos jbzl 绿 色 就 医 通 道 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 有 没 有 什 么 bxzl 推 荐 eos bos 有 没 有 什 么 bxzl 推 荐 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品推荐	1.0
+bos 没 听 说 过 免 赔 额 啊 eos bos 没 听 说 过 免 赔 额 啊 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问免赔额定义	1.0
+bos qj / bzxm 怎 么 赔 付 eos bos qj / bzxm 怎 么 赔 付 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的赔付	1.0
+bos 有 哪 些 增 值 服 务 eos bos 有 哪 些 增 值 服 务 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问某产品增值服务项目	1.0
+bos 怎 么 报 销 门 诊 费 用 eos bos 怎 么 报 销 门 诊 费 用 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品费用与报销	1.0
+bos 是 不 是 都 有 免 赔 额 eos bos 是 不 是 都 有 免 赔 额 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问免赔额定义	1.0
+bos bxcp 附 加 险 种 有 哪 些 eos bos bxcp 附 加 险 种 有 哪 些 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问附加险	1.0
+bos 部 分 提 取 要 怎 么 办 eos bos 部 分 提 取 要 怎 么 办 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	部分提取相关规定	1.0
+bos 电 话 医 生 使 用 时 间 eos bos 电 话 医 生 使 用 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	增值服务使用时间	1.0
+bos 全 程 导 医 服 务 使 用 eos bos 全 程 导 医 服 务 使 用 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 电 话 医 生 怎 么 使 用 eos bos 电 话 医 生 怎 么 使 用 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 能 告 诉 我 怎 么 理 赔 吗 eos bos 能 告 诉 我 怎 么 理 赔 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	申请理赔	1.0
+bos 基 因 检 测 预 约 方 式 eos bos 基 因 检 测 预 约 方 式 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 对 了 怎 么 申 请 理 赔 呢 eos bos 对 了 怎 么 申 请 理 赔 呢 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	申请理赔	1.0
+bos 减 额 缴 清 办 理 流 程 eos bos 减 额 缴 清 办 理 流 程 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	减额缴清相关规定	1.0
+bos 异 地 就 医 交 通 补 贴 eos bos 异 地 就 医 交 通 补 贴 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 附 加 险 保 单 借 款 eos bos 附 加 险 保 单 借 款 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保单借款 询问附加险	1.0
+bos bxcp 可 以 申 请 复 效 吗 eos bos bxcp 可 以 申 请 复 效 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问复效期	1.0
+bos 如 何 变 更 通 讯 方 式 eos bos 如 何 变 更 通 讯 方 式 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问变更通讯方式	1.0
+bos 部 分 提 取 申 请 流 程 eos bos 部 分 提 取 申 请 流 程 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	部分提取相关规定	1.0
+bos 最 低 保 险 金 额 多 少 eos bos 最 低 保 险 金 额 多 少 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某产品的最低保额	1.0
+bos bxcp 怎 么 升 级 为 bxcp eos bos bxcp 怎 么 升 级 为 bxcp eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品升级介绍	1.0
+bos 理 赔 医 院 有 什 么 要 求 eos bos 理 赔 医 院 有 什 么 要 求 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	理赔医院	1.0
+bos 电 话 医 生 怎 么 获 得 eos bos 电 话 医 生 怎 么 获 得 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 保 单 还 款 要 怎 么 办 eos bos 保 单 还 款 要 怎 么 办 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保单还款相关规定	1.0
+bos 变 更 签 名 怎 么 申 请 eos bos 变 更 签 名 怎 么 申 请 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更签名相关规定	1.0
+bos bxcp 可 以 险 种 转 换 吗 eos bos bxcp 可 以 险 种 转 换 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 现 在 有 什 么 送 的 eos bos 现 在 有 什 么 送 的 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	购买某项保险产品有无优惠	1.0
+bos 额 外 投 资 要 怎 么 办 eos bos 额 外 投 资 要 怎 么 办 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	额外投资相关规定	1.0
+bos bxcp 的 未 归 还 款 项 eos bos bxcp 的 未 归 还 款 项 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问未归还款项偿还	1.0
+bos 信 诚 寰 宇 卡 是 什 么 eos bos 信 诚 寰 宇 卡 是 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos bzxm 什 么 情 况 赔 偿 eos bos bzxm 什 么 情 况 赔 偿 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的保障范围	1.0
+bos bxcp 的 jbzl 有 哪 些 eos bos bxcp 的 jbzl 有 哪 些 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病种类包含哪些疾病	1.0
+bos 保 单 还 款 申 请 时 间 eos bos 保 单 还 款 申 请 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保单还款申请时间	1.0
+bos 如 何 变 更 联 系 方 式 eos bos 如 何 变 更 联 系 方 式 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问变更通讯方式	1.0
+bos 未 成 年 的 投 保 限 额 eos bos 未 成 年 的 投 保 限 额 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	特殊人群投保规则	1.0
+bos 补 发 保 单 申 请 时 间 eos bos 补 发 保 单 申 请 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	补发保单申请时间	1.0
+bos 补 充 告 知 申 请 流 程 eos bos 补 充 告 知 申 请 流 程 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	补充告知相关规定	1.0
+bos bxcp 可 以 升 级 为 bxcp eos bos bxcp 可 以 升 级 为 bxcp eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品升级介绍	1.0
+bos 保 单 借 款 要 怎 么 办 eos bos 保 单 借 款 要 怎 么 办 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保单借款相关规定	1.0
+bos 你 们 公 司 地 址 在 哪 里 eos bos 你 们 公 司 地 址 在 哪 里 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	公司地址	1.0
+bos 电 话 医 生 保 费 要 求 eos bos 电 话 医 生 保 费 要 求 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 补 充 告 知 申 请 时 间 eos bos 补 充 告 知 申 请 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	补充告知申请时间	1.0
+bos bzxm qj 会 赔 的 吧 eos bos bzxm qj 会 赔 的 吧 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	情景是否赔偿某个保障项目	1.0
+bos bxcp 的 健 康 核 保 规 则 eos bos bxcp 的 健 康 核 保 规 则 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 零 岁 的 宝 宝 买 多 少 钱 eos bos 零 岁 的 宝 宝 买 多 少 钱 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保费核算	1.0
+bos 可 以 附 加 其 他 险 种 吗 eos bos 可 以 附 加 其 他 险 种 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问附加险	1.0
+bos bxcp 的 保 额 有 限 制 吗 eos bos bxcp 的 保 额 有 限 制 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品保额限制	1.0
+bos 你 们 都 有 什 么 产 品 eos bos 你 们 都 有 什 么 产 品 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问公司有哪些产品	1.0
+bos bxcp 最 高 赔 付 多 少 钱 eos bos bxcp 最 高 赔 付 多 少 钱 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问赔付比例	1.0
+bos 都 有 哪 9 0 种 jbzl eos bos 都 有 哪 9 0 种 jbzl eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病种类包含哪些疾病	1.0
+bos 变 更 投 保 人 的 规 定 eos bos 变 更 投 保 人 的 规 定 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更投保人相关规定	1.0
+bos jbzl 的 种 类 有 哪 些 eos bos jbzl 的 种 类 有 哪 些 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病种类包含哪些疾病	1.0
+bos bxcp 有 哪 些 缴 费 方 式 eos bos bxcp 有 哪 些 缴 费 方 式 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问缴费方式	1.0
+bos 公 费 医 疗 算 是 医 保 吗 eos bos 公 费 医 疗 算 是 医 保 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos bxcp 主 要 是 保 什 么 的 eos bos bxcp 主 要 是 保 什 么 的 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos bxcp 最 高 赔 付 多 少 钱 eos bos bxcp 最 高 赔 付 多 少 钱 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险金额	1.0
+bos 租 车 和 约 车 都 能 保 不 eos bos 租 车 和 约 车 都 能 保 不 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos bxcp 什 么 时 候 返 本 呢 eos bos bxcp 什 么 时 候 返 本 呢 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品期满返还	1.0
+bos qj 发 生 qj 怎 么 赔 eos bos qj 发 生 qj 怎 么 赔 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某情景是否在承保范围内	1.0
+bos 有 没 有 意 外 医 疗 报 销 eos bos 有 没 有 意 外 医 疗 报 销 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问附加险	1.0
+bos 身 份 证 明 文 件 有 哪 些 eos bos 身 份 证 明 文 件 有 哪 些 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos bxcp 的 保 障 范 围 多 大 eos bos bxcp 的 保 障 范 围 多 大 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos 专 科 医 生 的 定 义 eos bos 专 科 医 生 的 定 义 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义 询问专科医生	1.0
+bos bzxm 怎 样 申 请 理 赔 eos bos bzxm 怎 样 申 请 理 赔 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目如何申请理赔	1.0
+bos bxcp 限 制 保 额 购 买 吗 eos bos bxcp 限 制 保 额 购 买 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品保额限制	1.0
+bos bzxm 如 何 申 请 理 赔 eos bos bzxm 如 何 申 请 理 赔 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目如何申请理赔	1.0
+bos 得 了 jb 能 赔 偿 吗 eos bos 得 了 jb 能 赔 偿 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种疾病是否在承保范围内	1.0
+bos bxcp 可 以 选 择 月 缴 吗 eos bos bxcp 可 以 选 择 月 缴 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问缴费年期	1.0
+bos bzxm 怎 么 申 请 理 赔 eos bos bzxm 怎 么 申 请 理 赔 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目如何申请理赔	1.0
+bos bxcp 保 障 范 围 有 哪 些 eos bos bxcp 保 障 范 围 有 哪 些 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos jbzl 保 障 种 类 范 围 eos bos jbzl 保 障 种 类 范 围 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病种类包含哪些疾病	1.0
+bos bxcp 什 么 是 现 金 价 值 eos bos bxcp 什 么 是 现 金 价 值 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问现金价值	1.0
+bos 终 止 合 同 需 要 做 什 么 eos bos 终 止 合 同 需 要 做 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同终止	1.0
+bos bxcp 有 没 有 职 业 限 制 eos bos bxcp 有 没 有 职 业 限 制 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	投保的职业要求	1.0
+bos 中 信 保 诚 是 做 什 么 的 eos bos 中 信 保 诚 是 做 什 么 的 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问公司介绍	1.0
+bos 客 服 电 话 怎 么 转 人 工 eos bos 客 服 电 话 怎 么 转 人 工 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问联系方式	1.0
+bos 意 见 不 一 了 要 怎 么 办 eos bos 意 见 不 一 了 要 怎 么 办 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问争议处理	1.0
+bos 售 后 可 以 上 门 服 务 吗 eos bos 售 后 可 以 上 门 服 务 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	服务内容介绍	1.0
+bos 保 险 金 额 最 高 是 多 少 eos bos 保 险 金 额 最 高 是 多 少 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险金额	1.0
+bos 隔 代 投 保 要 什 么 证 件 eos bos 隔 代 投 保 要 什 么 证 件 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问投保规则	1.0
+bos 买 保 险 有 年 龄 限 制 吗 eos bos 买 保 险 有 年 龄 限 制 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问投保年龄	1.0
+bos 可 以 用 信 用 卡 付 款 吗 eos bos 可 以 用 信 用 卡 付 款 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保费支付渠道	1.0
+bos 得 哪 些 疾 病 需 要 告 知 eos bos 得 哪 些 疾 病 需 要 告 知 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问如实告知	1.0
+bos 豁 免 保 费 后 保 单 借 款 eos bos 豁 免 保 费 后 保 单 借 款 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保单借款	1.0
+bos bxcp 的 住 院 医 疗 费 用 eos bos bxcp 的 住 院 医 疗 费 用 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品费用与报销	1.0
+bos bxcp fwxm 使 用 有 效 期 eos bos bxcp fwxm 使 用 有 效 期 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	增值服务使用时间	1.0
+bos 合 同 一 共 有 哪 些 文 件 eos bos 合 同 一 共 有 哪 些 文 件 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同构成	1.0
+bos 合 同 由 哪 些 部 分 组 成 eos bos 合 同 由 哪 些 部 分 组 成 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同构成	1.0
+bos 没 听 说 过 保 费 垫 缴 啊 eos bos 没 听 说 过 保 费 垫 缴 啊 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保费垫缴	1.0
+bos 孕 妇 可 以 投 保 bxcp 吗 eos bos 孕 妇 可 以 投 保 bxcp 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	投保人条件限制	1.0
+bos 金 雪 球 5 6 岁 可 能 买 eos bos 金 雪 球 5 6 岁 可 能 买 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问投保年龄	1.0
+bos 可 以 申 请 保 单 贷 款 吗 eos bos 可 以 申 请 保 单 贷 款 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保单借款	1.0
+bos 什 么 是 jb / 是 怎 么 的 eos bos 什 么 是 jb / 是 怎 么 的 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病的定义	1.0
+bos 这 是 什 么 类 型 的 合 同 eos bos 这 是 什 么 类 型 的 合 同 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同种类	1.0
+bos bxcp 里 面 有 疾 病 bzxm 吗 eos bos bxcp 里 面 有 疾 病 bzxm 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品介绍	1.0
+bos 医 学 必 要 是 什 么 意 思 eos bos 医 学 必 要 是 什 么 意 思 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos 保 单 回 溯 有 什 么 要 求 eos bos 保 单 回 溯 有 什 么 要 求 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	申请保单回溯	1.0
+bos bxcp 住 院 是 可 以 报 吧 eos bos bxcp 住 院 是 可 以 报 吧 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品费用与报销	1.0
+bos 隐 瞒 性 别 有 什 么 后 果 eos bos 隐 瞒 性 别 有 什 么 后 果 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问信息误告	1.0
+bos 理 赔 需 要 什 么 资 料 eos bos 理 赔 需 要 什 么 资 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目如何申请理赔	1.0
+bos 什 么 是 住 院 医 疗 费 用 eos bos 什 么 是 住 院 医 疗 费 用 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos 团 （ 个 ） 险 保 费 占 比 eos bos 团 （ 个 ） 险 保 费 占 比 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos 保 费 能 否 不 用 人 民 币 eos bos 保 费 能 否 不 用 人 民 币 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问适用币种	1.0
+bos 投 保 年 龄 会 有 限 制 吗 eos bos 投 保 年 龄 会 有 限 制 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问投保年龄	1.0
+bos 任 何 时 候 都 能 退 保 吗 eos bos 任 何 时 候 都 能 退 保 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同解除	1.0
+bos 赔 付 比 例 及 免 赔 额 表 eos bos 赔 付 比 例 及 免 赔 额 表 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问赔付比例	1.0
+bos 总 结 一 下 产 品 的 卖 点 eos bos 总 结 一 下 产 品 的 卖 点 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问产品优势	1.0
+bos 可 以 用 哪 种 方 式 支 付 eos bos 可 以 用 哪 种 方 式 支 付 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问缴费方式	1.0
+bos 身 体 健 康 才 能 参 加 吗 eos bos 身 体 健 康 才 能 参 加 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问投保规则	1.0
+bos 我 们 指 定 的 医 院 是 指 eos bos 我 们 指 定 的 医 院 是 指 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos 有 社 保 还 需 要 买 吗 eos bos 有 社 保 还 需 要 买 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	商业保险与医保的关系	1.0
+bos 新 发 现 有 甲 状 腺 疾 病 eos bos 新 发 现 有 甲 状 腺 疾 病 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问如实告知	1.0
+bos 什 么 是 其 他 免 责 条 款 eos bos 什 么 是 其 他 免 责 条 款 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险条款	1.0
+bos jbzl 具 体 是 怎 么 回 事 eos bos jbzl 具 体 是 怎 么 回 事 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病种类的定义	1.0
+bos 什 么 是 其 他 免 责 条 款 eos bos 什 么 是 其 他 免 责 条 款 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问免责条款	1.0
+bos 现 金 红 利 可 以 领 取 吗 eos bos 现 金 红 利 可 以 领 取 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	红利申请规定	1.0
+bos 医 学 必 要 不 知 道 是 啥 eos bos 医 学 必 要 不 知 道 是 啥 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos 被 保 险 人 的 信 息 有 误 eos bos 被 保 险 人 的 信 息 有 误 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问信息误告	1.0
+bos 我 想 知 道 bxzl 是 什 么 eos bos 我 想 知 道 bxzl 是 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险种类的定义	1.0
+bos bzxm 哪 些 情 况 不 保 eos bos bzxm 哪 些 情 况 不 保 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的责任免除详情	1.0
+bos 哪 些 疾 病 可 以 赔 付 呢 eos bos 哪 些 疾 病 可 以 赔 付 呢 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品保哪些疾病	1.0
+bos 能 跟 我 介 绍 一 下 bxcp 吗 eos bos 能 跟 我 介 绍 一 下 bxcp 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品介绍	1.0
+bos bxcp jb 是 否 属 jbzl eos bos bxcp jb 是 否 属 jbzl eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某疾病是否属于某疾病种类	1.0
+bos bxcp 全 国 定 点 理 赔 医 院 eos bos bxcp 全 国 定 点 理 赔 医 院 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	理赔医院	1.0
+bos 补 发 保 单 保 全 范 围 eos bos 补 发 保 单 保 全 范 围 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品补发保单的范围	1.0
+bos 健 康 告 知 曾 经 患 有 jb eos bos 健 康 告 知 曾 经 患 有 jb eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问如实告知	1.0
+bos fwxm 什 么 时 候 可 以 用 eos bos fwxm 什 么 时 候 可 以 用 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	增值服务使用时间	1.0
+bos jb 是 jbzl 还 是 jbzl eos bos jb 是 jbzl 还 是 jbzl eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某疾病是否属于某疾病种类	1.0
+bos bxcp 的 体 检 标 准 有 哪 些 eos bos bxcp 的 体 检 标 准 有 哪 些 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	体检标准	1.0
+bos bxcp 最 低 保 额 是 多 少 eos bos bxcp 最 低 保 额 是 多 少 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某产品的最低保额	1.0
+bos 患 有 jb 可 以 投 保 吗 eos bos 患 有 jb 可 以 投 保 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	患某疾病是否可以投保	1.0
+bos fwxm 服 务 内 容 是 什 么 eos bos fwxm 服 务 内 容 是 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 申 请 理 赔 需 要 的 材 料 eos bos 申 请 理 赔 需 要 的 材 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	理赔需要的材料	1.0
+bos 都 有 哪 些 理 赔 材 料 呢 eos bos 都 有 哪 些 理 赔 材 料 呢 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	理赔需要的材料	1.0
+bos bxcp 保 未 知 疾 病 吗 eos bos bxcp 保 未 知 疾 病 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种疾病是否在承保范围内	1.0
+bos 意 外 身 故 怎 么 赔 付 eos bos 意 外 身 故 怎 么 赔 付 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某情景下全残或身故赔偿	1.0
+bos 有 jb 还 可 以 投 保 吗 eos bos 有 jb 还 可 以 投 保 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	患某疾病是否可以投保	1.0
+bos 在 线 问 诊 有 时 间 限 制 吗 eos bos 在 线 问 诊 有 时 间 限 制 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	咨询时间	1.0
+bos bxcp 可 以 附 加 的 附 加 险 eos bos bxcp 可 以 附 加 的 附 加 险 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问附加险	1.0
+bos bxcp 得 了 jb 怎 么 赔 eos bos bxcp 得 了 jb 怎 么 赔 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	得了某个疾病怎样申请理赔	1.0
+bos 开 门 红 绿 色 就 医 通 道 eos bos 开 门 红 绿 色 就 医 通 道 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 阿 尔 茨 海 默 病 赔 吗 eos bos 阿 尔 茨 海 默 病 赔 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种疾病是否在承保范围内	1.0
+bos 开 门 红 期 间 有 赠 险 吗 eos bos 开 门 红 期 间 有 赠 险 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 未 成 年 人 可 以 投 保 吗 eos bos 未 成 年 人 可 以 投 保 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	特殊人群投保规则	1.0
+bos bxcp 和 bxcp 有 什 么 不 同 eos bos bxcp 和 bxcp 有 什 么 不 同 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品对比	1.0
+bos jbzl 豁 免 如 何 缴 费 eos bos jbzl 豁 免 如 何 缴 费 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问缴费方式 疾病种类豁免	1.0
+bos 得 了 jbzl 怎 么 赔 付 呢 eos bos 得 了 jbzl 怎 么 赔 付 呢 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病种类的赔付流程	1.0
+bos 购 买 多 少 保 额 需 要 体 检 eos bos 购 买 多 少 保 额 需 要 体 检 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	体检指引	1.0
+bos 季 缴 换 年 交 要 换 算 吗 eos bos 季 缴 换 年 交 要 换 算 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问变更缴费方式	1.0
+bos bxcp 如 何 变 更 受 益 人 eos bos bxcp 如 何 变 更 受 益 人 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更受益人相关规定	1.0
+bos 信 诚 寰 宇 卡 使 用 期 限 eos bos 信 诚 寰 宇 卡 使 用 期 限 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 2 1 岁 女 保 额 要 2 0 万 eos bos 2 1 岁 女 保 额 要 2 0 万 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保费核算	1.0
+bos 基 本 保 险 金 额 是 什 么 eos bos 基 本 保 险 金 额 是 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问基本保险金额	1.0
+bos qj 理 赔 资 料 递 交 规 则 eos bos qj 理 赔 资 料 递 交 规 则 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	理赔需要的材料	1.0
+bos 可 以 购 买 几 份 保 单 吗 eos bos 可 以 购 买 几 份 保 单 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险是否有购买限制	1.0
+bos bxcp 的 保 障 内 容 是 什 么 eos bos bxcp 的 保 障 内 容 是 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos bxcp 怎 么 申 请 减 额 缴 清 eos bos bxcp 怎 么 申 请 减 额 缴 清 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问减额缴清	1.0
+bos 犹 豫 期 减 保 所 需 材 料 eos bos 犹 豫 期 减 保 所 需 材 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	犹豫期减保相关规定	1.0
+bos 湖 北 分 公 司 联 系 方 式 eos bos 湖 北 分 公 司 联 系 方 式 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问分公司联系方式	1.0
+bos 犹 豫 期 减 保 申 请 时 间 eos bos 犹 豫 期 减 保 申 请 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	犹豫期减保申请时间	1.0
+bos 能 否 附 加 意 外 医 疗 保 险 eos bos 能 否 附 加 意 外 医 疗 保 险 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问附加险	1.0
+bos bxcp 最 高 可 以 买 多 少 万 eos bos bxcp 最 高 可 以 买 多 少 万 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品保额限制	1.0
+bos bzxm 免 责 内 容 有 哪 几 项 eos bos bzxm 免 责 内 容 有 哪 几 项 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问免责条款	1.0
+bos 疾 病 qj 包 括 哪 些 疾 病 eos bos 疾 病 qj 包 括 哪 些 疾 病 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病包含哪些疾病	1.0
+bos fwxm 的 合 作 医 院 有 哪 些 eos bos fwxm 的 合 作 医 院 有 哪 些 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合作医院	1.0
+bos 社 保 跟 bxcp 有 冲 突 吗 eos bos 社 保 跟 bxcp 有 冲 突 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	商业保险与医保的关系	1.0
+bos 河 北 分 公 司 联 系 方 式 eos bos 河 北 分 公 司 联 系 方 式 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问分公司联系方式	1.0
+bos bxzl 受 益 人 可 以 更 改 吗 eos bos bxzl 受 益 人 可 以 更 改 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同变更	1.0
+bos bxcp 的 保 险 责 任 有 哪 些 eos bos bxcp 的 保 险 责 任 有 哪 些 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos 变 更 受 益 人 申 请 时 间 eos bos 变 更 受 益 人 申 请 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更受益人申请时间	1.0
+bos bxcp 有 什 么 保 险 责 任 啊 eos bos bxcp 有 什 么 保 险 责 任 啊 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos 犹 豫 期 减 保 办 理 流 程 eos bos 犹 豫 期 减 保 办 理 流 程 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	犹豫期减保相关规定	1.0
+bos bxcp 的 诉 讼 时 效 是 多 长 eos bos bxcp 的 诉 讼 时 效 是 多 长 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问诉讼时效	1.0
+bos 生 日 件 有 没 有 特 别 要 求 eos bos 生 日 件 有 没 有 特 别 要 求 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 你 们 公 司 有 什 么 产 品 eos bos 你 们 公 司 有 什 么 产 品 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问公司有哪些产品	1.0
+bos bzxm 减 额 缴 清 qj 什 么 是 eos bos bzxm 减 额 缴 清 qj 什 么 是 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 江 苏 分 公 司 联 系 方 式 eos bos 江 苏 分 公 司 联 系 方 式 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问分公司联系方式	1.0
+bos 变 更 投 保 人 所 需 材 料 eos bos 变 更 投 保 人 所 需 材 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更投保人相关规定	1.0
+bos bxcp 现 金 价 值 什 么 来 的 eos bos bxcp 现 金 价 值 什 么 来 的 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问现金价值	1.0
+bos bxcp 的 四 个 特 色 是 什 么 eos bos bxcp 的 四 个 特 色 是 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问产品优势	1.0
+bos 有 公 费 可 以 报 算 医 保 吗 eos bos 有 公 费 可 以 报 算 医 保 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 我 如 果 死 了 赔 偿 金 给 谁 eos bos 我 如 果 死 了 赔 偿 金 给 谁 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问受益人	1.0
+bos 如 何 恢 复 保 单 自 动 扣 钱 eos bos 如 何 恢 复 保 单 自 动 扣 钱 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos bxcp 最 高 可 以 投 保 多 少 eos bos bxcp 最 高 可 以 投 保 多 少 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品保额限制	1.0
+bos 变 更 投 保 人 相 关 规 定 eos bos 变 更 投 保 人 相 关 规 定 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更投保人相关规定	1.0
+bos 犹 豫 期 减 保 相 关 规 定 eos bos 犹 豫 期 减 保 相 关 规 定 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	犹豫期减保相关规定	1.0
+bos 月 缴 和 季 缴 有 什 么 不 同 eos bos 月 缴 和 季 缴 有 什 么 不 同 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问缴费年期	1.0
+bos 是 不 是 一 定 要 如 实 告 知 eos bos 是 不 是 一 定 要 如 实 告 知 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问如实告知	1.0
+bos 去 银 行 网 点 可 以 购 买 吗 eos bos 去 银 行 网 点 可 以 购 买 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合作银行	1.0
+bos 我 想 了 解 一 下 保 费 垫 缴 eos bos 我 想 了 解 一 下 保 费 垫 缴 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保费垫缴	1.0
+bos 新 发 现 有 身 体 不 适 症 状 eos bos 新 发 现 有 身 体 不 适 症 状 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问如实告知	1.0
+bos 解 除 合 同 需 要 提 交 什 么 eos bos 解 除 合 同 需 要 提 交 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同解除	1.0
+bos bxzl qj jb 等 待 期 什 么 是 eos bos bxzl qj jb 等 待 期 什 么 是 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问等待期	1.0
+bos 中 途 钱 能 不 能 拿 出 来 用 eos bos 中 途 钱 能 不 能 拿 出 来 用 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保单借款	1.0
+bos 肿 瘤 免 疫 疗 法 有 什 么 用 eos bos 肿 瘤 免 疫 疗 法 有 什 么 用 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos 生 日 件 有 没 有 特 别 要 求 eos bos 生 日 件 有 没 有 特 别 要 求 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问特别约定	1.0
+bos 对 诉 讼 时 效 有 什 么 规 定 eos bos 对 诉 讼 时 效 有 什 么 规 定 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问诉讼时效	1.0
+bos 寰 宇 卡 热 线 电 话 是 多 少 eos bos 寰 宇 卡 热 线 电 话 是 多 少 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问联系方式	1.0
+bos 乳 腺 结 节 可 以 投 保 吗 eos bos 乳 腺 结 节 可 以 投 保 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种情景是否可以投保	1.0
+bos 争 议 一 直 未 解 决 怎 么 办 eos bos 争 议 一 直 未 解 决 怎 么 办 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问争议处理	1.0
+bos 保 险 责 任 的 开 始 是 什 么 eos bos 保 险 责 任 的 开 始 是 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos bxcp 保 障 的 疾 病 有 哪 些 eos bos bxcp 保 障 的 疾 病 有 哪 些 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品保哪些疾病	1.0
+bos 对 于 重 症 监 护 室 的 要 求 eos bos 对 于 重 症 监 护 室 的 要 求 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos bzxm 给 付 有 限 制 吗 eos bos bzxm 给 付 有 限 制 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险金给付 保障项目的赔付	1.0
+bos 肿 瘤 内 分 泌 疗 法 是 什 么 eos bos 肿 瘤 内 分 泌 疗 法 是 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos 这 个 产 品 是 保 终 身 的 吗 eos bos 这 个 产 品 是 保 终 身 的 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险期间	1.0
+bos 借 款 不 还 会 终 止 合 同 吗 eos bos 借 款 不 还 会 终 止 合 同 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保单借款	1.0
+bos 合 同 到 期 后 还 有 保 障 吗 eos bos 合 同 到 期 后 还 有 保 障 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同解除	1.0
+bos 合 同 里 面 都 有 哪 些 文 件 eos bos 合 同 里 面 都 有 哪 些 文 件 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同构成	1.0
+bos 小 孩 和 老 人 可 以 投 保 吗 eos bos 小 孩 和 老 人 可 以 投 保 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问投保年龄	1.0
+bos qj 引 发 的 jbzl 可 保 吗 eos bos qj 引 发 的 jbzl 可 保 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种情景是否可以投保	1.0
+bos 保 险 合 同 都 有 哪 些 文 件 eos bos 保 险 合 同 都 有 哪 些 文 件 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同构成	1.0
+bos 什 么 时 候 承 担 保 险 责 任 eos bos 什 么 时 候 承 担 保 险 责 任 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同生效	1.0
+bos 全 残 的 免 责 条 款 有 什 么 eos bos 全 残 的 免 责 条 款 有 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问免责条款	1.0
+bos 能 给 我 讲 讲 你 们 公 司 吗 eos bos 能 给 我 讲 讲 你 们 公 司 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问公司介绍	1.0
+bos bxcp 理 赔 有 地 区 限 制 吗 eos bos bxcp 理 赔 有 地 区 限 制 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	理赔的地域限制	1.0
+bos 保 险 责 任 对 我 有 什 么 用 eos bos 保 险 责 任 对 我 有 什 么 用 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos 5 0 万 保 额 2 0 年 年 交 eos bos 5 0 万 保 额 2 0 年 年 交 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问缴费年期	1.0
+bos 我 能 不 能 给 孕 妇 买 阿 eos bos 我 能 不 能 给 孕 妇 买 阿 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	投保人和被保险人关系	1.0
+bos 消 防 员 可 以 投 保 bxcp 吗 eos bos 消 防 员 可 以 投 保 bxcp 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	投保人条件限制	1.0
+bos 国 内 烧 伤 科 最 好 的 医 院 eos bos 国 内 烧 伤 科 最 好 的 医 院 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合作医院	1.0
+bos bxcp 什 么 职 业 可 以 购 买 eos bos bxcp 什 么 职 业 可 以 购 买 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	投保的职业要求	1.0
+bos bxzl 合 同 恢 复 qj jb 是 啥 eos bos bxzl 合 同 恢 复 qj jb 是 啥 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病的定义	1.0
+bos 曾 经 患 有 jb 能 投 保 吗 eos bos 曾 经 患 有 jb 能 投 保 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种情景是否可以投保	1.0
+bos fwxm 增 值 服 务 能 用 几 次 eos bos fwxm 增 值 服 务 能 用 几 次 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	增值服务使用次数	1.0
+bos fwxm 增 值 服 务 数 量 限 制 eos bos fwxm 增 值 服 务 数 量 限 制 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	增值服务使用次数	1.0
+bos 理 赔 需 要 准 备 什 么 资 料 eos bos 理 赔 需 要 准 备 什 么 资 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	理赔需要的材料	1.0
+bos fwxm 增 值 服 务 开 始 时 间 eos bos fwxm 增 值 服 务 开 始 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	增值服务使用时间	1.0
+bos 国 内 治 疗 jb 哪 家 医 院 好 eos bos 国 内 治 疗 jb 哪 家 医 院 好 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合作医院	1.0
+bos bxcp 为 什 么 选 5 0 万 保 额 eos bos bxcp 为 什 么 选 5 0 万 保 额 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	推荐保额	1.0
+bos 投 保 bxcp qj 了 怎 么 赔 eos bos 投 保 bxcp qj 了 怎 么 赔 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某情景下全残或身故赔偿	1.0
+bos 申 领 bzxm 、 bzxm 、 bzxm eos bos 申 领 bzxm 、 bzxm 、 bzxm eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目如何申请理赔	1.0
+bos bxcp 有 规 定 最 低 保 额 吗 eos bos bxcp 有 规 定 最 低 保 额 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某产品的最低保额	1.0
+bos 赔 付 有 没 有 地 域 性 限 制 eos bos 赔 付 有 没 有 地 域 性 限 制 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	理赔的地域限制	1.0
+bos 减 额 缴 清 后 有 什 么 影 响 eos bos 减 额 缴 清 后 有 什 么 影 响 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	减额缴清的影响	1.0
+bos 能 对 比 平 安 的 一 生 保 马 eos bos 能 对 比 平 安 的 一 生 保 马 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品的对比	1.0
+bos 到 期 没 交 保 费 会 怎 么 样 eos bos 到 期 没 交 保 费 会 怎 么 样 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问宽限期定义	1.0
+bos 不 理 解 为 什 么 要 验 尸 呢 eos bos 不 理 解 为 什 么 要 验 尸 呢 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问体检或验尸	1.0
+bos 什 么 人 可 以 作 为 投 保 人 eos bos 什 么 人 可 以 作 为 投 保 人 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	投保人条件限制	1.0
+bos 保 险 理 赔 需 要 哪 些 材 料 eos bos 保 险 理 赔 需 要 哪 些 材 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	理赔需要的材料	1.0
+bos bxcp 里 面 有 疾 病 bzxm 吗 eos bos bxcp 里 面 有 疾 病 bzxm 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问公司有哪些产品	1.0
+bos bxcp 可 以 附 加 jbzl 豁 免 吗 eos bos bxcp 可 以 附 加 jbzl 豁 免 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问附加险	1.0
+bos 三 甲 医 院 fwxm 使 用 条 件 eos bos 三 甲 医 院 fwxm 使 用 条 件 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 什 么 是 特 定 门 诊 医 疗 费 eos bos 什 么 是 特 定 门 诊 医 疗 费 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品费用与报销	1.0
+bos bxcp 的 bzxm 以 多 少 天 为 限 eos bos bxcp 的 bzxm 以 多 少 天 为 限 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 还 有 其 他 增 值 服 务 嘛 eos bos 还 有 其 他 增 值 服 务 嘛 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问某产品增值服务项目	1.0
+bos bxcp 银 保 通 出 单 最 高 保 额 eos bos bxcp 银 保 通 出 单 最 高 保 额 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos bxcp 的 保 额 有 限 制 吗 eos bos bxcp 的 保 额 有 限 制 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品保额限制 询问保险金额	1.0
+bos 产 品 利 率 及 投 连 价 格 查 询 eos bos 产 品 利 率 及 投 连 价 格 查 询 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	查询方式	1.0
+bos 自 驾 车 qj 或 全 残 赔 多 少 eos bos 自 驾 车 qj 或 全 残 赔 多 少 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的赔付	1.0
+bos 肠 道 疾 病 并 发 症 赔 吗 eos bos 肠 道 疾 病 并 发 症 赔 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种疾病是否在承保范围内	1.0
+bos bxcp 如 何 申 请 期 满 bzxm eos bos bxcp 如 何 申 请 期 满 bzxm eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目如何申请理赔	1.0
+bos 额 外 投 资 申 请 开 始 时 间 eos bos 额 外 投 资 申 请 开 始 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	额外投资申请时间	1.0
+bos 变 更 签 名 申 请 开 始 时 间 eos bos 变 更 签 名 申 请 开 始 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更签名申请时间	1.0
+bos bxcp 复 效 期 什 么 时 候 算 起 eos bos bxcp 复 效 期 什 么 时 候 算 起 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问复效期	1.0
+bos 肝 豆 状 核 变 性 保 不 保 eos bos 肝 豆 状 核 变 性 保 不 保 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种疾病是否在承保范围内	1.0
+bos bxzl 谁 是 保 险 的 受 益 人 呢 eos bos bxzl 谁 是 保 险 的 受 益 人 呢 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问受益人	1.0
+bos 期 缴 可 以 支 持 bxcp 复 效 eos bos 期 缴 可 以 支 持 bxcp 复 效 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品复效的范围	1.0
+bos 月 缴 可 以 支 持 bxcp 复 效 eos bos 月 缴 可 以 支 持 bxcp 复 效 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品复效的范围	1.0
+bos 如 何 申 请 理 赔 bxcp bzxm eos bos 如 何 申 请 理 赔 bxcp bzxm eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目如何申请理赔	1.0
+bos bxcp 是 否 可 以 附 加 附 加 险 eos bos bxcp 是 否 可 以 附 加 附 加 险 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问附加险	1.0
+bos 这 个 服 务 是 给 给 谁 用 的 eos bos 这 个 服 务 是 给 给 谁 用 的 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 怎 么 申 请 理 赔 bxcp bzxm eos bos 怎 么 申 请 理 赔 bxcp bzxm eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目如何申请理赔	1.0
+bos 健 康 & n b s p ; 测 评 eos bos 健 康 & n b s p ; 测 评 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 高 发 肿 瘤 基 因 检 测 使 用 eos bos 高 发 肿 瘤 基 因 检 测 使 用 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 对 于 重 症 监 护 室 的 要 求 eos bos 对 于 重 症 监 护 室 的 要 求 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 1 5 9 1 4 3 4 3 6 5 1 eos bos 1 5 9 1 4 3 4 3 6 5 1 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos bxcp 儿 童 有 什 么 额 外 赔 付 eos bos bxcp 儿 童 有 什 么 额 外 赔 付 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问赔付比例	1.0
+bos 1 3 9 7 7 9 5 8 8 0 2 eos bos 1 3 9 7 7 9 5 8 8 0 2 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 1 3 5 8 2 7 3 3 5 0 8 eos bos 1 3 5 8 2 7 3 3 5 0 8 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos bxcp 保 障 的 疾 病 都 有 那 些 eos bos bxcp 保 障 的 疾 病 都 有 那 些 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos 1 3 5 0 5 6 0 7 2 4 5 eos bos 1 3 5 0 5 6 0 7 2 4 5 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 未 归 还 款 项 偿 还 是 什 么 eos bos 未 归 还 款 项 偿 还 是 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问未归还款项偿还	1.0
+bos bxcp 的 保 险 责 任 包 括 哪 些 eos bos bxcp 的 保 险 责 任 包 括 哪 些 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos 购 买 bxcp 中 途 可 以 退 保 吗 eos bos 购 买 bxcp 中 途 可 以 退 保 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同解除	1.0
+bos jbzl 责 任 保 额 是 什 么 意 思 eos bos jbzl 责 任 保 额 是 什 么 意 思 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos bxcp 可 以 申 请 减 额 缴 清 吗 eos bos bxcp 可 以 申 请 减 额 缴 清 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问减额缴清	1.0
+bos bzxm 申 领 应 该 注 意 什 么 eos bos bzxm 申 领 应 该 注 意 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目如何申请理赔	1.0
+bos 有 公 费 可 以 报 算 医 保 吗 eos bos 有 公 费 可 以 报 算 医 保 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险是否有购买限制	1.0
+bos 我 不 知 道 分 公 司 的 电 话 eos bos 我 不 知 道 分 公 司 的 电 话 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问分公司联系方式	1.0
+bos bxcp 中 途 退 保 是 否 有 损 失 eos bos bxcp 中 途 退 保 是 否 有 损 失 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同解除	1.0
+bos 1 8 9 7 1 9 8 6 0 6 3 eos bos 1 8 9 7 1 9 8 6 0 6 3 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 1 8 8 0 2 7 0 2 7 3 4 eos bos 1 8 8 0 2 7 0 2 7 3 4 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 1 3 7 5 1 8 4 6 6 5 5 eos bos 1 3 7 5 1 8 4 6 6 5 5 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 如 果 患 的 是 jb 怎 么 赔 eos bos 如 果 患 的 是 jb 怎 么 赔 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	得了某个疾病怎样申请理赔	1.0
+bos bxcp 都 有 那 些 保 障 内 容 / eos bos bxcp 都 有 那 些 保 障 内 容 / eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos 在 犹 豫 期 内 我 可 以 做 什 么 eos bos 在 犹 豫 期 内 我 可 以 做 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问犹豫期	1.0
+bos 您 好 bxcp 保 障 多 少 种 jbzl eos bos 您 好 bxcp 保 障 多 少 种 jbzl eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品保哪些疾病	1.0
+bos bxcp 男 性 有 什 么 额 外 赔 付 eos bos bxcp 男 性 有 什 么 额 外 赔 付 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问赔付比例	1.0
+bos 1 3 4 2 2 2 2 6 0 9 0 eos bos 1 3 4 2 2 2 2 6 0 9 0 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos bxcp 有 保 单 借 款 的 功 能 吗 eos bos bxcp 有 保 单 借 款 的 功 能 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保单借款	1.0
+bos 合 同 恢 复 qj 等 待 期 是 多 少 eos bos 合 同 恢 复 qj 等 待 期 是 多 少 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问等待期	1.0
+bos 哪 些 情 况 是 在 承 保 范 围 的 eos bos 哪 些 情 况 是 在 承 保 范 围 的 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos 取 消 保 险 费 自 动 垫 缴 功 能 eos bos 取 消 保 险 费 自 动 垫 缴 功 能 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保费垫缴	1.0
+bos 领 取 现 金 红 利 要 怎 么 办 eos bos 领 取 现 金 红 利 要 怎 么 办 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	领取现金红利相关规定	1.0
+bos bxcp 补 充 告 知 保 全 范 围 eos bos bxcp 补 充 告 知 保 全 范 围 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品补充告知的范围	1.0
+bos 允 许 给 刚 出 生 的 小 孩 投 吗 eos bos 允 许 给 刚 出 生 的 小 孩 投 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问投保年龄	1.0
+bos 变 更 通 讯 资 料 怎 么 申 请 eos bos 变 更 通 讯 资 料 怎 么 申 请 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更通讯资料相关规定	1.0
+bos 9 0 种 疾 病 具 体 有 哪 些 eos bos 9 0 种 疾 病 具 体 有 哪 些 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病种类包含哪些疾病	1.0
+bos 正 患 有 尿 毒 症 能 投 保 吗 eos bos 正 患 有 尿 毒 症 能 投 保 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	患某疾病是否可以投保	1.0
+bos bxcp 可 以 赠 送 什 么 服 务 eos bos bxcp 可 以 赠 送 什 么 服 务 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问某产品增值服务项目	1.0
+bos 变 更 给 付 账 号 申 请 时 间 eos bos 变 更 给 付 账 号 申 请 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更给付账号申请时间	1.0
+bos 领 取 生 存 bzxm 申 请 时 间 eos bos 领 取 生 存 bzxm 申 请 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	领取生存保险金申请时间	1.0
+bos 长 ( 短 ) 期 险 保 费 增 长 率 eos bos 长 ( 短 ) 期 险 保 费 增 长 率 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos 原 （ 分 ） 保 费 收 入 增 长 率 eos bos 原 （ 分 ） 保 费 收 入 增 长 率 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos 如 实 告 知 的 义 务 有 哪 些 呢 eos bos 如 实 告 知 的 义 务 有 哪 些 呢 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问如实告知	1.0
+bos bxcp fwxm 有 没 有 次 数 要 求 eos bos bxcp fwxm 有 没 有 次 数 要 求 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	增值服务使用次数	1.0
+bos 变 更 职 业 等 级 办 理 流 程 eos bos 变 更 职 业 等 级 办 理 流 程 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更职业等级相关规定	1.0
+bos 申 请 保 单 贷 款 需 要 利 息 吗 eos bos 申 请 保 单 贷 款 需 要 利 息 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保单借款	1.0
+bos 北 京 有 哪 些 绿 医 合 作 医 院 eos bos 北 京 有 哪 些 绿 医 合 作 医 院 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合作医院	1.0
+bos 终 止 保 险 合 同 相 关 规 定 eos bos 终 止 保 险 合 同 相 关 规 定 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	终止保险合同相关规定	1.0
+bos bxcp qj 了 怎 么 赔 eos bos bxcp qj 了 怎 么 赔 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某情景下全残或身故赔偿 保障项目如何申请理赔	1.0
+bos 变 更 职 业 等 级 申 请 时 间 eos bos 变 更 职 业 等 级 申 请 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更职业等级申请时间	1.0
+bos bxcp 保 险 事 故 的 通 知 eos bos bxcp 保 险 事 故 的 通 知 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义 询问保险事故通知	1.0
+bos 变 更 通 讯 资 料 申 请 时 间 eos bos 变 更 通 讯 资 料 申 请 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更通讯资料申请时间	1.0
+bos 买 了 bxcp 全 残 可 以 赔 付 吗 eos bos 买 了 bxcp 全 残 可 以 赔 付 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的赔付	1.0
+bos 变 更 职 业 等 级 要 怎 么 办 eos bos 变 更 职 业 等 级 要 怎 么 办 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更职业等级相关规定	1.0
+bos 乳 腺 结 节 是 否 可 以 投 保 eos bos 乳 腺 结 节 是 否 可 以 投 保 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	患某疾病是否可以投保	1.0
+bos 怎 么 知 道 有 没 有 特 别 约 定 eos bos 怎 么 知 道 有 没 有 特 别 约 定 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问特别约定	1.0
+bos 投 资 账 户 转 换 申 请 流 程 eos bos 投 资 账 户 转 换 申 请 流 程 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	投资账户转换相关规定	1.0
+bos 国 内 骨 科 排 名 第 一 的 医 院 eos bos 国 内 骨 科 排 名 第 一 的 医 院 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合作医院	1.0
+bos 什 么 情 况 下 可 以 恢 复 合 同 eos bos 什 么 情 况 下 可 以 恢 复 合 同 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同恢复	1.0
+bos 银 行 转 账 授 权 申 请 时 间 eos bos 银 行 转 账 授 权 申 请 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	银行转账授权申请时间	1.0
+bos 发 生 争 议 了 会 听 我 们 的 吗 eos bos 发 生 争 议 了 会 听 我 们 的 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问争议处理	1.0
+bos bxcp 的 特 别 jb 的 保 险 责 任 eos bos bxcp 的 特 别 jb 的 保 险 责 任 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos 肿 瘤 内 分 泌 疗 法 有 什 么 用 eos bos 肿 瘤 内 分 泌 疗 法 有 什 么 用 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos 取 消 承 保 条 件 申 请 流 程 eos bos 取 消 承 保 条 件 申 请 流 程 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	取消承保条件相关规定	1.0
+bos 7 0 岁 还 可 以 购 买 bxcp 马 eos bos 7 0 岁 还 可 以 购 买 bxcp 马 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	投保人条件限制	1.0
+bos jbzl 和 和 jbzl 有 什 么 区 别 eos bos jbzl 和 和 jbzl 有 什 么 区 别 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	区分疾病种类的标准	1.0
+bos 治 疗 费 用 & n b s p ; jb eos bos 治 疗 费 用 & n b s p ; jb eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病治疗费用	1.0
+bos 对 于 qj 的 免 责 条 款 有 哪 些 eos bos 对 于 qj 的 免 责 条 款 有 哪 些 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问免责条款	1.0
+bos bxcp 电 子 合 同 去 哪 里 领 取 eos bos bxcp 电 子 合 同 去 哪 里 领 取 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同领取方式	1.0
+bos fwxm 什 么 时 候 可 以 开 始 用 eos bos fwxm 什 么 时 候 可 以 开 始 用 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	增值服务使用时间	1.0
+bos 如 何 申 领 bxcp bzxm 、 bzxm eos bos 如 何 申 领 bxcp bzxm 、 bzxm eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目如何申请理赔	1.0
+bos bxcp bzxm 可 以 多 次 赔 付 吗 eos bos bxcp bzxm 可 以 多 次 赔 付 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的赔付次数	1.0
+bos bxcp 可 以 变 更 缴 费 方 式 吗 eos bos bxcp 可 以 变 更 缴 费 方 式 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问变更缴费方式	1.0
+bos 如 何 获 得 bxcp bzxm 、 bzxm eos bos 如 何 获 得 bxcp bzxm 、 bzxm eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目如何申请理赔	1.0
+bos 哪 些 是 保 险 的 理 赔 材 料 呢 eos bos 哪 些 是 保 险 的 理 赔 材 料 呢 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	理赔需要的材料	1.0
+bos 特 定 门 诊 医 疗 费 包 含 那 些 eos bos 特 定 门 诊 医 疗 费 包 含 那 些 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品费用与报销	1.0
+bos bxcp 升 级 能 附 加 住 院 bxzl 吗 eos bos bxcp 升 级 能 附 加 住 院 bxzl 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问附加险	1.0
+bos 参 加 qj 活 动 投 保 健 康 告 知 eos bos 参 加 qj 活 动 投 保 健 康 告 知 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问如实告知	1.0
+bos qj 可 以 投 保 x 0 0 0 d eos bos qj 可 以 投 保 x 0 0 0 d eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种情景是否可以投保	1.0
+bos 申 请 理 赔 需 要 延 误 证 明 吗 eos bos 申 请 理 赔 需 要 延 误 证 明 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	理赔需要的材料	1.0
+bos 特 定 门 诊 医 疗 费 包 含 哪 些 eos bos 特 定 门 诊 医 疗 费 包 含 哪 些 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品费用与报销	1.0
+bos 我 不 知 道 有 什 么 理 赔 材 料 eos bos 我 不 知 道 有 什 么 理 赔 材 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	理赔需要的材料	1.0
+bos 去 医 院 住 了 院 能 否 赔 付 吗 eos bos 去 医 院 住 了 院 能 否 赔 付 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品费用与报销	1.0
+bos 特 定 门 诊 医 疗 费 包 括 什 么 eos bos 特 定 门 诊 医 疗 费 包 括 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品费用与报销	1.0
+bos bxcp 和 bxcp 只 能 拥 有 一 份 吗 eos bos bxcp 和 bxcp 只 能 拥 有 一 份 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 开 门 期 间 有 什 么 增 值 服 务 eos bos 开 门 期 间 有 什 么 增 值 服 务 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos jb 的 治 疗 能 在 jb 费 用 里 吗 eos bos jb 的 治 疗 能 在 jb 费 用 里 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险条款	1.0
+bos 可 以 托 人 更 改 联 系 方 式 吗 eos bos 可 以 托 人 更 改 联 系 方 式 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问变更通讯方式	1.0
+bos bxcp 是 否 可 以 变 更 受 益 人 eos bos bxcp 是 否 可 以 变 更 受 益 人 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更受益人相关规定	1.0
+bos 绿 医 通 道 需 要 付 挂 号 费 吗 eos bos 绿 医 通 道 需 要 付 挂 号 费 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 投 资 连 结 保 险 账 户 介 绍 eos bos 投 资 连 结 保 险 账 户 介 绍 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	投资连结保险投资账户介绍	1.0
+bos 小 雨 伞 和 小 棉 袄 这 两 款 保 险 eos bos 小 雨 伞 和 小 棉 袄 这 两 款 保 险 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品介绍	1.0
+bos 基 本 保 险 金 额 可 以 更 改 吗 eos bos 基 本 保 险 金 额 可 以 更 改 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问基本保险金额	1.0
+bos bxcp 与 bxcp 有 什 么 不 一 样 的 eos bos bxcp 与 bxcp 有 什 么 不 一 样 的 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品对比	1.0
+bos 全 程 导 医 服 务 的 使 用 次 数 eos bos 全 程 导 医 服 务 的 使 用 次 数 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	增值服务使用次数	1.0
+bos 我 3 8 岁 有 什 么 保 险 推 荐 吗 eos bos 我 3 8 岁 有 什 么 保 险 推 荐 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品推荐	1.0
+bos bxcp 可 以 附 加 什 么 附 加 险 种 eos bos bxcp 可 以 附 加 什 么 附 加 险 种 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问附加险	1.0
+bos 赠 送 的 服 务 可 以 使 用 多 久 eos bos 赠 送 的 服 务 可 以 使 用 多 久 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	增值服务使用时间	1.0
+bos 可 以 变 更 基 本 保 险 金 额 吗 eos bos 可 以 变 更 基 本 保 险 金 额 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问基本保险金额	1.0
+bos 在 线 问 诊 时 间 是 什 么 时 候 eos bos 在 线 问 诊 时 间 是 什 么 时 候 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 得 了 jb 能 给 我 赔 偿 金 吗 eos bos 得 了 jb 能 给 我 赔 偿 金 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病是否赔某个保障项目	1.0
+bos 基 本 保 险 金 额 可 以 减 少 吗 eos bos 基 本 保 险 金 额 可 以 减 少 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问基本保险金额	1.0
+bos bxcp 到 达 年 龄 是 怎 么 计 算 的 eos bos bxcp 到 达 年 龄 是 怎 么 计 算 的 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病的定义	1.0
+bos 可 以 随 时 变 更 通 讯 方 式 吗 eos bos 可 以 随 时 变 更 通 讯 方 式 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问变更通讯方式	1.0
+bos 5 0 岁 买 5 0 万 需 要 体 检 吗 eos bos 5 0 岁 买 5 0 万 需 要 体 检 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	体检标准	1.0
+bos 能 介 绍 一 下 你 们 的 产 品 吗 eos bos 能 介 绍 一 下 你 们 的 产 品 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问公司有哪些产品	1.0
+bos bxcp 他 特 定 bzxm 的 给 付 条 件 eos bos bxcp 他 特 定 bzxm 的 给 付 条 件 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险金给付	1.0
+bos 附 加 险 能 否 到 保 险 机 构 附 加 eos bos 附 加 险 能 否 到 保 险 机 构 附 加 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问附加险	1.0
+bos 什 么 是 保 险 合 同 的 构 成 eos bos 什 么 是 保 险 合 同 的 构 成 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义 询问合同构成	1.0
+bos 未 成 年 人 患 了 jb 怎 么 赔 eos bos 未 成 年 人 患 了 jb 怎 么 赔 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	得了某个疾病怎样申请理赔	1.0
+bos 小 孩 3 周 岁 患 病 怎 么 赔 付 eos bos 小 孩 3 周 岁 患 病 怎 么 赔 付 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	特殊人群的理赔方式	1.0
+bos bzxm 能 告 诉 我 怎 么 理 赔 吗 eos bos bzxm 能 告 诉 我 怎 么 理 赔 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目如何申请理赔	1.0
+bos 未 成 年 人 患 了 jb 怎 么 赔 eos bos 未 成 年 人 患 了 jb 怎 么 赔 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种疾病是否在承保范围内	1.0
+bos bxcp 是 否 具 备 保 单 回 溯 功 能 eos bos bxcp 是 否 具 备 保 单 回 溯 功 能 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	申请保单回溯	1.0
+bos 电 话 验 证 ： 1 5 0 7 2 3 0 eos bos 电 话 验 证 ： 1 5 0 7 2 3 0 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 保 险 合 同 的 构 成 是 什 么 eos bos 保 险 合 同 的 构 成 是 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义 询问合同构成	1.0
+bos bxcp 投 保 可 以 不 健 康 告 知 吗 eos bos bxcp 投 保 可 以 不 健 康 告 知 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问如实告知	1.0
+bos 你 们 家 的 有 什 么 保 险 产 品 eos bos 你 们 家 的 有 什 么 保 险 产 品 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问公司有哪些产品	1.0
+bos 买 了 后 需 要 改 手 机 号 怎 么 改 eos bos 买 了 后 需 要 改 手 机 号 怎 么 改 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos bxcp 对 投 保 年 龄 有 限 制 的 吗 eos bos bxcp 对 投 保 年 龄 有 限 制 的 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问投保年龄	1.0
+bos 这 款 产 品 是 不 是 有 清 症 豁 免 eos bos 这 款 产 品 是 不 是 有 清 症 豁 免 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos bxcp 最 高 可 以 续 期 到 多 少 岁 eos bos bxcp 最 高 可 以 续 期 到 多 少 岁 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问投保年龄	1.0
+bos 保 障 的 疾 病 有 没 有 什 么 优 势 eos bos 保 障 的 疾 病 有 没 有 什 么 优 势 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 购 买 bxcp 可 以 最 高 投 保 多 少 eos bos 购 买 bxcp 可 以 最 高 投 保 多 少 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品保额限制	1.0
+bos 附 加 险 能 否 到 保 险 公 司 附 加 eos bos 附 加 险 能 否 到 保 险 公 司 附 加 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问附加险	1.0
+bos 心 肌 梗 塞 在 不 在 保 障 范 围 eos bos 心 肌 梗 塞 在 不 在 保 障 范 围 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种疾病的保障范围	1.0
+bos bxcp 最 高 可 以 选 择 多 少 保 额 eos bos bxcp 最 高 可 以 选 择 多 少 保 额 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品保额限制	1.0
+bos bzxm 合 同 恢 复 减 额 缴 清 是 啥 eos bos bzxm 合 同 恢 复 减 额 缴 清 是 啥 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问减额缴清	1.0
+bos 2 0 1 8 第 一 季 度 偿 付 能 力 eos bos 2 0 1 8 第 一 季 度 偿 付 能 力 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	公司经营状况	1.0
+bos 变 更 职 业 等 级 需 要 的 材 料 eos bos 变 更 职 业 等 级 需 要 的 材 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更职业等级相关规定	1.0
+bos 领 取 生 存 bzxm 需 要 的 材 料 eos bos 领 取 生 存 bzxm 需 要 的 材 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	领取生存保险金相关规定	1.0
+bos 老 年 人 投 保 规 则 具 体 是 什 么 eos bos 老 年 人 投 保 规 则 具 体 是 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问投保规则	1.0
+bos 银 行 转 账 授 权 需 要 的 材 料 eos bos 银 行 转 账 授 权 需 要 的 材 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	银行转账授权相关规定	1.0
+bos 我 在 广 州 你 们 有 合 作 医 院 吗 eos bos 我 在 广 州 你 们 有 合 作 医 院 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合作医院	1.0
+bos 变 更 给 付 账 号 需 要 的 材 料 eos bos 变 更 给 付 账 号 需 要 的 材 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更给付账号相关规定	1.0
+bos 减 额 缴 清 如 何 处 理 减 额 缴 清 eos bos 减 额 缴 清 如 何 处 理 减 额 缴 清 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问减额缴清	1.0
+bos 解 除 合 同 需 要 准 备 什 么 资 料 eos bos 解 除 合 同 需 要 准 备 什 么 资 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同解除	1.0
+bos 合 同 里 面 的 文 件 分 别 是 什 么 eos bos 合 同 里 面 的 文 件 分 别 是 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同构成	1.0
+bos bzxm 和 bzxm 是 加 起 来 5 0 万 吗 eos bos bzxm 和 bzxm 是 加 起 来 5 0 万 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保额	1.0
+bos 买 了 后 需 要 改 手 机 号 怎 么 改 eos bos 买 了 后 需 要 改 手 机 号 怎 么 改 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问联系方式	1.0
+bos 购 买 bxcp 后 客 户 qj 有 保 障 吗 eos bos 购 买 bxcp 后 客 户 qj 有 保 障 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品保障期限	1.0
+bos 近 期 有 住 院 记 录 能 投 保 吗 eos bos 近 期 有 住 院 记 录 能 投 保 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种情景是否可以投保	1.0
+bos 投 保 后 有 对 应 的 售 后 服 务 吗 eos bos 投 保 后 有 对 应 的 售 后 服 务 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	服务内容介绍	1.0
+bos 你 们 公 司 最 好 的 产 品 是 什 么 eos bos 你 们 公 司 最 好 的 产 品 是 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问公司定义	1.0
+bos 国 内 心 外 科 排 名 第 一 的 医 院 eos bos 国 内 心 外 科 排 名 第 一 的 医 院 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合作医院	1.0
+bos 降 低 主 险 保 额 需 要 的 材 料 eos bos 降 低 主 险 保 额 需 要 的 材 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	降低主险保额相关规定	1.0
+bos qj 是 在 bxcp 的 保 障 范 围 内 吗 eos bos qj 是 在 bxcp 的 保 障 范 围 内 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos 合 同 什 么 时 候 保 单 开 始 生 效 eos bos 合 同 什 么 时 候 保 单 开 始 生 效 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同变更	1.0
+bos 保 险 单 借 款 与 保 险 费 的 垫 缴 eos bos 保 险 单 借 款 与 保 险 费 的 垫 缴 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保费垫缴	1.0
+bos 投 资 账 户 转 换 需 要 的 材 料 eos bos 投 资 账 户 转 换 需 要 的 材 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	投资账户转换相关规定	1.0
+bos 我 不 想 买 保 险 了 可 以 退 费 吗 eos bos 我 不 想 买 保 险 了 可 以 退 费 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同解除	1.0
+bos 贵 公 司 近 来 经 营 状 况 理 想 吗 eos bos 贵 公 司 近 来 经 营 状 况 理 想 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	公司经营状况	1.0
+bos 航 班 延 误 保 险 索 赔 的 流 程 eos bos 航 班 延 误 保 险 索 赔 的 流 程 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目如何申请理赔	1.0
+bos 合 同 上 有 没 有 什 么 附 加 条 件 eos bos 合 同 上 有 没 有 什 么 附 加 条 件 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问特别约定	1.0
+bos 如 何 申 请 理 赔 bxcp bzxm bzxm eos bos 如 何 申 请 理 赔 bxcp bzxm bzxm eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目如何申请理赔	1.0
+bos 航 空 意 外 身 故 或 全 残 赔 多 少 eos bos 航 空 意 外 身 故 或 全 残 赔 多 少 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的赔付	1.0
+bos 犹 豫 期 终 止 合 同 申 请 时 间 eos bos 犹 豫 期 终 止 合 同 申 请 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	犹豫期终止合同申请时间	1.0
+bos jb 的 治 疗 能 在 jb 费 用 里 吗 eos bos jb 的 治 疗 能 在 jb 费 用 里 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目保哪些疾病	1.0
+bos bzxm 赔 付 后 qj 还 有 的 赔 吗 eos bos bzxm 赔 付 后 qj 还 有 的 赔 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	不同保障项目的重复理赔	1.0
+bos 犹 豫 期 终 止 合 同 相 关 规 定 eos bos 犹 豫 期 终 止 合 同 相 关 规 定 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	犹豫期终止合同相关规定	1.0
+bos bzxm bxzl 谁 是 保 险 的 受 益 人 呢 eos bos bzxm bxzl 谁 是 保 险 的 受 益 人 呢 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问受益人	1.0
+bos qj 导 致 的 jbzl 可 以 理 赔 吗 eos bos qj 导 致 的 jbzl 可 以 理 赔 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某情景下全残或身故赔偿	1.0
+bos 犹 豫 期 终 止 合 同 所 需 材 料 eos bos 犹 豫 期 终 止 合 同 所 需 材 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	犹豫期终止合同相关规定	1.0
+bos bzxm jb 出 事 故 都 会 赔 偿 吗 eos bos bzxm jb 出 事 故 都 会 赔 偿 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病是否赔某个保障项目	1.0
+bos 到 期 没 钱 交 保 费 能 延 迟 交 吗 eos bos 到 期 没 钱 交 保 费 能 延 迟 交 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问宽限期定义	1.0
+bos jbzl 申 请 理 赔 需 要 的 材 料 eos bos jbzl 申 请 理 赔 需 要 的 材 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	得了某类疾病怎样申请理赔	1.0
+bos 指 定 第 二 投 保 人 申 请 流 程 eos bos 指 定 第 二 投 保 人 申 请 流 程 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	指定第二投保人相关规定	1.0
+bos 买 bxcp 能 享 受 个 税 优 惠 吗 eos bos 买 bxcp 能 享 受 个 税 优 惠 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	购买某项保险产品有无优惠	1.0
+bos jbzl 都 有 哪 些 理 赔 材 料 呢 eos bos jbzl 都 有 哪 些 理 赔 材 料 呢 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	得了某类疾病怎样申请理赔	1.0
+bos bzxm qj 发 生 事 故 保 险 怎 么 赔 eos bos bzxm qj 发 生 事 故 保 险 怎 么 赔 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的赔付	1.0
+bos 减 额 缴 清 后 对 保 额 有 影 响 吗 eos bos 减 额 缴 清 后 对 保 额 有 影 响 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	减额缴清的影响	1.0
+bos 指 定 第 二 投 保 人 办 理 流 程 eos bos 指 定 第 二 投 保 人 办 理 流 程 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	指定第二投保人相关规定	1.0
+bos 指 定 第 二 投 保 人 要 怎 么 办 eos bos 指 定 第 二 投 保 人 要 怎 么 办 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	指定第二投保人相关规定	1.0
+bos bxcp “ 银 保 通 ” 出 单 特 别 规 定 eos bos bxcp “ 银 保 通 ” 出 单 特 别 规 定 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	投保指引	1.0
+bos 孕 妇 投 保 保 额 有 什 么 要 求 的 eos bos 孕 妇 投 保 保 额 有 什 么 要 求 的 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	投保人条件限制	1.0
+bos 投 保 后 可 以 修 改 缴 费 方 式 吗 eos bos 投 保 后 可 以 修 改 缴 费 方 式 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问变更缴费方式	1.0
+bos bzxm 赔 付 次 数 可 以 是 多 次 吗 eos bos bzxm 赔 付 次 数 可 以 是 多 次 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的赔付次数	1.0
+bos bxcp 一 次 性 交 可 以 有 附 加 险 吗 eos bos bxcp 一 次 性 交 可 以 有 附 加 险 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问附加险	1.0
+bos 得 了 jbzl 是 怎 么 进 行 赔 付 的 eos bos 得 了 jbzl 是 怎 么 进 行 赔 付 的 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病种类的赔付流程	1.0
+bos 肺 叶 切 除 术 在 保 险 范 围 吗 eos bos 肺 叶 切 除 术 在 保 险 范 围 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种疾病是否在承保范围内	1.0
+bos 在 线 问 诊 的 时 间 有 没 有 限 制 呢 eos bos 在 线 问 诊 的 时 间 有 没 有 限 制 呢 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	咨询时间	1.0
+bos 基 因 检 测 要 怎 么 申 请 使 用 / eos bos 基 因 检 测 要 怎 么 申 请 使 用 / eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 线 上 和 线 下 投 保 优 惠 区 别 eos bos 线 上 和 线 下 投 保 优 惠 区 别 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	购买某项保险产品有无优惠	1.0
+bos 趸 缴 可 以 支 持 变 更 投 保 人 eos bos 趸 缴 可 以 支 持 变 更 投 保 人 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品变更投保人的范围	1.0
+bos 电 话 医 生 的 卡 可 以 使 用 多 久 eos bos 电 话 医 生 的 卡 可 以 使 用 多 久 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 减 额 缴 清 什 么 时 候 可 以 申 请 eos bos 减 额 缴 清 什 么 时 候 可 以 申 请 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	减额缴清申请时间	1.0
+bos 变 更 签 名 什 么 时 候 可 以 申 请 eos bos 变 更 签 名 什 么 时 候 可 以 申 请 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更签名申请时间	1.0
+bos 基 本 保 险 金 额 是 如 何 确 定 的 eos bos 基 本 保 险 金 额 是 如 何 确 定 的 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问基本保险金额	1.0
+bos bxcp 赔 了 bzxm 是 不 是 合 同 终 止 eos bos bxcp 赔 了 bzxm 是 不 是 合 同 终 止 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同终止	1.0
+bos bxcp “ 银 保 通 ” 出 单 特 别 规 定 eos bos bxcp “ 银 保 通 ” 出 单 特 别 规 定 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 赔 付 了 jbzl 之 后 保 额 会 减 少 吗 eos bos 赔 付 了 jbzl 之 后 保 额 会 减 少 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 怎 么 激 活 信 享 会 的 增 值 服 务 eos bos 怎 么 激 活 信 享 会 的 增 值 服 务 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 帮 我 算 算 看 3 5 岁 要 交 多 少 钱 eos bos 帮 我 算 算 看 3 5 岁 要 交 多 少 钱 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保费核算	1.0
+bos 缴 费 的 方 式 中 途 可 以 更 换 吗 eos bos 缴 费 的 方 式 中 途 可 以 更 换 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问变更缴费方式	1.0
+bos jbzl 豁 免 的 费 用 是 一 年 交 的 吗 eos bos jbzl 豁 免 的 费 用 是 一 年 交 的 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问缴费方式	1.0
+bos bzxm 什 么 是 保 险 的 理 赔 材 料 eos bos bzxm 什 么 是 保 险 的 理 赔 材 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目如何申请理赔	1.0
+bos 为 什 么 取 消 自 动 转 账 还 会 扣 钱 eos bos 为 什 么 取 消 自 动 转 账 还 会 扣 钱 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 购 买 bxcp 后 怎 么 申 请 减 额 缴 清 eos bos 购 买 bxcp 后 怎 么 申 请 减 额 缴 清 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问减额缴清	1.0
+bos 变 更 受 益 人 需 要 提 交 的 材 料 eos bos 变 更 受 益 人 需 要 提 交 的 材 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更受益人相关规定	1.0
+bos bxcp 理 赔 是 的 赔 付 比 例 是 多 少 eos bos bxcp 理 赔 是 的 赔 付 比 例 是 多 少 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问赔付比例	1.0
+bos 变 更 附 加 险 需 要 提 交 的 材 料 eos bos 变 更 附 加 险 需 要 提 交 的 材 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更附加险相关规定	1.0
+bos 变 更 投 保 人 需 要 提 交 的 材 料 eos bos 变 更 投 保 人 需 要 提 交 的 材 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更投保人相关规定	1.0
+bos bxcp 对 投 保 人 的 年 龄 有 限 制 吗 eos bos bxcp 对 投 保 人 的 年 龄 有 限 制 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问投保年龄	1.0
+bos 有 哪 些 疾 病 是 bxcp 的 保 障 范 围 eos bos 有 哪 些 疾 病 是 bxcp 的 保 障 范 围 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos 成 年 投 保 可 以 附 加 投 保 人 豁 免 eos bos 成 年 投 保 可 以 附 加 投 保 人 豁 免 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问附加险	1.0
+bos bxcp 减 额 交 清 有 什 么 影 响 eos bos bxcp 减 额 交 清 有 什 么 影 响 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问减额缴清 减额缴清的影响	1.0
+bos bxcp 怎 么 申 请 疾 病 全 残 理 赔 eos bos bxcp 怎 么 申 请 疾 病 全 残 理 赔 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目如何申请理赔	1.0
+bos bzxm 保 后 理 赔 流 程 是 如 何 的 eos bos bzxm 保 后 理 赔 流 程 是 如 何 的 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目如何申请理赔	1.0
+bos bxcp 保 单 借 款 利 率 是 怎 么 样 的 eos bos bxcp 保 单 借 款 利 率 是 怎 么 样 的 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保单借款	1.0
+bos 人 寿 免 责 条 款 有 多 少 条 eos bos 人 寿 免 责 条 款 有 多 少 条 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险条款 保障项目的责任免除详情	1.0
+bos 你 们 这 个 产 品 有 生 命 免 责 条 款 eos bos 你 们 这 个 产 品 有 生 命 免 责 条 款 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问免责条款	1.0
+bos 不 太 理 解 保 险 垫 缴 是 什 么 意 思 eos bos 不 太 理 解 保 险 垫 缴 是 什 么 意 思 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保费垫缴	1.0
+bos 领 取 现 金 红 利 申 请 开 始 时 间 eos bos 领 取 现 金 红 利 申 请 开 始 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	领取现金红利申请时间	1.0
+bos 变 更 职 业 等 级 申 请 开 始 时 间 eos bos 变 更 职 业 等 级 申 请 开 始 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更职业等级申请时间	1.0
+bos 月 缴 可 以 支 持 bxcp 保 单 借 款 eos bos 月 缴 可 以 支 持 bxcp 保 单 借 款 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品保单借款的范围	1.0
+bos 客 户 投 保 bxcp 体 检 项 目 有 哪 些 eos bos 客 户 投 保 bxcp 体 检 项 目 有 哪 些 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问体检或验尸	1.0
+bos 年 缴 可 以 支 持 bxcp 补 充 告 知 eos bos 年 缴 可 以 支 持 bxcp 补 充 告 知 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品补充告知的范围	1.0
+bos bzxm 有 没 有 不 赔 偿 的 情 况 呢 eos bos bzxm 有 没 有 不 赔 偿 的 情 况 呢 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的责任免除详情	1.0
+bos 生 存 给 付 确 认 申 请 开 始 时 间 eos bos 生 存 给 付 确 认 申 请 开 始 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	生存给付确认申请时间	1.0
+bos 没 有 交 清 保 险 费 会 结 束 合 同 吗 eos bos 没 有 交 清 保 险 费 会 结 束 合 同 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保费垫缴	1.0
+bos 呼 吸 科 排 名 第 一 的 医 院 有 哪 家 eos bos 呼 吸 科 排 名 第 一 的 医 院 有 哪 家 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合作医院	1.0
+bos jbzl 额 外 给 付 有 多 少 次 限 制 吗 eos bos jbzl 额 外 给 付 有 多 少 次 限 制 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的赔付	1.0
+bos 期 缴 可 以 支 持 bxcp 补 发 保 单 eos bos 期 缴 可 以 支 持 bxcp 补 发 保 单 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品补发保单的范围	1.0
+bos 航 班 延 误 保 险 索 赔 要 提 供 啥 eos bos 航 班 延 误 保 险 索 赔 要 提 供 啥 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目如何申请理赔	1.0
+bos 变 更 缴 费 方 式 申 请 开 始 时 间 eos bos 变 更 缴 费 方 式 申 请 开 始 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更缴费方式申请时间	1.0
+bos 健 康 告 知 有 腹 痛 能 通 过 核 保 吗 eos bos 健 康 告 知 有 腹 痛 能 通 过 核 保 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问如实告知	1.0
+bos bxcp 的 其 他 免 责 条 款 是 什 么 eos bos bxcp 的 其 他 免 责 条 款 是 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的责任免除详情	1.0
+bos 变 更 给 付 账 号 申 请 开 始 时 间 eos bos 变 更 给 付 账 号 申 请 开 始 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更给付账号申请时间	1.0
+bos 年 缴 可 以 支 持 bxcp 减 额 缴 清 eos bos 年 缴 可 以 支 持 bxcp 减 额 缴 清 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品减额缴清的范围	1.0
+bos 没 有 缴 付 保 险 费 会 有 什 么 后 果 eos bos 没 有 缴 付 保 险 费 会 有 什 么 后 果 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保费垫缴	1.0
+bos 我 没 有 如 实 告 知 会 有 什 么 影 响 eos bos 我 没 有 如 实 告 知 会 有 什 么 影 响 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问如实告知	1.0
+bos 期 缴 可 以 支 持 bxcp 保 单 还 款 eos bos 期 缴 可 以 支 持 bxcp 保 单 还 款 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品保单还款的范围	1.0
+bos 赔 过 bzxm 之 后 终 老 还 能 赔 吗 eos bos 赔 过 bzxm 之 后 终 老 还 能 赔 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	不同保障项目的重复理赔	1.0
+bos bxcp 赠 送 的 服 务 可 以 使 用 多 久 eos bos bxcp 赠 送 的 服 务 可 以 使 用 多 久 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos ⅱ 级 jbzl 急 性 胰 腺 炎 怎 么 赔 eos bos ⅱ 级 jbzl 急 性 胰 腺 炎 怎 么 赔 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	得了某个疾病怎样申请理赔	1.0
+bos 不 按 时 缴 纳 保 险 费 有 什 么 后 果 eos bos 不 按 时 缴 纳 保 险 费 有 什 么 后 果 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险费缴纳	1.0
+bos fwxm 增 值 服 务 什 么 时 候 可 以 用 eos bos fwxm 增 值 服 务 什 么 时 候 可 以 用 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	增值服务使用时间	1.0
+bos 诊 断 证 明 病 理 报 告 会 很 难 拿 吗 eos bos 诊 断 证 明 病 理 报 告 会 很 难 拿 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	诊断报告的领取	1.0
+bos bxcp 赠 送 的 服 务 使 用 期 是 多 久 eos bos bxcp 赠 送 的 服 务 使 用 期 是 多 久 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	增值服务使用时间	1.0
+bos 指 定 第 二 投 保 人 需 要 的 材 料 eos bos 指 定 第 二 投 保 人 需 要 的 材 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	指定第二投保人相关规定	1.0
+bos fwxm 增 值 服 务 有 没 有 次 数 要 求 eos bos fwxm 增 值 服 务 有 没 有 次 数 要 求 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	增值服务使用次数	1.0
+bos 犹 豫 期 终 止 合 同 需 要 的 材 料 eos bos 犹 豫 期 终 止 合 同 需 要 的 材 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	犹豫期终止合同相关规定	1.0
+bos 体 检 与 验 尸 对 我 有 什 么 影 响 吗 eos bos 体 检 与 验 尸 对 我 有 什 么 影 响 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问体检或验尸	1.0
+bos jbzl 赔 偿 处 理 需 要 什 么 资 料 eos bos jbzl 赔 偿 处 理 需 要 什 么 资 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	得了某类疾病怎样申请理赔	1.0
+bos 终 止 定 期 额 外 投 资 办 理 流 程 eos bos 终 止 定 期 额 外 投 资 办 理 流 程 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	终止定期额外投资相关规定	1.0
+bos 终 止 定 期 额 外 投 资 怎 么 申 请 eos bos 终 止 定 期 额 外 投 资 怎 么 申 请 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	终止定期额外投资相关规定	1.0
+bos 我 投 保 了 bxcp 就 不 能 投 保 了 吗 eos bos 我 投 保 了 bxcp 就 不 能 投 保 了 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险是否有购买限制	1.0
+bos 变 更 年 金 领 取 方 式 办 理 流 程 eos bos 变 更 年 金 领 取 方 式 办 理 流 程 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更年金领取方式相关规定	1.0
+bos 在 线 问 诊 是 全 天 2 4 小 时 的 吗 eos bos 在 线 问 诊 是 全 天 2 4 小 时 的 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 变 更 年 金 领 取 方 式 所 需 材 料 eos bos 变 更 年 金 领 取 方 式 所 需 材 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更年金领取方式相关规定	1.0
+bos 变 更 红 利 领 取 方 式 申 请 时 间 eos bos 变 更 红 利 领 取 方 式 申 请 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更红利领取方式申请时间	1.0
+bos bxcp 取 消 承 保 条 件 保 全 范 围 eos bos bxcp 取 消 承 保 条 件 保 全 范 围 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品取消承保条件的范围	1.0
+bos 变 更 年 金 领 取 方 式 相 关 规 定 eos bos 变 更 年 金 领 取 方 式 相 关 规 定 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更年金领取方式相关规定	1.0
+bos bxcp 变 更 缴 费 方 式 保 全 范 围 eos bos bxcp 变 更 缴 费 方 式 保 全 范 围 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品变更缴费方式的范围	1.0
+bos 变 更 定 期 额 外 投 资 相 关 规 定 eos bos 变 更 定 期 额 外 投 资 相 关 规 定 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更定期额外投资相关规定	1.0
+bos 更 改 个 人 身 份 资 料 要 怎 么 办 eos bos 更 改 个 人 身 份 资 料 要 怎 么 办 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	更改个人身份资料相关规定	1.0
+bos 终 止 定 期 额 外 投 资 相 关 规 定 eos bos 终 止 定 期 额 外 投 资 相 关 规 定 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	终止定期额外投资相关规定	1.0
+bos 结 束 保 险 费 缓 缴 期 相 关 规 定 eos bos 结 束 保 险 费 缓 缴 期 相 关 规 定 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	结束保险费缓缴期相关规定	1.0
+bos 满 期 给 付 生 存 确 认 申 请 流 程 eos bos 满 期 给 付 生 存 确 认 申 请 流 程 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	满期给付生存确认相关规定	1.0
+bos 变 更 定 期 额 外 投 资 办 理 流 程 eos bos 变 更 定 期 额 外 投 资 办 理 流 程 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更定期额外投资相关规定	1.0
+bos bxcp 满 期 生 存 确 认 保 全 范 围 eos bos bxcp 满 期 生 存 确 认 保 全 范 围 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品满期生存确认的范围	1.0
+bos 公 共 交 通 工 具 qj 或 全 残 赔 多 少 eos bos 公 共 交 通 工 具 qj 或 全 残 赔 多 少 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的赔付	1.0
+bos 保 费 逾 期 未 付 选 择 申 请 时 间 eos bos 保 费 逾 期 未 付 选 择 申 请 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保费逾期未付选择申请时间	1.0
+bos 变 更 年 金 领 取 方 式 申 请 流 程 eos bos 变 更 年 金 领 取 方 式 申 请 流 程 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更年金领取方式相关规定	1.0
+bos 保 费 逾 期 未 付 选 择 所 需 材 料 eos bos 保 费 逾 期 未 付 选 择 所 需 材 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保费逾期未付选择相关规定	1.0
+bos 保 费 逾 期 未 付 选 择 要 怎 么 办 eos bos 保 费 逾 期 未 付 选 择 要 怎 么 办 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保费逾期未付选择相关规定	1.0
+bos 终 止 定 期 额 外 投 资 要 怎 么 办 eos bos 终 止 定 期 额 外 投 资 要 怎 么 办 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	终止定期额外投资相关规定	1.0
+bos 满 期 给 付 生 存 确 认 申 请 时 间 eos bos 满 期 给 付 生 存 确 认 申 请 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	满期给付生存确认申请时间	1.0
+bos 结 束 保 险 费 缓 缴 期 申 请 流 程 eos bos 结 束 保 险 费 缓 缴 期 申 请 流 程 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	结束保险费缓缴期相关规定	1.0
+bos 合 同 恢 复 减 额 缴 清 qj jb 是 多 少 eos bos 合 同 恢 复 减 额 缴 清 qj jb 是 多 少 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问减额缴清	1.0
+bos 更 改 个 人 身 份 资 料 申 请 流 程 eos bos 更 改 个 人 身 份 资 料 申 请 流 程 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	更改个人身份资料相关规定	1.0
+bos 有 犯 罪 记 录 的 人 能 做 的 投 保 人 吗 eos bos 有 犯 罪 记 录 的 人 能 做 的 投 保 人	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问投保人	1.0
+bos bzxm 哪 些 是 保 险 的 理 赔 材 料 呢 eos bos bzxm 哪 些 是 保 险 的 理 赔 材 料 呢 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目如何申请理赔	1.0
+bos 变 更 受 益 人 什 么 时 候 可 以 申 请 eos bos 变 更 受 益 人 什 么 时 候 可 以 申 请 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更受益人申请时间	1.0
+bos 投 保 bxcp 后 可 以 申 请 减 额 交 清 吗 eos bos 投 保 bxcp 后 可 以 申 请 减 额 交 清 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问减额缴清	1.0
+bos 高 发 jb 基 因 检 测 是 去 哪 里 检 测 eos bos 高 发 jb 基 因 检 测 是 去 哪 里 检 测 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos bxcp 保 单 借 款 保 全 范 围 eos bos bxcp 保 单 借 款 保 全 范 围 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品支持保全项 保险产品保单借款的范围	1.0
+bos 未 成 年 人 有 bzxm 这 项 保 险 责 任 吗 eos bos 未 成 年 人 有 bzxm 这 项 保 险 责 任 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos bxcp 超 过 6 0 周 岁 还 可 以 投 保 吗 eos bos bxcp 超 过 6 0 周 岁 还 可 以 投 保 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问投保年龄	1.0
+bos 小 孩 不 足 1 周 岁 患 病 怎 么 赔 付 eos bos 小 孩 不 足 1 周 岁 患 病 怎 么 赔 付 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	特殊人群的理赔方式	1.0
+bos i n s u r a n c e a g e n t eos bos i n s u r a n c e a g e n	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 年 缴 可 以 支 持 变 更 职 业 等 级 eos bos 年 缴 可 以 支 持 变 更 职 业 等 级 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品变更职业等级的范围	1.0
+bos 参 加 举 重 活 动 投 保 健 康 告 知 eos bos 参 加 举 重 活 动 投 保 健 康 告 知 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义 询问如实告知	1.0
+bos 能 查 当 地 有 合 作 的 银 行 和 机 构 吗 eos bos 能 查 当 地 有 合 作 的 银 行 和 机 构	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合作银行	1.0
+bos bxcp 的 特 定 门 诊 医 疗 费 包 括 什 么 eos bos bxcp 的 特 定 门 诊 医 疗 费 包 括 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品费用与报销	1.0
+bos 职 业 等 级 5 级 以 上 能 否 投 保 bxcp eos bos 职 业 等 级 5 级 以 上 能 否 投 保 bxcp eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	投保的职业要求	1.0
+bos 你 们 公 司 在 行 业 内 的 地 位 怎 么 样 eos bos 你 们 公 司 在 行 业 内 的 地 位 怎 么	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问公司介绍	1.0
+bos 是 不 是 对 任 何 年 龄 段 的 人 开 放 的 eos bos 是 不 是 对 任 何 年 龄 段 的 人 开 放	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问投保年龄	1.0
+bos 你 们 公 司 经 营 和 偿 付 水 平 不 错 吧 eos bos 你 们 公 司 经 营 和 偿 付 水 平 不 错	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	公司经营状况	1.0
+bos 不 如 实 告 知 会 影 响 之 后 的 赔 付 吗 eos bos 不 如 实 告 知 会 影 响 之 后 的 赔 付	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问如实告知	1.0
+bos 健 康 告 知 患 有 尿 毒 症 能 投 保 吗 eos bos 健 康 告 知 患 有 尿 毒 症 能 投 保 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	患某疾病是否可以投保	1.0
+bos bzxm 分 期 领 取 选 择 要 怎 么 办 eos bos bzxm 分 期 领 取 选 择 要 怎 么 办 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	身故保险金分期领取选择相关规定	1.0
+bos 故 意 不 如 实 告 知 的 后 有 什 么 后 果 eos bos 故 意 不 如 实 告 知 的 后 有 什 么 后	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问如实告知	1.0
+bos 能 查 当 地 有 合 作 的 银 行 和 机 构 吗 eos bos 能 查 当 地 有 合 作 的 银 行 和 机 构	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合作医院	1.0
+bos bzxm 分 期 领 取 选 择 申 请 时 间 eos bos bzxm 分 期 领 取 选 择 申 请 时 间 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	身故保险金分期领取选择申请时间	1.0
+bos 赔 付 比 例 及 免 赔 额 表 是 什 么 eos bos 赔 付 比 例 及 免 赔 额 表 是 什 么 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问免赔额定义 询问赔付比例	1.0
+bos 疾 病 qj 或 全 残 有 无 等 待 期 的 要 求 eos bos 疾 病 qj 或 全 残 有 无 等 待 期 的 要	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问等待期	1.0
+bos 终 止 保 险 合 同 需 要 提 交 的 材 料 eos bos 终 止 保 险 合 同 需 要 提 交 的 材 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	终止保险合同相关规定	1.0
+bos bxcp 重 症 监 护 室 津 贴 一 天 给 多 少 eos bos bxcp 重 症 监 护 室 津 贴 一 天 给 多 少 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品费用与报销	1.0
+bos bzxm 分 期 领 取 选 择 申 请 流 程 eos bos bzxm 分 期 领 取 选 择 申 请 流 程 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	身故保险金分期领取选择相关规定	1.0
+bos 险 种 关 联 选 择 需 要 提 交 的 材 料 eos bos 险 种 关 联 选 择 需 要 提 交 的 材 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	险种关联选择相关规定	1.0
+bos 什 么 情 况 下 保 险 公 司 不 承 担 责 任 eos bos 什 么 情 况 下 保 险 公 司 不 承 担 责	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos bzxm 分 期 领 取 选 择 怎 么 申 请 eos bos bzxm 分 期 领 取 选 择 怎 么 申 请 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	身故保险金分期领取选择相关规定	1.0
+bos 未 成 年 人 投 保 bxzl 的 限 额 是 多 少 eos bos 未 成 年 人 投 保 bxzl 的 限 额 是 多 少 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	特殊人群投保规则	1.0
+bos bxcp 附 加 意 外 伤 害 b 款 最 低 保 额 eos bos bxcp 附 加 意 外 伤 害 b 款 最 低 保 额 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某产品的最低保额	1.0
+bos 月 缴 可 以 支 持 bxcp 变 更 投 保 人 eos bos 月 缴 可 以 支 持 bxcp 变 更 投 保 人 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品变更投保人的范围	1.0
+bos bxcp 的 基 本 保 险 金 额 和 保 险 金 额 eos bos bxcp 的 基 本 保 险 金 额 和 保 险 金 额 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问基本保险金额	1.0
+bos 趸 缴 可 以 支 持 bxcp 变 更 受 益 人 eos bos 趸 缴 可 以 支 持 bxcp 变 更 受 益 人 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品变更受益人的范围	1.0
+bos jbzl 的 预 约 挂 号 费 需 要 客 户 出 吗 eos bos jbzl 的 预 约 挂 号 费 需 要 客 户 出 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 国 外 的 医 院 理 赔 要 准 备 什 么 资 料 eos bos 国 外 的 医 院 理 赔 要 准 备 什 么 资	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	理赔需要的材料	1.0
+bos 我 投 保 了 bxcp 就 不 能 投 保 bxcp 了 吗 eos bos 我 投 保 了 bxcp 就 不 能 投 保 bxcp 了 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 为 什 么 已 投 保 bxcp 就 不 能 再 投 bxcp eos bos 为 什 么 已 投 保 bxcp 就 不 能 再 投 bxcp eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 小 孩 不 足 2 周 岁 患 病 怎 么 赔 付 eos bos 小 孩 不 足 2 周 岁 患 病 怎 么 赔 付 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某情景是否在承保范围内	1.0
+bos 期 缴 可 以 支 持 bxcp 变 更 受 益 人 eos bos 期 缴 可 以 支 持 bxcp 变 更 受 益 人 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品变更受益人的范围	1.0
+bos 更 改 个 人 身 份 资 料 保 全 范 围 eos bos 更 改 个 人 身 份 资 料 保 全 范 围 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品更改个人身份资料的范围	1.0
+bos jbzl 申 请 理 赔 需 要 延 误 证 明 吗 eos bos jbzl 申 请 理 赔 需 要 延 误 证 明 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	得了某类疾病怎样申请理赔	1.0
+bos 保 单 生 效 后 可 以 更 改 缴 费 方 式 吗 eos bos 保 单 生 效 后 可 以 更 改 缴 费 方 式	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问变更缴费方式	1.0
+bos 快 速 检 查 信 诚 寰 宇 卡 是 什 么 服 务 eos bos 快 速 检 查 信 诚 寰 宇 卡 是 什 么 服	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 更 改 个 人 身 份 资 料 需 要 的 材 料 eos bos 更 改 个 人 身 份 资 料 需 要 的 材 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	更改个人身份资料相关规定	1.0
+bos 提 交 理 赔 材 料 医 院 证 明 有 什 么 要 求 eos bos 提 交 理 赔 材 料 医 院 证 明 有 什	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	理赔医院	1.0
+bos 满 期 给 付 生 存 确 认 需 要 的 材 料 eos bos 满 期 给 付 生 存 确 认 需 要 的 材 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	满期给付生存确认相关规定	1.0
+bos 我 的 电 话 号 码 换 了 的 要 怎 么 更 改 eos bos 我 的 电 话 号 码 换 了 的 要 怎 么 更	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问变更通讯方式	1.0
+bos bxcp jb 是 不 是 在 保 障 范 围 内 呢 eos bos bxcp jb 是 不 是 在 保 障 范 围 内 呢 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种疾病是否在承保范围内	1.0
+bos 电 话 医 生 服 务 的 电 话 号 码 是 多 少 eos bos 电 话 医 生 服 务 的 电 话 号 码 是 多	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 申 请 定 期 额 外 投 资 需 要 的 材 料 eos bos 申 请 定 期 额 外 投 资 需 要 的 材 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	申请定期额外投资相关规定	1.0
+bos 电 话 验 证 1 8 8 5 2 9 6 1 0 5 0 eos bos 电 话 验 证 1 8 8 5 2 9 6 1	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 电 话 验 证 1 8 6 1 7 1 9 8 7 9 1 eos bos 电 话 验 证 1 8 6 1 7 1 9 8	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos bzxm 航 班 延 误 保 险 索 赔 要 提 供 啥 eos bos bzxm 航 班 延 误 保 险 索 赔 要 提 供 啥 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目如何申请理赔	1.0
+bos 合 同 满 期 后 住 院 还 可 以 申 请 报 销 吗 eos bos 合 同 满 期 后 住 院 还 可 以 申 请	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 理 赔 审 核 中 可 以 先 退 还 病 历 资 料 吗 eos bos 理 赔 审 核 中 可 以 先 退 还 病 历	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 电 话 验 证 1 8 9 4 8 0 4 1 3 8 8 eos bos 电 话 验 证 1 8 9 4 8 0 4 1	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 在 犹 豫 期 阶 段 放 弃 投 保 要 准 备 什 么 eos bos 在 犹 豫 期 阶 段 放 弃 投 保 要 准	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问犹豫期	1.0
+bos 有 社 保 和 没 社 保 的 价 格 会 有 不 同 吗 eos bos 有 社 保 和 没 社 保 的 价 格 会 有	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险费定价	1.0
+bos 犹 豫 期 其 他 保 全 变 更 怎 么 申 请 eos bos 犹 豫 期 其 他 保 全 变 更 怎 么 申 请 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	犹豫期其他保全变更相关规定	1.0
+bos 5 0 岁 客 户 最 高 免 体 检 保 额 是 多 少 eos bos 5 0 岁 客 户 最 高 免 体 检 保 额	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品保额限制	1.0
+bos 中 草 药 费 用 是 属 于 住 院 医 疗 费 用 吗 eos bos 中 草 药 费 用 是 属 于 住 院 医 疗	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos 有 什 么 银 行 可 以 用 a p p 购 买 保 险 eos bos 有 什 么 银 行 可 以 用 a p p 购	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos 变 更 缴 费 方 式 什 么 时 候 可 以 申 请 eos bos 变 更 缴 费 方 式 什 么 时 候 可 以 申	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更缴费方式申请时间	1.0
+bos bxcp 开 门 红 期 间 jbzl 绿 色 就 医 通 道 eos bos bxcp 开 门 红 期 间 jbzl 绿 色 就 医 通 道 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 投 资 账 户 转 换 什 么 时 候 可 以 申 请 eos bos 投 资 账 户 转 换 什 么 时 候 可 以 申	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	投资账户转换申请时间	1.0
+bos jbzl 豁 免 费 用 也 是 一 年 一 年 交 的 吗 eos bos jbzl 豁 免 费 用 也 是 一 年 一 年 交 的	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险费缴纳	1.0
+bos 领 取 生 存 bzxm 什 么 时 候 可 以 申 请 eos bos 领 取 生 存 bzxm 什 么 时 候 可 以 申 请 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	领取生存保险金申请时间	1.0
+bos 生 存 给 付 确 认 什 么 时 候 可 以 申 请 eos bos 生 存 给 付 确 认 什 么 时 候 可 以 申	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	生存给付确认申请时间	1.0
+bos 指 定 第 二 投 保 人 需 要 提 交 的 材 料 eos bos 指 定 第 二 投 保 人 需 要 提 交 的 材	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	指定第二投保人相关规定	1.0
+bos jbzl 申 请 理 赔 需 要 索 赔 申 请 书 吗 eos bos jbzl 申 请 理 赔 需 要 索 赔 申 请 书 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	得了某类疾病怎样申请理赔	1.0
+bos 我 投 保 了 bxcp 就 不 能 投 保 bxcp 了 吗 eos bos 我 投 保 了 bxcp 就 不 能 投 保 bxcp 了 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险是否有购买限制	1.0
+bos fwxm 增 值 服 务 什 么 时 候 可 以 开 始 用 eos bos fwxm 增 值 服 务 什 么 时 候 可 以 开 始	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	增值服务使用时间	1.0
+bos jbzl 可 以 告 诉 我 怎 样 申 请 理 赔 吗 eos bos jbzl 可 以 告 诉 我 怎 样 申 请 理 赔 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	得了某类疾病怎样申请理赔	1.0
+bos 5 岁 小 孩 首 次 投 保 bxcp 保 费 交 多 少 eos bos 5 岁 小 孩 首 次 投 保 bxcp 保 费 交 多	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	特殊人群投保规则	1.0
+bos 中 草 药 费 用 是 属 于 住 院 医 疗 费 用 吗 eos bos 中 草 药 费 用 是 属 于 住 院 医 疗	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品费用与报销	1.0
+bos bxcp 的 缴 费 方 式 有 哪 些 可 以 变 更 吗 eos bos bxcp 的 缴 费 方 式 有 哪 些 可 以 变 更	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问变更缴费方式	1.0
+bos 在 国 外 可 以 使 用 中 信 银 行 a p p 吗 eos bos 在 国 外 可 以 使 用 中 信 银 行 a	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	工具的使用限制	1.0
+bos 月 缴 可 以 支 持 bxcp 变 更 缴 费 方 式 eos bos 月 缴 可 以 支 持 bxcp 变 更 缴 费 方 式 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品变更缴费方式的范围	1.0
+bos 年 缴 可 以 支 持 bxcp 变 更 缴 费 方 式 eos bos 年 缴 可 以 支 持 bxcp 变 更 缴 费 方 式 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品变更缴费方式的范围	1.0
+bos 月 缴 可 以 支 持 bxcp 变 更 通 讯 资 料 eos bos 月 缴 可 以 支 持 bxcp 变 更 通 讯 资 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品变更通讯资料的范围	1.0
+bos 月 缴 可 以 支 持 bxcp 取 消 承 保 条 件 eos bos 月 缴 可 以 支 持 bxcp 取 消 承 保 条 件 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品取消承保条件的范围	1.0
+bos 我 已 经 买 了 一 份 bxzl 了 可 以 在 买 吗 eos bos 我 已 经 买 了 一 份 bxzl 了 可 以 在 买	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险是否有购买限制	1.0
+bos 年 缴 可 以 支 持 bxcp 变 更 通 讯 资 料 eos bos 年 缴 可 以 支 持 bxcp 变 更 通 讯 资 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品变更通讯资料的范围	1.0
+bos 在 给 付 bzxm 的 时 候 有 未 归 还 的 款 项 eos bos 在 给 付 bzxm 的 时 候 有 未 归 还 的 款	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问未归还款项偿还	1.0
+bos 趸 缴 可 以 支 持 bxcp 变 更 通 讯 资 料 eos bos 趸 缴 可 以 支 持 bxcp 变 更 通 讯 资 料 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品变更通讯资料的范围	1.0
+bos 年 缴 可 以 支 持 bxcp 变 更 职 业 等 级 eos bos 年 缴 可 以 支 持 bxcp 变 更 职 业 等 级 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品变更职业等级的范围	1.0
+bos 月 缴 可 以 支 持 bxcp 降 低 主 险 保 额 eos bos 月 缴 可 以 支 持 bxcp 降 低 主 险 保 额 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品降低主险保额的范围	1.0
+bos 月 缴 可 以 支 持 bxcp 变 更 职 业 等 级 eos bos 月 缴 可 以 支 持 bxcp 变 更 职 业 等 级 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品变更职业等级的范围	1.0
+bos 期 缴 可 以 支 持 bxcp 变 更 保 险 计 划 eos bos 期 缴 可 以 支 持 bxcp 变 更 保 险 计 划 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品变更保险计划的范围	1.0
+bos 趸 缴 可 以 支 持 bxcp 银 行 转 账 授 权 eos bos 趸 缴 可 以 支 持 bxcp 银 行 转 账 授 权 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品银行转账授权的范围	1.0
+bos bxcp jb 的 治 疗 费 用 可 以 申 请 bzxm 吗 eos bos bxcp jb 的 治 疗 费 用 可 以 申 请 bzxm 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目如何申请理赔	1.0
+bos 电 话 验 证 ＋ 1 3 9 3 1 1 4 9 7 0 3 eos bos 电 话 验 证 ＋ 1 3 9 3 1 1	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos bzxm 给 了 一 半 后 保 费 还 需 要 缴 吗 eos bos bzxm 给 了 一 半 后 保 费 还 需 要 缴 吗 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目给付一半后的处理方法	1.0
+bos 网 约 车 司 机 投 保 bxcp 有 1 0 倍 保 障 吗 eos bos 网 约 车 司 机 投 保 bxcp 有 1 0 倍	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品保障期限	1.0
+bos 取 消 自 动 扣 费 后 要 怎 么 重 新 授 权 扣 费 eos bos 取 消 自 动 扣 费 后 要 怎 么 重	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 3 0 岁 保 2 0 万 年 交 2 0 年 费 用 多 少 eos bos 3 0 岁 保 2 0 万 年 交 2 0	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问缴费年期	1.0
+bos 变 更 生 存 bzxm 领 取 方 式 要 怎 么 办 eos bos 变 更 生 存 bzxm 领 取 方 式 要 怎 么 办 eos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更生存保险金领取方式相关规定	1.0
+bos 购 买 bxcp 后 可 以 获 得 什 么 增 值 服 务 eos bos 购 买 bxcp 后 可 以 获 得 什 么 增 值 服	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问某产品增值服务项目	1.0
+bos 赔 付 完 毕 后 是 不 是 意 味 着 合 同 终 止 呢 eos bos 赔 付 完 毕 后 是 不 是 意 味 着	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同终止	1.0
+bos 救 护 车 使 用 费 是 属 于 住 院 医 疗 费 用 吗 eos bos 救 护 车 使 用 费 是 属 于 住 院	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	释义项的定义	1.0
+bos bxcp 的 免 赔 额 可 以 通 过 哪 些 途 径 抵 扣 eos bos bxcp 的 免 赔 额 可 以 通 过 哪 些 途	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问免赔额数值	1.0
+bos bxcp 的 bzxm 和 bzxm 是 公 用 一 个 免 赔 额 吗 eos bos bxcp 的 bzxm 和 bzxm 是 公 用 一 个 免 赔 额	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos bzxm 申 请 理 赔 需 要 提 供 什 么 材 料 呢 eos bos bzxm 申 请 理 赔 需 要 提 供 什 么 材 料	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	申请某保障项目所需资料	1.0
+bos bxcp 中 的 身 体 检 查 与 验 尸 是 什 么 意 思 eos bos bxcp 中 的 身 体 检 查 与 验 尸 是 什	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问体检或验尸	1.0
+bos bxcp 如 果 需 要 体 检 体 检 的 项 目 有 那 些 eos bos bxcp 如 果 需 要 体 检 体 检 的 项 目	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问体检或验尸	1.0
+bos 5 类 及 以 上 职 业 人 群 可 以 投 保 bxcp 吗 eos bos 5 类 及 以 上 职 业 人 群 可 以 投	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	投保的职业要求	1.0
+bos jb \ r < d i v > \ n < / d i v > eos bos jb \ r < d i v > \ n <	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病的定义	1.0
+bos jbzl 申 请 理 赔 需 要 提 供 什 么 材 料 呢 eos bos jbzl 申 请 理 赔 需 要 提 供 什 么 材 料	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	得了某类疾病怎样申请理赔	1.0
+bos bxcp 保 单 生 效 后 缴 费 方 式 可 以 改 变 吗 eos bos bxcp 保 单 生 效 后 缴 费 方 式 可 以	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问变更缴费方式	1.0
+bos jbzl 航 班 延 误 险 理 赔 需 要 提 供 什 么 eos bos jbzl 航 班 延 误 险 理 赔 需 要 提 供 什	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	得了某类疾病怎样申请理赔	1.0
+bos 在 线 问 诊 的 使 用 时 间 是 什 么 时 间 段 / eos bos 在 线 问 诊 的 使 用 时 间 是 什	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	增值服务使用时间	1.0
+bos 结 束 保 险 费 缓 缴 期 需 要 提 交 的 材 料 eos bos 结 束 保 险 费 缓 缴 期 需 要 提 交	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	结束保险费缓缴期相关规定	1.0
+bos 投 保 人 的 父 母 患 有 肝 炎 需 要 提 供 证 明 吗 eos bos 投 保 人 的 父 母 患 有 肝 炎	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 申 请 保 单 借 款 后 海 可 以 减 额 缴 清 吗 eos bos 申 请 保 单 借 款 后 海 可 以 减 额	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保单借款 询问减额缴清	1.0
+bos 6 1 周 岁 投 保 bxcp 可 以 选 择 的 缴 费 期 是 eos bos 6 1 周 岁 投 保 bxcp 可 以 选 择	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问缴费年期	1.0
+bos 投 保 bxcp 5 1 周 岁 体 检 需 要 做 哪 些 项 目 eos bos 投 保 bxcp 5 1 周 岁 体 检 需 要	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问体检或验尸	1.0
+bos 遗 传 疾 病 是 在 bxcp 的 除 外 责 任 里 面 吗 eos bos 遗 传 疾 病 是 在 bxcp 的 除 外 责 任	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的责任免除详情	1.0
+bos 健 康 告 知 有 多 发 性 硬 化 病 核 保 能 通 过 吗 eos bos 健 康 告 知 有 多 发 性 硬 化	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问如实告知	1.0
+bos 购 买 bxcp 有 什 么 增 值 服 务 可 以 赠 送 的 eos bos 购 买 bxcp 有 什 么 增 值 服 务 可 以	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问某产品增值服务项目	1.0
+bos 租 赁 车 、 网 约 车 意 外 身 故 或 全 残 赔 多 少 eos bos 租 赁 车 、 网 约 车 意 外 身	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的赔付	1.0
+bos jbzl 申 请 理 赔 需 要 航 班 凭 证 的 原 件 吗 eos bos jbzl 申 请 理 赔 需 要 航 班 凭 证 的	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	得了某类疾病怎样申请理赔	1.0
+bos 投 保 bxcp 赠 送 的 信 享 卡 服 务 时 间 是 多 久 eos bos 投 保 bxcp 赠 送 的 信 享 卡 服 务	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos bxcp 什 么 情 况 下 可 以 申 请 变 更 缴 费 方 式 eos bos bxcp 什 么 情 况 下 可 以 申 请 变	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问变更缴费方式	1.0
+bos fwxm 增 值 服 务 增 值 服 务 有 没 有 次 数 限 制 eos bos fwxm 增 值 服 务 增 值 服 务 有 没	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	增值服务使用次数	1.0
+bos 等 待 期 发 生 意 外 导 致 jb 能 否 赔 偿 eos bos 等 待 期 发 生 意 外 导 致 jb 能 否 赔	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某种疾病是否在承保范围内 询问等待期	1.0
+bos 信 诚 附 加 jbzl 豁 免 保 险 费 bxzl 的 附 加 规 则 eos bos 信 诚 附 加 jbzl 豁 免 保 险 费 bxzl	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问附加险	1.0
+bos bxcp 中 给 付 了 bzxm 合 同 是 不 是 就 终 止 了 呢 eos bos bxcp 中 给 付 了 bzxm 合 同 是 不 是	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合同终止	1.0
+bos 投 保 bxzl 的 保 额 对 未 成 年 人 有 限 额 吗 eos bos 投 保 bxzl 的 保 额 对 未 成 年 人 有	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保额 特殊人群投保限额	1.0
+bos 说 好 了 是 送 电 话 医 生 怎 么 是 给 我 卖 保 险 eos bos 说 好 了 是 送 电 话 医 生 怎	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos bxcp 赠 送 的 增 值 服 务 使 用 时 间 次 数 eos bos bxcp 赠 送 的 增 值 服 务 使 用 时 间 次	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	增值服务使用时间 增值服务使用次数	1.0
+bos 高 发 肿 瘤 基 因 检 测 需 要 自 己 自 费 去 检 查 吗 eos bos 高 发 肿 瘤 基 因 检 测 需	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos bzxm 可 以 告 诉 我 理 赔 都 需 要 什 么 材 料 吗 eos bos bzxm 可 以 告 诉 我 理 赔 都 需 要	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目如何申请理赔	1.0
+bos 健 康 告 知 女 性 有 乳 腺 纤 维 瘤 能 通 过 核 保 吗 eos bos 健 康 告 知 女 性 有 乳 腺	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问如实告知	1.0
+bos 月 缴 可 以 支 持 bxcp 更 改 个 人 身 份 资 料 eos bos 月 缴 可 以 支 持 bxcp 更 改 个 人 身	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品更改个人身份资料的范围	1.0
+bos 健 康 告 知 参 加 武 术 比 赛 活 动 核 保 能 通 过 吗 eos bos 健 康 告 知 参 加 武 术 比	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问如实告知	1.0
+bos 购 买 bxcp 去 到 国 外 发 生 意 外 是 否 可 以 理 赔 eos bos 购 买 bxcp 去 到 国 外 发 生 意	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	理赔的地域限制	1.0
+bos 期 缴 可 以 支 持 bxcp 更 改 个 人 身 份 资 料 eos bos 期 缴 可 以 支 持 bxcp 更 改 个 人 身	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品更改个人身份资料的范围	1.0
+bos bxcp 乘 坐 公 司 （ 单 位 ） 上 下 班 班 车 全 残 eos bos bxcp 乘 坐 公 司 （ 单 位 ） 上 下	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某情景下全残或身故赔偿	1.0
+bos 趸 缴 可 以 支 持 bxcp 更 改 个 人 身 份 资 料 eos bos 趸 缴 可 以 支 持 bxcp 更 改 个 人 身	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险产品更改个人身份资料的范围	1.0
+bos 我 申 请 好 久 了 为 什 么 还 没 有 给 付 我 bzxm 呢 eos bos 我 申 请 好 久 了 为 什 么 还	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险金给付	1.0
+bos jbzl 航 班 延 误 保 险 索 赔 申 请 的 注 意 事 项 eos bos jbzl 航 班 延 误 保 险 索 赔 申 请	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	得了某类疾病怎样申请理赔	1.0
+bos 如 何 获 得 高 发 肿 瘤 基 因 检 测 这 个 增 值 服 务 eos bos 如 何 获 得 高 发 肿 瘤 基	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 乘 坐 公 司 （ 单 位 ） 上 下 班 班 车 qj 怎 么 赔 eos bos 乘 坐 公 司 （ 单 位 ） 上 下	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某情景下全残或身故赔偿	1.0
+bos 所 有 增 值 服 务 是 不 是 随 保 单 的 有 效 而 有 效 eos bos 所 有 增 值 服 务 是 不 是	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务项目	1.0
+bos 公 共 交 通 工 具 qj 或 全 残 按 照 什 么 标 准 赔 付 eos bos 公 共 交 通 工 具 qj 或 全	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的赔付	1.0
+bos bxcp 保 单 借 款 必 须 在 六 个 月 内 归 还 本 息 吗 eos bos bxcp 保 单 借 款 必 须 在 六 个	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保单借款的还款期限	1.0
+bos 电 话 医 生 现 在 怎 么 获 得 跟 之 前 是 一 样 的 吗 eos bos 电 话 医 生 现 在 怎 么 获	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 理 赔 了 bzxm 后 有 幸 活 过 6 个 月 那 后 期 怎 么 办 eos bos 理 赔 了 bzxm 后 有 幸 活 过	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 你 可 以 给 我 介 绍 一 下 都 涵 盖 哪 些 jbzl 保 障 吗 eos bos 你 可 以 给 我 介 绍 一 下	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
+bos 5 0 周 岁 投 保 bxcp 可 以 选 择 的 缴 费 期 有 哪 些 eos bos 5 0 周 岁 投 保 bxcp 可 以	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问缴费年期	1.0
+bos 信 诚 附 加 jbzl 豁 免 保 险 费 bxzl 的 附 加 规 则 eos bos 信 诚 附 加 jbzl 豁 免 保 险 费 bxzl	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问附加险 疾病种类豁免	1.0
+bos 申 请 了 保 单 贷 款 之 后 还 可 以 申 请 减 额 缴 清 嘛 eos bos 申 请 了 保 单 贷 款 之	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问减额缴清	1.0
+bos 你 们 公 司 的 产 品 相 对 其 他 公 司 的 有 什 么 优 势 eos bos 你 们 公 司 的 产 品 相	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问产品优势	1.0
+bos 我 想 咨 询 一 下 申 请 理 赔 需 要 提 前 准 备 什 么 eos bos 我 想 咨 询 一 下 申 请 理	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目如何申请理赔	1.0
+bos jbzl 不 确 定 航 班 延 误 保 险 索 赔 要 提 供 什 么 eos bos jbzl 不 确 定 航 班 延 误 保 险	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	得了某类疾病怎样申请理赔	1.0
+bos 申 请 理 赔 需 要 航 班 取 消 正 式 书 面 证 明 文 件 吗 eos bos 申 请 理 赔 需 要 航 班	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	理赔需要的材料	1.0
+bos 对 bxcp 保 险 事 故 的 通 知 的 时 效 有 什 么 要 求 吗 eos bos 对 bxcp 保 险 事 故 的 通 知	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险事故通知	1.0
+bos fwxm 是 给 被 保 险 人 使 用 的 还 是 给 保 险 人 使 用 eos bos fwxm 是 给 被 保 险 人 使 用	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 投 保 健 康 不 用 填 写 投 保 风 险 偏 好 测 试 问 卷 吧 eos bos 投 保 健 康 不 用 填 写	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问投保书填写	1.0
+bos 给 付 过 什 么 特 别 关 爱 金 没 活 过 六 个 月 怎 么 赔 eos bos 给 付 过 什 么 特 别 关	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险金给付	1.0
+bos 治 疗 i 型 jb 及 其 并 发 症 在 全 国 哪 家 医 院 最 好 eos bos 治 疗 i 型 jb 及 其 并	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问合作医院	1.0
+bos 可 以 介 绍 一 下 你 们 公 司 的 会 员 等 级 和 要 求 吗 eos bos 可 以 介 绍 一 下 你 们	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 保 险 我 就 是 不 怎 么 懂 你 能 给 我 讲 讲 保 险 用 处 吗 eos bos 保 险 我 就 是 不 怎	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	产品介绍	1.0
+bos 3 周 岁 的 小 孩 投 保 bxcp 之 后 患 了 jb 怎 么 赔 eos bos 3 周 岁 的 小 孩 投 保 bxcp 之	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	得了某个疾病怎样申请理赔	1.0
+bos 投 保 bxcp 购 买 地 区 和 理 赔 地 区 不 同 有 影 响 吗 eos bos 投 保 bxcp 购 买 地 区 和 理	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目的理赔方式	1.0
+bos 变 更 生 存 bzxm 领 取 方 式 什 么 时 候 可 以 申 请 eos bos 变 更 生 存 bzxm 领 取 方 式 什	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	变更生存保险金领取方式申请时间	1.0
+bos 购 买 bxcp 发 生 意 外 有 要 求 多 少 天 qj 才 赔 付 bzxm 呢 eos bos 购 买 bxcp 发 生 意 外 有	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	理赔速度	1.0
+bos 申 请 理 赔 需 要 被 保 险 人 本 人 的 银 行 账 户 信 息 吗 eos bos 申 请 理 赔 需 要 被	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	理赔需要的材料	1.0
+bos 保 单 搭 配 有 其 他 附 加 险 在 理 赔 “ bzxm ” 后 eos bos 保 单 搭 配 有 其 他 附 加 险	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问附加险 忘记交保费的解决办法	1.0
+bos 购 买 bxcp 赠 送 的 信 享 卡 服 务 有 效 期 是 多 久 eos bos 购 买 bxcp 赠 送 的 信 享 卡 服	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容 增值服务使用时间	1.0
+bos 电 话 验 证 & n b s p ; 1 3 5 3 8 9 9 0 0 9 4 eos bos 电 话 验 证 & n	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos bzxm 航 班 延 误 保 险 索 赔 一 定 要 提 交 什 么 材 料 呢 eos bos bzxm 航 班 延 误 保 险 索	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目如何申请理赔	1.0
+bos bxcp 非 年 缴 保 费 的 折 算 系 数 是 什 么 客 户 可 如 何 查 询 eos bos bxcp 非 年 缴 保 费	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保费核算	1.0
+bos 在 国 内 购 买 过 保 单 之 后 去 了 国 外 还 能 得 到 理 赔 吗 eos bos 在 国 内 购 买 过	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	理赔的地域限制	1.0
+bos jbzl 航 班 延 误 保 险 索 赔 一 定 要 提 交 什 么 材 料 呢 eos bos jbzl 航 班 延 误 保 险 索	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	得了某类疾病怎样申请理赔	1.0
+bos 假 如 保 单 年 度 底 住 院 了 会 算 入 下 一 个 年 度 的 保 额 吗 eos bos 假 如 保 单 年	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保额规定	1.0
+bos jbzl 申 请 理 赔 需 要 延 误 时 间 正 式 书 面 证 明 文 件 吗 eos bos jbzl 申 请 理 赔 需 要	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	得了某类疾病怎样申请理赔	1.0
+bos 我 们 的 bxzl 在 国 外 医 院 确 诊 后 不 回 国 看 病 能 不 能 理 赔 eos bos 我 们 的 bxzl 在	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	理赔条件	1.0
+bos 之 前 在 其 他 公 司 购 买 过 其 他 产 品 现 在 买 bxcp 有 冲 突 吗 eos bos 之 前 在 其 他	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保险是否有购买限制	1.0
+bos bxcp 我 现 在 有 一 张 保 单 需 要 办 理 抵 押 贷 款 请 告 知 我 流 程 eos bos bxcp 我 现 在	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保单借款	1.0
+bos 尊 尚 会 员 年 化 保 费 达 到 5 - 1 0 万 享 受 jbzl 绿 色 就 医 通 道 eos bos 尊 尚 会	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 开 门 红 期 间 享 受 的 jbzl 绿 色 就 医 通 道 服 务 跟 之 前 的 有 冲 突 eos bos 开 门 红	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 入 住 重 症 监 护 室 后 除 了 床 位 费 其 他 的 器 械 治 疗 费 用 能 包 吗 eos bos 入 住	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	疾病种类治疗费用	1.0
+bos bzxm 申 请 理 赔 需 要 授 权 委 托 书 原 件 受 托 人 的 身 份 证 明 等 吗 eos bos bzxm 申 请	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目如何申请理赔	1.0
+bos 客 户 申 领 bzxm 时 除 了 常 规 理 赔 资 料 外 还 需 提 供 哪 些 特 殊 资 料 eos bos 客 户	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	理赔需要的材料	1.0
+bos jbzl 申 请 理 赔 需 要 授 权 委 托 书 原 件 受 托 人 的 身 份 证 明 等 吗 eos bos jbzl 申 请	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	得了某类疾病怎样申请理赔	1.0
+bos 中 途 新 增 附 加 bxcp 提 前 给 付 特 定 bxzl 时 有 什 么 要 满 足 什 么 条 件 eos bos 中 途	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险金给付	1.0
+bos 得 了 jbzl 豁 免 保 费 了 之 后 保 单 还 有 现 金 价 值 吗 还 可 以 保 单 贷 款 吗 eos bos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	other	1.0
+bos 若 客 户 因 全 残 赔 付 了 bxcp 的 “ bzxm ” 请 问 理 赔 后 保 单 还 是 否 有 效 eos bos 若	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	某情景下全残或身故赔偿	1.0
+bos bzxm 申 请 理 赔 需 要 授 权 委 托 书 原 件 委 托 人 和 受 托 人 的 身 份 证 明 吗 eos bos	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	保障项目如何申请理赔	1.0
+bos bxcp 赠 送 的 信 享 卡 增 值 服 务 保 单 生 效 后 客 户 会 收 到 相 应 的 介 绍 资 料 吗	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 同 个 保 险 事 故 bxcp 是 否 会 出 现 多 项 bzxm 同 时 赔 付 （ 例 如 ： 自 驾 车 意 外 qj	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	不同保障项目的重复理赔	1.0
+bos 高 发 肿 瘤 基 因 检 测 的 使 用 时 间 是 犹 豫 期 后 起 两 年 内 使 用 一 次 承 保 后	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问增值服务内容	1.0
+bos 若 客 户 因 全 残 赔 付 了 bxcp 的 “ bzxm ” 请 问 理 赔 后 保 单 还 是 否 有 效 客 户 是	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o	询问保险责任	1.0
